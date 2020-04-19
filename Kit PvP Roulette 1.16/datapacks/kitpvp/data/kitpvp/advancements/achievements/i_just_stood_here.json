@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"But I was in my prime..."},
+		"description": {"text":"Die at the 37th second of round."},
+		"icon": {
+			"item": "minecraft:wither_rose"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/theres_a_game_you_should_probably_focus_on",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

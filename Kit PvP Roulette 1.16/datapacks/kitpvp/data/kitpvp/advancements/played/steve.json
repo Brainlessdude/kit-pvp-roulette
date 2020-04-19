@@ -1,0 +1,18 @@
+{
+	"display": {
+		"title": {"text":"Steve"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/geocraftz",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

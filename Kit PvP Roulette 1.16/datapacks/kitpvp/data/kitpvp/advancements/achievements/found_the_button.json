@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Found the button"},
+		"description": {"text":"Find the button."},
+		"icon": {
+			"item": "minecraft:birch_button"
+		},
+		"frame": "challenge"
+	},
+	"parent": "kitpvp:achievements/biggest_meanie_award",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

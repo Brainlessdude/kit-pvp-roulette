@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"bronbot"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-1517996153,-1193260904,-1796561857,-57492252],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmExMmQ4MjU3MDQ0NzJkYWQ3MmQ4MGRiYmY1MzEwYTE1ZWEwOTVhNzM5NWE5ZjA0MmI4ZGEzYWVmNmQ1MWI0NSJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/sun_seeker",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

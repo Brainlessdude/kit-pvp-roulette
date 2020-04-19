@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"No, wait, don't do that"},
+		"description": {"text":"Drop your shield during battle."},
+		"icon": {
+			"item": "minecraft:shield"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/did_you_just_hide_or_something",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

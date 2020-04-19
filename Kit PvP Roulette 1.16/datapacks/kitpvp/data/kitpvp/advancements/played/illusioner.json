@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Illusioner"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-570370538,-1589293449,-1795910559,697828723],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2Y0MjM1MjI1NDcyNWNiNGJiYzEyNTAxMzRmODEwZjdmZTA0ZDVkNWRlMzcyNGMyNWZkZGVlYTZmMjEifX19\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/sheep",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

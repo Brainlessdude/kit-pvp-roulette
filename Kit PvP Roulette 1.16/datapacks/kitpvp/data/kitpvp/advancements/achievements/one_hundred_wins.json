@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"...I was serious"},
+		"description": {"text":"Win 100 rounds."},
+		"icon": {
+			"item": "minecraft:trident"
+		},
+		"frame": "challenge"
+	},
+	"parent": "kitpvp:achievements/fifty_wins",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

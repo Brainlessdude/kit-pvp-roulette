@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Spongebob"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-131259504,-1472246019,-1376523915,1812299047],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzI2ZGQ1YjdiNmU3M2E3OGMzMmU0OTBhMmIwMmExMjUwYmQ4ZDQ3N2ZiYmQ1YmVhN2VhZDNhYzQ5ZWIwOGEifX19\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/kingkrool",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

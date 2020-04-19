@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Kit + Arena pairings"},
+		"description": {"text":"Isn't it nice when you play as a character on the stage they're from? Here's a list of pairings you can try and do."},
+		"icon": {
+			"item": "minecraft:gold_block"
+		},
+		"background": "minecraft:textures/block/gold_block.png",
+		"frame": "goal"
+	},
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Did you just hide or something"},
+		"description": {"text":"Win a round without taking damage."},
+		"icon": {
+			"item": "minecraft:red_stained_glass"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/earn_a_secret",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

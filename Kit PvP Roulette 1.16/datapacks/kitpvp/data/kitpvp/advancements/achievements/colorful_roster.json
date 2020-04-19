@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"E x p a n d e d"},
+		"description": {"text":"Play a round where everyone is Donkey Kong."},
+		"icon": {
+			"item": "minecraft:barrel"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/i_just_stood_here",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

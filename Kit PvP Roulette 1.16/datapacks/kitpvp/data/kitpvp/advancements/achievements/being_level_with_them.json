@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Being level with them"},
+		"description": {"text":"Win a round without looking more than 30 degrees up or down (Starting when you teleport to the arena)"},
+		"icon": {
+			"item": "minecraft:player_head"
+		},
+		"frame": "challenge"
+	},
+	"parent": "kitpvp:achievements/no_wait_dont_do_that",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

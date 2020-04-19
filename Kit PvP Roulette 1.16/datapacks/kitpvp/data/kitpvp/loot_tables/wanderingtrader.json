@@ -1,0 +1,138 @@
+{
+  "pools": [
+    {
+      "rolls": {
+		"min": 3,
+		"max": 4
+	  },
+      "entries": [
+				{
+				  "type": "item",
+				  "name": "minecraft:brain_coral_block",
+				  "weight": 1,
+				  "functions": [
+					{
+					  "function": "set_nbt",
+					  "tag": "{display:{Name:\"{\\\"text\\\":\\\"Brain Coral Block\\\",\\\"color\\\":\\\"white\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"-From the wandering trader\\\"\"]}}"
+					},
+					{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1,
+							"max": 3
+							}
+					}
+				  ]
+				},
+				{
+				  "type": "item",
+				  "name": "minecraft:packed_ice",
+				  "weight": 1,
+				  "functions": [
+					{
+					  "function": "set_nbt",
+					  "tag": "{display:{Name:\"{\\\"text\\\":\\\"Packed Ice\\\",\\\"color\\\":\\\"white\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"-From the wandering trader\\\"\"]}}"
+					},
+					{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1,
+							"max": 3
+							}
+					}
+				  ]
+				},
+				{
+				  "type": "item",
+				  "name": "minecraft:lime_dye",
+				  "weight": 1,
+				  "functions": [
+					{
+					  "function": "set_nbt",
+					  "tag": "{display:{Name:\"{\\\"text\\\":\\\"Lime Dye\\\",\\\"color\\\":\\\"white\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"-From the wandering trader\\\"\"]}}"
+					},
+					{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1,
+							"max": 3
+							}
+					}
+				  ]
+				},
+				{
+				  "type": "item",
+				  "name": "minecraft:cactus",
+				  "weight": 1,
+				  "functions": [
+					{
+					  "function": "set_nbt",
+					  "tag": "{display:{Name:\"{\\\"text\\\":\\\"Cactus\\\",\\\"color\\\":\\\"white\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"-From the wandering trader\\\"\"]}}"
+					},
+					{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1,
+							"max": 3
+							}
+					}
+				  ]
+				},
+				{
+				  "type": "item",
+				  "name": "minecraft:sea_pickle",
+				  "weight": 1,
+				  "functions": [
+					{
+					  "function": "set_nbt",
+					  "tag": "{display:{Name:\"{\\\"text\\\":\\\"Sea Pickle\\\",\\\"color\\\":\\\"white\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"-From the wandering trader\\\"\"]}}"
+					},
+					{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1,
+							"max": 3
+							}
+					}
+				  ]
+				},
+				{
+				  "type": "item",
+				  "name": "minecraft:pumpkin_seeds",
+				  "weight": 1,
+				  "functions": [
+					{
+					  "function": "set_nbt",
+					  "tag": "{display:{Name:\"{\\\"text\\\":\\\"Pumpkin Seeds\\\",\\\"color\\\":\\\"white\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"-From the wandering trader\\\"\"]}}"
+					},
+					{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1,
+							"max": 3
+							}
+					}
+				  ]
+				},
+				{
+				  "type": "item",
+				  "name": "minecraft:pink_tulip",
+				  "weight": 1,
+				  "functions": [
+					{
+					  "function": "set_nbt",
+					  "tag": "{display:{Name:\"{\\\"text\\\":\\\"Pink Tulip\\\",\\\"color\\\":\\\"white\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"-From the wandering trader\\\"\"]}}"
+					},
+					{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1,
+							"max": 3
+							}
+					}
+				  ]
+				}
+			]
+		}
+	]
+}

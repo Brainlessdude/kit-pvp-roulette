@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"BIGGEST MEANIE AWARD"},
+		"description": {"text":"Take one of my flowers out of their pots like the monster you are."},
+		"icon": {
+			"item": "minecraft:azure_bluet"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/super_hot",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

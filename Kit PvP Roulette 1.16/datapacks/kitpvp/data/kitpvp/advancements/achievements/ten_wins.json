@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Knowing the ins and outs"},
+		"description": {"text":"Win 10 rounds."},
+		"icon": {
+			"item": "minecraft:iron_sword"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/five_wins",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

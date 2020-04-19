@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"once told me"},
+		"description": {"text":"the world is gonna roll me"},
+		"icon": {
+			"item": "minecraft:lily_pad"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/colorful_roster",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

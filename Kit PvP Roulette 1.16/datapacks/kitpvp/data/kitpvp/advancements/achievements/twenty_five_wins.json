@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"A notable amount of dedication"},
+		"description": {"text":"Win 25 rounds."},
+		"icon": {
+			"item": "minecraft:golden_sword"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/ten_wins",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

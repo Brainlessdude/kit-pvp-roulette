@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":""},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": ""
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

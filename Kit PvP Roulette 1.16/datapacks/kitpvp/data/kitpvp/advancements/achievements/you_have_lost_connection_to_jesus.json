@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Hey, good job"},
+		"description": {"text":"Win your first round."},
+		"icon": {
+			"item": "minecraft:wooden_sword"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/root",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

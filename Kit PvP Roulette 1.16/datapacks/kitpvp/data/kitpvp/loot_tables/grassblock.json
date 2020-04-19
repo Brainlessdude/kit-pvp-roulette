@@ -1,0 +1,97 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+				{
+				  "type": "item",
+				  "name": "minecraft:grass",
+				  "weight": 50,
+				  "functions": [
+					{
+					  "function": "set_nbt",
+					  "tag": "{display:{Name:\"{\\\"text\\\":\\\"Grass\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"This won't help...\\\"\",\"\\\"I guess you could still\\\"\",\"\\\"attack with it, though.\\\"\"]}}"
+					}
+				  ]
+				},
+				{
+				  "type": "item",
+				  "name": "minecraft:dandelion",
+				  "weight": 20,
+				  "functions": [
+					{
+					  "function": "set_nbt",
+					  "tag": "{Enchantments:[{id:sharpness,lvl:3}],display:{Name:\"{\\\"text\\\":\\\"Dandelion\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"Deal some damage!\\\"\",\"\\\"Will dissapear after use.\\\"\"]}}"
+					}
+				  ]
+				},
+				{
+				  "type": "item",
+				  "name": "minecraft:poppy",
+				  "weight": 8,
+				  "functions": [
+					{
+					  "function": "set_nbt",
+					  "tag": "{Enchantments:[{id:fire_aspect,lvl:1}],display:{Name:\"{\\\"text\\\":\\\"Poppy\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"Make some fire!\\\"\",\"\\\"Will dissapear after use.\\\"\"]}}"
+					}
+				  ]
+				},
+				{
+				  "type": "item",
+				  "name": "minecraft:allium",
+				  "weight": 8,
+				  "functions": [
+					{
+					  "function": "set_nbt",
+					  "tag": "{Enchantments:[{id:knockback,lvl:2}],display:{Name:\"{\\\"text\\\":\\\"Allium\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"Send them flying!\\\"\",\"\\\"Will dissapear after use.\\\"\"]}}"
+					}
+				  ]
+				},
+				{
+				  "type": "item",
+				  "name": "minecraft:cornflower",
+				  "weight": 4,
+				  "functions": [
+					{
+					  "function": "set_nbt",
+					  "tag": "{display:{Name:\"{\\\"text\\\":\\\"Cornflower\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"Attacking with this will heal you!\\\"\",\"\\\"Will dissapear after use.\\\"\"]}}"
+					}
+				  ]
+				},
+				{
+				  "type": "item",
+				  "name": "minecraft:oxeye_daisy",
+				  "weight": 5,
+				  "functions": [
+					{
+					  "function": "set_nbt",
+					  "tag": "{display:{Name:\"{\\\"text\\\":\\\"Oxeye Daisy\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"Attacking with this will\\\"\",\"\\\"give you speed for a bit!\\\"\",\"\\\"Will dissapear after use.\\\"\"]}}"
+					}
+				  ]
+				},
+				{
+				  "type": "item",
+				  "name": "minecraft:orange_tulip",
+				  "weight": 2,
+				  "functions": [
+					{
+					  "function": "set_nbt",
+					  "tag": "{display:{Name:\"{\\\"text\\\":\\\"Orange Tulip\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"Attacking with this will make the opponent\\\"\",\"\\\"look directly upwards!\\\"\",\"\\\"Will dissapear after use.\\\"\"]}}"
+					}
+				  ]
+				},
+				{
+				  "type": "item",
+				  "name": "minecraft:wither_rose",
+				  "weight": 3,
+				  "functions": [
+					{
+					  "function": "set_nbt",
+					  "tag": "{display:{Name:\"{\\\"text\\\":\\\"Wither Rose\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"Attacking with this will cause everyone\\\"\",\"\\\"around you to gain wither!\\\"\",\"\\\"Will dissapear after use.\\\"\"]}}"
+					}
+				  ]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"I DESPISE SUMMONING KITS.","bold":true,"italic":true},
+		"description": {"text":"Kill 1,000 total mobs.","bold":false,"italic":false},
+		"icon": {
+			"item": "minecraft:chicken"
+		},
+		"frame": "challenge"
+	},
+	"parent": "kitpvp:achievements/dumbest_way_to_die",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

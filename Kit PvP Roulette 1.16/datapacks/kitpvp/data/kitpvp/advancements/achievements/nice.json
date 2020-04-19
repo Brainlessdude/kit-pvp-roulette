@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Nice"},
+		"description": {"text":"Have both of your rotation values be 69."},
+		"icon": {
+			"item": "minecraft:lead"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/are_there_a_thousand_people_or_something",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

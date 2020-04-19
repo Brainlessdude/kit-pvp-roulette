@@ -1,0 +1,395 @@
+{
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2019-05-12 14:20:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2019-05-12 14:01:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2019-05-12 14:16:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:wither_skeleton": "2019-05-12 14:33:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2019-05-12 15:41:50 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/are_there_a_thousand_people_or_something": {
+    "criteria": {
+      "welcome": "2019-05-12 15:32:46 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/five_wins": {
+    "criteria": {
+      "welcome": "2019-05-12 15:07:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-05-12 15:41:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2019-05-12 15:06:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2019-05-12 14:14:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2019-05-12 15:00:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2019-05-12 14:14:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2019-05-12 14:16:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2019-05-12 14:16:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2019-05-12 14:16:36 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/1display": {
+    "criteria": {
+      "welcome": "2019-05-12 13:57:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2019-05-12 15:08:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2019-05-12 14:16:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2019-05-12 14:01:12 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/3display": {
+    "criteria": {
+      "welcome": "2019-05-12 13:57:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-05-12 14:15:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-05-12 14:14:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2019-05-12 15:37:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2019-05-12 14:16:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2019-05-12 14:14:52 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/you_have_lost_connection_to_jesus": {
+    "criteria": {
+      "welcome": "2019-05-12 14:18:09 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/i_didnt_want_to_play_anyways": {
+    "criteria": {
+      "welcome": "2019-05-12 14:40:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2019-05-12 15:11:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2019-05-12 14:15:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2019-05-12 14:14:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2019-05-12 15:10:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-05-12 14:14:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2019-05-12 14:14:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2019-05-12 14:18:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2019-05-12 14:16:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2019-05-12 14:34:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2019-05-12 14:16:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2019-05-12 14:14:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_at_least_9_dried_kelp": "2019-05-12 14:45:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2019-05-12 14:50:33 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/root": {
+    "criteria": {
+      "welcome": "2019-05-12 13:57:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_at_least_9_dried_kelp": "2019-05-12 14:45:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2019-05-12 15:09:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:slime": "2019-05-12 15:05:20 -0500",
+      "minecraft:wither_skeleton": "2019-05-12 14:33:57 -0500",
+      "minecraft:cave_spider": "2019-05-12 15:30:37 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2019-05-12 15:00:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2019-05-12 14:26:48 -0500",
+      "porkchop": "2019-05-12 14:01:12 -0500",
+      "beetroot_soup": "2019-05-12 15:09:12 -0500",
+      "bread": "2019-05-12 15:10:56 -0500",
+      "cookie": "2019-05-12 15:03:08 -0500",
+      "rotten_flesh": "2019-05-12 14:33:43 -0500",
+      "dried_kelp": "2019-05-12 14:47:50 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2019-05-12 14:16:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2019-05-12 14:20:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2019-05-12 14:58:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2019-05-12 15:35:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_yellow_dye": "2019-05-12 15:06:38 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/the_worst_time": {
+    "criteria": {
+      "welcome": "2019-05-12 15:35:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2019-05-12 14:18:26 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/4display": {
+    "criteria": {
+      "welcome": "2019-05-12 13:57:58 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/2display": {
+    "criteria": {
+      "welcome": "2019-05-12 13:57:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2019-05-12 15:06:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2019-05-12 14:16:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2019-05-12 14:14:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2019-05-12 14:03:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2019-05-12 15:00:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2019-05-12 14:01:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2019-05-12 14:23:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2019-05-12 14:01:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2019-05-12 15:41:50 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 1952
+}

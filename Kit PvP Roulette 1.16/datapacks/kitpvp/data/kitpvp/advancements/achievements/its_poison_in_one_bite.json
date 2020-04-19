@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"It's poison in one bite"},
+		"description": {"text":"Eat a spider eye."},
+		"icon": {
+			"item": "minecraft:spider_eye"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/i_didnt_want_to_play_anyways",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

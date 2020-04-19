@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"More achievements coming soon!"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:barrier"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/was_there_not_your_favorite_color",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

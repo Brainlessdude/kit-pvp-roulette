@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Maxminer789"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;917503160,642665602,-2143666341,-1188920742],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2RjMWI5YjYwNzFjNDFlMDAwZGM2YjEzMTdmZGE0NDI4OWU1NTE3NTZiYmVjOWEwMGVmOGM2MWU1Y2Y0Yzg2In19fQ==\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/silentnothing",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

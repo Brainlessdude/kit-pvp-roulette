@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"I didn't want to play anyways"},
+		"description": {"text":"Die in the first 10 seconds of a round."},
+		"icon": {
+			"item": "minecraft:dead_bush"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/root",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

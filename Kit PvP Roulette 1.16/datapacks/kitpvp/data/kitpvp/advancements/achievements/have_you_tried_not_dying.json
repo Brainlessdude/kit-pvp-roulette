@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Have you tried... not dying?"},
+		"description": {"text":"Die 100 times."},
+		"icon": {
+			"item": "minecraft:wither_skeleton_skull"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/hey_youre_pretty_good",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

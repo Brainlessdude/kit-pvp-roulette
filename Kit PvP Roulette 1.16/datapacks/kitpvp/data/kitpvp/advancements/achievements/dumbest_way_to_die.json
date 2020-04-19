@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Dumbest way to die"},
+		"description": {"text":"Drown."},
+		"icon": {
+			"item": "minecraft:water_bucket"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/hope_it_was_worth_it",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

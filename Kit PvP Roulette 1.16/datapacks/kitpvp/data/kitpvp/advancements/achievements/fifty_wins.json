@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Alright, go play something else"},
+		"description": {"text":"Win 50 rounds."},
+		"icon": {
+			"item": "minecraft:diamond_sword"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/twenty_five_wins",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

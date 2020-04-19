@@ -1,0 +1,18 @@
+{
+	"display": {
+		"title": {"text":"Zombie"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:zombie_head"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/creeper",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

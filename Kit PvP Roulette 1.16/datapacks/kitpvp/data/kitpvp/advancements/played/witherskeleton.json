@@ -1,0 +1,18 @@
+{
+	"display": {
+		"title": {"text":"Wither Skeleton"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:wither_skeleton_skull"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/chicken",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

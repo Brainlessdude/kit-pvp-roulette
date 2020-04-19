@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"You should focus on the game..."},
+		"description": {"text":"Hit a bell 30 times in one round."},
+		"icon": {
+			"item": "minecraft:bell"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/the_worst_time",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

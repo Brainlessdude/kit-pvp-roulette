@@ -1,0 +1,366 @@
+{
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2019-06-04 19:56:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2019-06-04 19:39:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2019-06-04 20:17:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2019-06-04 19:41:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2019-06-04 19:39:33 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/are_there_a_thousand_people_or_something": {
+    "criteria": {
+      "welcome": "2019-06-04 20:08:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-06-04 19:39:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2019-06-04 19:32:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2019-06-04 20:02:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2019-06-04 20:17:05 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/being_level_with_them": {
+    "criteria": {
+      "welcome": "2019-06-04 19:41:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-06-04 20:30:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2019-06-04 19:39:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2019-06-04 19:39:33 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/1display": {
+    "criteria": {
+      "welcome": "2019-06-04 19:25:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2019-06-04 19:56:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2019-06-04 19:39:33 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/3display": {
+    "criteria": {
+      "welcome": "2019-06-04 19:25:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-06-04 19:52:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-06-04 19:32:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2019-06-04 19:39:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2019-06-04 20:31:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2019-06-04 19:32:01 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/you_have_lost_connection_to_jesus": {
+    "criteria": {
+      "welcome": "2019-06-04 19:41:57 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/i_didnt_want_to_play_anyways": {
+    "criteria": {
+      "welcome": "2019-06-04 19:36:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2019-06-04 20:17:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2019-06-04 19:32:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2019-06-04 20:13:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-06-04 19:53:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2019-06-04 19:32:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2019-06-04 20:19:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2019-06-04 19:39:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2019-06-04 20:17:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2019-06-04 19:33:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2019-06-04 19:52:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2019-06-04 19:32:01 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/root": {
+    "criteria": {
+      "welcome": "2019-06-04 19:25:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2019-06-04 20:21:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2019-06-04 19:41:33 -0500",
+      "minecraft:slime": "2019-06-04 20:11:36 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2019-06-04 19:46:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2019-06-04 19:34:04 -0500",
+      "suspicious_stew": "2019-06-04 20:21:16 -0500",
+      "golden_carrot": "2019-06-04 19:28:35 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2019-06-04 19:39:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2019-06-04 19:46:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2019-06-04 19:56:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2019-06-04 20:11:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2019-06-04 19:35:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_yellow_dye": "2019-06-04 19:32:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-06-04 20:30:07 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/the_worst_time": {
+    "criteria": {
+      "welcome": "2019-06-04 19:36:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2019-06-04 20:19:41 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/4display": {
+    "criteria": {
+      "welcome": "2019-06-04 19:25:55 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/2display": {
+    "criteria": {
+      "welcome": "2019-06-04 19:25:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2019-06-04 19:32:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2019-06-04 19:39:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2019-06-04 19:32:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2019-06-04 20:25:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2019-06-04 20:30:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2019-06-04 20:17:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2019-06-04 19:39:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2019-06-04 20:17:05 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 1963
+}

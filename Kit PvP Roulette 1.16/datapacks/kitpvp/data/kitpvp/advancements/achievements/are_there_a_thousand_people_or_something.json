@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Can we just move on already?"},
+		"description": {"text":"Have a round go on for 5 minutes."},
+		"icon": {
+			"item": "minecraft:clock"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/everyone_died_the_end",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

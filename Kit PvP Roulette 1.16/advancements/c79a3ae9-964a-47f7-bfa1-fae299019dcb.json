@@ -1,0 +1,254 @@
+{
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2019-10-28 19:53:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2019-10-28 19:49:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2019-10-28 19:55:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2019-10-28 19:29:36 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/root": {
+    "criteria": {
+      "welcome": "2019-10-28 19:19:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2019-10-28 19:55:07 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/five_wins": {
+    "criteria": {
+      "welcome": "2019-10-28 19:57:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2019-10-28 19:29:52 -0500"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-10-28 19:55:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2019-10-28 19:52:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2019-10-28 19:42:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2019-10-28 19:42:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2019-10-28 19:53:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2019-10-28 19:19:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/tabby.png": "2019-10-28 19:44:07 -0500",
+      "textures/entity/cat/white.png": "2019-10-28 19:44:06 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2019-10-28 19:50:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2019-10-28 19:27:38 -0500",
+      "minecraft:taiga_hills": "2019-10-28 19:46:24 -0500",
+      "minecraft:desert": "2019-10-28 19:32:18 -0500",
+      "minecraft:dark_forest": "2019-10-28 19:46:41 -0500",
+      "minecraft:snowy_taiga": "2019-10-28 19:32:25 -0500"
+    },
+    "done": false
+  },
+  "kitpvp:achievements/being_level_with_them": {
+    "criteria": {
+      "welcome": "2019-10-28 20:01:39 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/did_you_just_hide_or_something": {
+    "criteria": {
+      "welcome": "2019-10-28 19:57:24 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/1display": {
+    "criteria": {
+      "welcome": "2019-10-28 19:19:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2019-10-28 19:19:27 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/3display": {
+    "criteria": {
+      "welcome": "2019-10-28 19:19:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-10-28 19:32:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2019-10-28 19:42:38 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/the_worst_time": {
+    "criteria": {
+      "welcome": "2019-10-28 19:27:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-10-28 19:29:36 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/4display": {
+    "criteria": {
+      "welcome": "2019-10-28 19:19:10 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/2display": {
+    "criteria": {
+      "welcome": "2019-10-28 19:19:10 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/hope_it_was_worth_it": {
+    "criteria": {
+      "welcome": "2019-10-28 19:44:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2019-10-28 19:57:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2019-10-28 19:29:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2019-10-28 19:29:36 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/you_have_lost_connection_to_jesus": {
+    "criteria": {
+      "welcome": "2019-10-28 19:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2019-10-28 19:42:38 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/i_didnt_want_to_play_anyways": {
+    "criteria": {
+      "welcome": "2019-10-28 19:46:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2019-10-28 19:53:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2019-10-28 19:29:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-10-28 19:52:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2019-10-28 19:29:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2019-10-28 19:55:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2019-10-28 19:32:54 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 2212
+}

@@ -1,0 +1,97 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Enchantments:[{id:knockback,lvl:2}],display:{Name:\"{\\\"text\\\":\\\"Letter I\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"Drop to guess a new letter.\\\"\"]},SkullOwner:{Id:\"05f5c4c3-7a37-4893-bad5-9318991a1cb0\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWM5OWRmYjI3MDRlMWJkNmU3ZmFjZmI0M2IzZTZmYmFiYWYxNmViYzdlMWZhYjA3NDE3YTZjNDY0ZTFkIn19fQ==\"}]}}}"
+            }
+          ]
+        },
+		{
+          "type": "item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Enchantments:[{id:fire_aspect,lvl:2}],display:{Name:\"{\\\"text\\\":\\\"Letter A\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"Drop to guess a new letter.\\\"\"]},SkullOwner:{Id:\"5a48a074-296f-42c0-b6f2-02de0a5828e2\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGU0MTc0ODEyMTYyNmYyMmFlMTZhNGM2NjRjNzMwMWE5ZjhlYTU5MWJmNGQyOTg4ODk1NzY4MmE5ZmRhZiJ9fX0=\"}]}}}"
+            }
+          ]
+        },
+		{
+          "type": "item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Enchantments:[{id:sharpness,lvl:1},{id:fire_aspect,lvl:1}],display:{Name:\"{\\\"text\\\":\\\"Letter E\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"Drop to guess a new letter.\\\"\"]},SkullOwner:{Id:\"40777fac-0c0e-44e5-85e9-5cad15e0bfff\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWFlZWY4OGUyYzkyOGI0NjZjNmVkNWRlYWE0ZTE5NzVhOTQzNmMyYjFiNDk4ZjlmN2NiZjkyYTliNTk5YTYifX19\"}]}}}"
+            }
+          ]
+        },
+		{
+          "type": "item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Enchantments:[{id:sharpness,lvl:1},{id:knockback,lvl:1}],display:{Name:\"{\\\"text\\\":\\\"Letter L\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"Drop to guess a new letter.\\\"\"]},SkullOwner:{Id:\"e23fdeb8-791b-4a51-9f93-68280470adc3\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDRhZmZhNDU1YjdmNTgyMTdkZThhY2JiZDkyMDFjOWVhODdjMTM0YWEzNTYyNTQ5NGY1ZDNmNjVjZTk0NiJ9fX0=\"}]}}}"
+            }
+          ]
+        },
+		{
+          "type": "item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Enchantments:[{id:fire_aspect,lvl:1},{id:knockback,lvl:1}],display:{Name:\"{\\\"text\\\":\\\"Letter N\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"Drop to guess a new letter.\\\"\"]},SkullOwner:{Id:\"acf1430e-5b8f-4468-96f4-69d3591eb59b\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGEyMjFlNGY5NmJlZTYyNjE3NTIzOTZhMzI2NWZmYTRkZWRmOGZmNDgzOWFiZDE0ZjQ5ZWRlZTFlNTMwOTIifX19\"}]}}}"
+            }
+          ]
+        },
+		{
+          "type": "item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Letter O\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"Aw, nothing...\\\"\",\"\\\"Drop to guess a new letter.\\\"\"]},SkullOwner:{Id:\"9299a92b-b0e4-4386-9dce-0566c74a3ebf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2JiMWQxN2NlYmM1ZjBlY2M5ODdiODBlZmMwM2UzMmVjYjFjYjQwZGJjNWJjZTJmYWYzZTYwNTQyYTQwIn19fQ==\"}]}}}"
+            }
+          ]
+        },
+		{
+          "type": "item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Letter R\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"Aw, nothing...\\\"\",\"\\\"Drop to guess a new letter.\\\"\"]},SkullOwner:{Id:\"29d15adf-36c8-4b19-89a6-1aeff5e8331a\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzhhODFlZmRhZTQ3YmNiNDgwYTI1ZWQ5MWZmNmRlOTc3MmIwN2FlODdjM2M0ZTI3NzcwNWFiYmJkMzQxOSJ9fX0=\"}]}}}"
+            }
+          ]
+        },
+		{
+          "type": "item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Letter X\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":\\\"false\\\"}\",Lore:[\"\\\"...Wait, why did you guess that?\\\"\",\"\\\"Drop to guess a new letter.\\\"\"]},SkullOwner:{Id:\"0ba39a4c-083f-4943-a9e3-4dcd5f6f7bf3\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWQxYTNjOTY1NjIzNDg1MjdkNTc5OGYyOTE2MDkyODFmNzJlMTZkNjExZjFhNzZjMGZhN2FiZTA0MzY2NSJ9fX0=\"}]}}}"
+            }
+          ]
+        }
+		]
+		}
+	]
+}

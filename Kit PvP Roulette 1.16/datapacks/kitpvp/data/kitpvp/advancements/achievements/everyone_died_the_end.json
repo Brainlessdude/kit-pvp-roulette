@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Everyone died! The end."},
+		"description": {"text":"Have a tie game."},
+		"icon": {
+			"item": "minecraft:black_concrete"
+		},
+		"frame": "challenge"
+	},
+	"parent": "kitpvp:achievements/what_did_it_cost_everything",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

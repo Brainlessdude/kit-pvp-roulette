@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Doin' pretty well"},
+		"description": {"text":"Win 5 rounds."},
+		"icon": {
+			"item": "minecraft:stone_sword"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/you_have_lost_connection_to_jesus",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

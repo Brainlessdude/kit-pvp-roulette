@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Welcome to Kit PvP Roulette!"},
+		"description": {"text":"You have a lot to discover."},
+		"icon": {
+			"item": "minecraft:chiseled_quartz_block"
+		},
+		"background": "minecraft:textures/block/quartz_block_side.png",
+		"frame": "goal"
+	},
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}
