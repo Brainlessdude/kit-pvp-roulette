@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Isabelle"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-1685606853,-912176798,-2076720419,-435073584],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFlM2U1YzcyZDg0NDlhOTQ4MmU3ZmU0ZmQxMTFiMWU3N2Y1OWZlZDg1YTQ3MGViNWNlYWY1OTlkYjI5ODUifX19\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/bob",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"display": {
+		"title": {"text":"EarnARigby"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-2024359351,-548582564,-2104746747,-2144058663],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWI0MDM5NjlhNzAwNGU4M2E5MjNiODExMDgyYzI3NGQ3Yzk5ZGQ0Nzc5YjQwNTgyYThhYjhjYjY1OGQzZDRmMSJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "challenge",
+		"hidden": true
+	},
+	"parent": "kitpvp:played/warterror15",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

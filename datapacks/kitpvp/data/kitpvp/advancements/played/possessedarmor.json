@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Possessed Armor"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-1693881876,-416592583,-1612695076,1709963281],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFlNjJhZDU1MTEyNGY4MWY1NWY1ZGI0Y2FiNTcyZTQxMjU5NzU4MTc2OWFhNWI1M2JjMWEyYjY4MDU4NWYzNiJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/perrytheplatypus",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

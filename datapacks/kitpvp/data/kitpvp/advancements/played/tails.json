@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Tails"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-1120311943,-740341682,-1835570717,713158207],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTQ3ZDQ2YWZjZjNmYmNlMjQ1OGQ0NTJjOWZiMjRjNmFjMzdjZWY5MjUzN2M5M2ZmZjNkNTJmZDc4ZWNmNGNkIn19fQ==\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/shadow",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

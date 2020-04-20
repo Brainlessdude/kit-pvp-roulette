@@ -1,0 +1,18 @@
+{
+	"display": {
+		"title": {"text":"Skeleton"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:skeleton_skull"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/root",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}
