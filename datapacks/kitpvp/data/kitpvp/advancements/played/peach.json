@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Peach"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;1465698723,-1541060294,-1143939905,418441503],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmViOTMzMWFjZGYzY2I3NmJkM2E1NmRkZDU5YjhiMTM5OGE1NDk1MmY1MzQ1NTFkZjgxNDIyYWJiZTk0ZiJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/noid",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

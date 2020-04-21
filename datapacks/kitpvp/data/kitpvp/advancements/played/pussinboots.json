@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Puss in Boots"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-2110059636,-1751038141,-2094587696,-1792020856],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzAxYmQzNzdmYWUxNzlhMTZlNTFhMjE1NmFlYTgwMzdiZDM5MTA0ZjkxZjJjNDlkNWU5ZWMwZThjNjJhM2UifX19\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/ib",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

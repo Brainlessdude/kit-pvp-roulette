@@ -11,7 +11,7 @@
 		"frame": "challenge",
 		"hidden": true
 	},
-	"parent": "kitpvp:played/warterror15",
+	"parent": "kitpvp:played/daisy",
 	"criteria": {
 		"welcome": {
 			"trigger": "minecraft:impossible"

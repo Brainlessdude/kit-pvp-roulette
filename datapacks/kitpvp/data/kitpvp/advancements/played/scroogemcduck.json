@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Scrooge McDuck"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-2068173309,462439942,-1666951566,-843507246],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWEzNmEwNDU5NjYxYWM2N2ZiYmM5MzM5NDkxODVkMTdhNzlkYzk0NGI4NTZlMzRjZmNjMWNkMzU0NDNkZGQ0In19fQ==\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/shrek",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

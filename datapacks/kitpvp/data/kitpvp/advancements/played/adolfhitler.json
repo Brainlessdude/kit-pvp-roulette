@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Adolf Hitler"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;473478713,-1285141997,-2088878885,1007274822],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjczZWRlNjY4MjFjOWY4MDk5MTFhMzc0MjlhNDg2NGM2NTY5YzUzN2IwNWFhNzRjNjRjOThkOGExZDU0NzI4NiJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/glass",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

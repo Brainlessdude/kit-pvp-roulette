@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Papyrus"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;194299295,292439648,-1845781929,-375932636],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTAyMDJmYjRkYjkwOWVlZDcyYzNiNDYzZmU4Y2M3NGIxMTA3MDlmZGU2MGYwZmY1ZDhjMDAxMDZiMzBmZWIxIn19fQ==\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/pig",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

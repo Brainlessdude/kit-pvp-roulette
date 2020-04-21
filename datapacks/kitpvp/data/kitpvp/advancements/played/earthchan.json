@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Earth-chan"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-1614990581,610618087,-1450117836,-1035794265],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzMwMjJhZWNiMDNjYmJiYzQxYTM0ODdiN2I1ODk1NTQ0ZmM3YmFlOTRhNWFjNDc4ZWE4NDYwYzIxMDQwYjAwOCJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/feverentacolyte",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}
