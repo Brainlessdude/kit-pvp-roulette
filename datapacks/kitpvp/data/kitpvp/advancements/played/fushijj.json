@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"FushiJJ"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-2012652688,-801026170,-1850865244,-1851667899],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7ImlkIjoiOWNlMmRjYzczNzcwNDIwNDhhNzQwMmYwN2I0ZGI5OWMiLCJ0eXBlIjoiU0tJTiIsInVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2M2NGNjNTc4OTEyYzJjN2FiZTM3NjNlY2M2NDEyZWEzMjQ0YTAzMjdhNzM2ODYyYzA2ZWM3MGYwYTMxMjFiOSIsInByb2ZpbGVJZCI6IjQ0OGY5N2MzZGU5ZDRjNjNhNzFhNDhhNmFmNmQ2NTM3IiwidGV4dHVyZUlkIjoiN2M2NGNjNTc4OTEyYzJjN2FiZTM3NjNlY2M2NDEyZWEzMjQ0YTAzMjdhNzM2ODYyYzA2ZWM3MGYwYTMxMjFiOSJ9fSwic2tpbiI6eyJpZCI6IjljZTJkY2M3Mzc3MDQyMDQ4YTc0MDJmMDdiNGRiOTljIiwidHlwZSI6IlNLSU4iLCJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdjNjRjYzU3ODkxMmMyYzdhYmUzNzYzZWNjNjQxMmVhMzI0NGEwMzI3YTczNjg2MmMwNmVjNzBmMGEzMTIxYjkiLCJwcm9maWxlSWQiOiI0NDhmOTdjM2RlOWQ0YzYzYTcxYTQ4YTZhZjZkNjUzNyIsInRleHR1cmVJZCI6IjdjNjRjYzU3ODkxMmMyYzdhYmUzNzYzZWNjNjQxMmVhMzI0NGEwMzI3YTczNjg2MmMwNmVjNzBmMGEzMTIxYjkifSwiY2FwZSI6bnVsbH0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/rosalina",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

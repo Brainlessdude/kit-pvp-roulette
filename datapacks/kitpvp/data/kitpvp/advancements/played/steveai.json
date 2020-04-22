@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"SteveAI"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-735416726,-408596955,-1311370625,1270930205],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTEwMTI5YTBiZTA4NTQwYWQzMDE5YTc5YjU4MzhkOGRlNzAwY2FiMzI1NTE5MjYzZjUyODM5MTk2M2Y1ZTUxMCJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/freddyfazbear",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

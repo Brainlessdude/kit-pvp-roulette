@@ -11,7 +11,7 @@
 		"frame": "challenge",
 		"hidden": true
 	},
-	"parent": "kitpvp:played/daisy",
+	"parent": "kitpvp:played/zombievillager",
 	"criteria": {
 		"welcome": {
 			"trigger": "minecraft:impossible"

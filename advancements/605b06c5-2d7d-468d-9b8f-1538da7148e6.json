@@ -779,6 +779,12 @@
     },
     "done": true
   },
+  "kitpvp:played/panda": {
+    "criteria": {
+      "welcome": "2020-04-21 23:38:23 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2019-11-17 16:17:58 -0600"
@@ -866,6 +872,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_pillar": "2019-11-17 17:01:56 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/zombievillager": {
+    "criteria": {
+      "welcome": "2020-04-21 23:59:00 -0500"
     },
     "done": true
   },
@@ -1124,6 +1136,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2019-12-12 20:56:09 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/mathews1327": {
+    "criteria": {
+      "welcome": "2020-04-21 23:35:10 -0500"
     },
     "done": true
   },
@@ -1775,6 +1793,12 @@
     },
     "done": true
   },
+  "kitpvp:played/bat": {
+    "criteria": {
+      "welcome": "2020-04-21 23:41:32 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2020-01-16 14:59:32 -0600"
@@ -2369,6 +2393,12 @@
     },
     "done": true
   },
+  "kitpvp:played/steveai": {
+    "criteria": {
+      "welcome": "2020-04-21 23:31:50 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2020-01-18 15:13:31 -0600"
@@ -2528,6 +2558,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2020-01-19 21:57:49 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/cod": {
+    "criteria": {
+      "welcome": "2020-04-21 23:48:01 -0500"
     },
     "done": true
   },
@@ -2693,6 +2729,18 @@
     },
     "done": true
   },
+  "kitpvp:played/sans": {
+    "criteria": {
+      "welcome": "2020-04-21 23:15:58 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/turtle": {
+    "criteria": {
+      "welcome": "2020-04-21 23:45:11 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_double_plant": "2019-11-27 13:55:11 -0600"
@@ -2702,6 +2750,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-11-27 13:16:22 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/fushijj": {
+    "criteria": {
+      "welcome": "2020-04-21 23:24:54 -0500"
     },
     "done": true
   },
@@ -3912,6 +3966,12 @@
   "kitpvp:played/resetti": {
     "criteria": {
       "welcome": "2020-04-19 17:07:13 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/cat": {
+    "criteria": {
+      "welcome": "2020-04-21 23:56:12 -0500"
     },
     "done": true
   },
