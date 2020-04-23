@@ -11,7 +11,7 @@
 		"frame": "challenge",
 		"hidden": true
 	},
-	"parent": "kitpvp:played/zombievillager",
+	"parent": "kitpvp:played/khonjin",
 	"criteria": {
 		"welcome": {
 			"trigger": "minecraft:impossible"

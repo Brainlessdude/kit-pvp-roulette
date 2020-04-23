@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Clyde"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-1459055353,-309311163,-2051390097,2050704023],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTBkM2FjZjI2M2MwNzFjM2Q2MmE2M2E0MTliMWNjNWNiNmMwY2NlMmNhN2RmYzdjY2Q3N2ViZGUyN2E1NmQifX19\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/parrot",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

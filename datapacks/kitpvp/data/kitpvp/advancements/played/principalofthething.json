@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Principal of the Thing"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-350291734,493568439,-2020834269,932957814],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjg1MDk0OWIzODEyNTBlZGU0OTE2ODc1N2RmZDIwMWE5NmQwYWNlMjNmZTA0YzFhYjUwYWQ1NjcxYjA0N2U1OCJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/megavoltorb",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

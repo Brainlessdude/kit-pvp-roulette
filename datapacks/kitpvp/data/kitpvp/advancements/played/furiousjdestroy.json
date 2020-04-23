@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"FuriousJDestroy"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;1668356578,-543865126,-1432738552,1663759713],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDQ3ZTBkNWY1MWJhOGY3MDJiMzgyZjVkZjYzYjRlNWFjOThhOWE4YzE2MDk2NTY0MDZlM2RlY2U5ODc5MTJjMCJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/darksamus",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

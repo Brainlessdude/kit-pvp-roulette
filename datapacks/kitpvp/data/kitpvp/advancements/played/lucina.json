@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Lucina"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-543038832,715603990,-1932078245,409785101],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQ0N2VjMTAzYmNjNWUzZDI5ODI3ODI4Yzk5NTg5MzUzZWE3ZWZkNjE1Y2Y4YzJhNDI3MTJlNmQ1NDkyOTIifX19\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/cappy",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Max Caulfield"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;515928874,312296780,-1745560861,808193250],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjM5NTQ1ZDRmNDA5OWViODM2ZjdlNDIyNjQxMDRiYjdkZjQ0ZTE0OGU0NDJkYTA3MzAyZmQ3YjA5ZjRjMWNkZSJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/sayakamiki",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

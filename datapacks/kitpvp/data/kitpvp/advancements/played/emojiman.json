@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Emoji Man"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;118577298,1813532649,-1897548691,-611790723],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWQ2NjMxNGFhZTIyM2IwMWZiNzA3OTM2ZWU3ZmZiMmRkMmUyNzg0NTMzNDdlZDE4YzNiZGI5NzY5NjA5ZTgwMSJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/engineer",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

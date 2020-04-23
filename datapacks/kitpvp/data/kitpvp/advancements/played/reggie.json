@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Reggie Fils-Aime"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-2053532154,-1282390284,-1194941199,1757541912],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWE3MWMxMDg0NzM5YmMwMjhmNzFlNGU4MDUyNzU1MmZlZjJmY2FlYmRiYmFkNTNiMzUxNzA2ZTdlY2Q0NzY4YSJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/kirby",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

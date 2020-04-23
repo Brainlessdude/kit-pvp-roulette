@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Thomas the Train"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-322023563,1091979517,-1798585518,-806429092],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTM5NDdiN2VjMGJhMTZmNDkzMDVkMTRkYmMwYmJkMTIxZGQ2OTI3MzFjNGEzOTNiZTA1ZGZhM2RlYWE4In19fQ==\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/pilot",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

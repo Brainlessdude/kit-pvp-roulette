@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"PacMan9826"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-1587727557,-1101968123,-2066571567,-820868351],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmVhY2Y4ZWM2MzRlOTVkYzE2ZGVlN2FjYjRmOTIwMjc0MzBiYTViZmU1YzBlNzJlZTNhMjhlNGYxMDUxZWNjYiJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/cosmog",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

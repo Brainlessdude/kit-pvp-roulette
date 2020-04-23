@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"JonTron"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;1229653181,695420445,-1183908299,-494957722],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjMzYTM5NTQ5NWU5NDlkNTc5ODAwMGQzYjA1Mzk4MjYxNzA3ZjBjMTA5ODMwMTE2YmNkZmE2NTJlZGEyYjg4MCJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/wanderingtrader",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

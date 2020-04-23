@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Tropical Fish"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;148805753,1644053503,-1340755735,387906723],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGI5NTNlNGQzZGZhMWM2MjJmMzBjNDQ4MmQ5YTcyNmVhMTI1OTIxMzRmMWUzYmM3OWUwYzBjNWQ4NGMzNiJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/squidward",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

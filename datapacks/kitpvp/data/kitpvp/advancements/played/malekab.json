@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"MalekAB & amber_newma454"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;330809418,220415055,-1818985159,166598295],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWJmYTNiNDZiNzkxMGNkYWNmOWRlZjAyNzg1M2EyYzQ2YjJkMWE4ZjA3MmVhODNhZjA0YjVkMjJjODRmMjgxMyJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/sekiro",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

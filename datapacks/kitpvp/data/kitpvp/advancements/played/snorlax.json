@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Snorlax"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;1200733111,-827896985,-1407220856,870267769],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2ExZjAyMWRiYjAzMzMyZDZmODdjOWM2YzdiMDE2ODQ5ZDU1NjdmNTlhM2VkMzQ5YzRlYjcxN2RmNWVjMSJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/ravager",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Khonjin igiuL Jr. III"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;2112964626,-2051913007,-1413470639,-431560737],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjkxMzEzMzRiOGUyZWY0OTk5MDYwZDlkZDZmMjYzNzlhY2M1ZDk3NWI0ZGU4NzNkMGJlYTc4ZTBjYWZkNThlNiJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/malekab",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Peter Griffin"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;545999175,281888107,-1373800121,-581018557],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2YxMDg1ZWM0MmZhOWJjYjEzODY5NDgyMWQzNWVlOWNmOWIyYzM3YzUxNjA2MzgyN2Y3N2IyZTVhODU5MzAzOSJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/lucario",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

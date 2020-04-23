@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Cappy"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-1516585930,-127447243,-1097126998,2002024964],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTE4NjkxMTVmODkxY2Y2NTRmZTgzNWFiYmVmZDdmMWRjMWJiOTRlYWUxMzBiNTJhZjAzMTEyNDVhMTk0YyJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/bobafett",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

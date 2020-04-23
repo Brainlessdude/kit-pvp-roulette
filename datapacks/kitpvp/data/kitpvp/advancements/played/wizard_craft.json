@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"wizard_craft"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-1457111438,144592573,-1895700510,1818498657],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjMzMDhkYWNjY2IwNjg0M2NhMzBhMDlhOGRkYjcxNWY5YWUxMWNjOWZjNzNkZmFkM2U1YjJmZDlhN2RkNmNkZSJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/amyrose",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

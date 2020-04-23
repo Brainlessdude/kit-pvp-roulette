@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Madeline"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-1757741102,1244808949,-2096478952,1678271098],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjhlZmI0ZWU1NWQ2ODA0NGQ3MGM0NjYyZWY0YTUwODhmNjdhNjQyYWQwYjA3ZWNjMGE3NzJiNzMzZDQ4NTU5ZCJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/joesephstalin",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

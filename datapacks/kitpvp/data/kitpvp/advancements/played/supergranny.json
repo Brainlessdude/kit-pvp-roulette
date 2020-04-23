@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Super Granny"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;796130797,-647475290,-1650379121,-1535147465],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmZiNWM3Y2MyY2NlNDM3YWRlY2FmMTU1MmU4MTBjODFhZmIzODIzZTg4MTU1OTIxY2IxNmNhZjI4NzExM2VlNiJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/calliopecaliborn",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

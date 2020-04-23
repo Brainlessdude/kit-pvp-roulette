@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Godzilla"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;714580676,-1996141734,-1610497919,-1531535232],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2RiZDExNWFlMjUwZjU0OGY0NWZkZmNlY2QwN2QwOWQ5ZjFhYWQ3ZTZjMGY4YjJmZTAwMzQ3ZjQ1ODYwMjUwYiJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/isaac",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

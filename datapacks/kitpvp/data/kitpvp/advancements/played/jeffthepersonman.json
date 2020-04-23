@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"JeffThePersonMan"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;1753445205,1955876471,-1130418459,-520000816],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmNhZWRjYjFjMThjZDg4NTdlMTAxZThkNzc1MzY1NDRjNjQ5ZDkzZDljOTNmMGIyNWFmMzIyMGU4ODdhMzQ2ZSJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/weedle",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

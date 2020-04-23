@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Shy Guy"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;1396070534,-1716238681,-1660340564,372647119],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzExN2YxNDdhNTI0NGY3N2JkOGE3MzQ2ZmQzMTJhN2EzZWNmM2I2NGM3NmM3ZmQ2NzQyNzI5MjJjOTEwOWQifX19\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/pedobear",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

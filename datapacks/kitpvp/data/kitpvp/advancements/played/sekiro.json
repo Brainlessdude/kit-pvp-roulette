@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Wolf (Sekiro)"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;1742967457,-1919596570,-2035523625,-761460601],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmFhNjUyZDM5ZDI1Y2ViYzcxZjJlNzg2MDE5NzZjNzU0NDY2OWM2YjA1M2JlMTQ5YjkyMWJmNzU4ZGQ3ZmUwYSJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/godzilla",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

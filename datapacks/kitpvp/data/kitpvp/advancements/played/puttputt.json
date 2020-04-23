@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Putt-Putt"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;1531592397,1578254786,-1454768804,77269195],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmM0OGNlMjNiMWM5ZWY3ZmJlNDBmY2FjMDRkNTM1NDEyYzY0Y2Y0Mzc1OWIxYjllMzk0YzA5MTIxNWFkOTNiNiJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/mabelpines",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

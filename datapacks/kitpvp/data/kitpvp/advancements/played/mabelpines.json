@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Mabel Pines"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;770842441,1309230038,-1511456840,-440084504],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjk1MGE0NzU5ZjRmZDg0Mjc4YTUwMjE5OTE0MmMzMWY1ZmYxMDQ1NjRjNWU2ODdhNjJjNmUwNDYwYzQ2NzgxOCJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/bigchungus",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

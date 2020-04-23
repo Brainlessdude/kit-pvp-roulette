@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Peter Pan"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-1362437856,1762215675,-2089844095,492779141],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzAyYTFlYWQ5YzMyZjkyMGQ2NWY3NzY1MTYxM2Y5YWY5N2RhZjRhOTg5MzdhM2Y4NjNmNDcyZDQ5OGRlMyJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/dipperpines",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

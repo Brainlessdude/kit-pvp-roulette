@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Cosmog"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;828824892,1189954852,-1567056025,-460477378],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDJlNzEzZjJlYzQ5MjQ1OWM1YmYxODdjNmE3Y2IxNzA4YTY5MTE2MmQ1NmRlNzdjZWQ0NmI5ZmY4MTYxZCJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/vex",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Amy Rose"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;1473793498,-49722375,-1529433225,-333071192],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzM2ZWY5ZTQ1NjYxYTliYTc5NmJhOTQ4MmU1OTIwM2ZlMzNhNmU0Y2U3NmY2MDEzNTE5MWVkMzVkMGM1MmEifX19\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/jumperhand3",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

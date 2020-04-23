@@ -1,5 +1,5 @@
 {
-	"parent": "kitpvp:achievements/i_despise_summoning_kits",
+	"parent": "kitpvp:achievements/yaritai_koto_wa",
 	"criteria": {
 		"welcome": {
 			"trigger": "minecraft:impossible"

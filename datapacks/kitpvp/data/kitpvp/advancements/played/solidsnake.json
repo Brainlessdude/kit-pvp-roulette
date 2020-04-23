@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Solid Snake"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;1808788100,-1298118692,-1965820650,1236735075],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTc3YmFiZDlmNmQ5MTlmNDJmYjQwNTg1ZmZkMzE2MTg3MTUxNTIwOTNmYjY4NmVmZjk1NTJmOTI2ZTFiNTQifX19\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/royalebomber",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

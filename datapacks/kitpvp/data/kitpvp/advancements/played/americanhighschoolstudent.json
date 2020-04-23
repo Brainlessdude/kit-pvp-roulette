@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"American High School Student"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;426582538,2032681071,-1319065717,-686861186],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzk3ZGY1OGJiNGVkOGJjOGY1YWMwZGYzNGU1ZTA0OGU3MDQ5ZjI3ZjQyN2UyOTc4ZmE2Y2YyMDlkNDk0Yjk2MyJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/serena",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

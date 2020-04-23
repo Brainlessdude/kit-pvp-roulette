@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Dark Samus"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-1363449920,-185057111,-1357639897,1615877699],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTJjNGViZWViZWJmYjkwNTA4YzFlZTJiNDQzNGViMmM3YzQ2NGE5NDRmMThkMzA1ZWY0NTc4Y2U4N2Y4NzIifX19\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/megumin",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

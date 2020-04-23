@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Pedobear"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;1421420895,1004687032,-1934581229,427820948],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGNhM2E1YTYyYjZlYmJjMDJlODQ3NDYzZjM0NDMwN2Y1NTliYmFlOTM3YjYwZmI1YzRiOGE1MDE5NDJkOSJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/jontron",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Mei Kusakabe"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;28714570,-309178456,-1558182383,-921212754],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTJiZTI3MmRkODMxODkwOTU0YmFjZDY0YWE5OTFiZDZhYTFhNDFmNjNhZTRlMzVjNmZkYWRiYTE5ZmQ4ZmQ5In19fQ==\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/takeru",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

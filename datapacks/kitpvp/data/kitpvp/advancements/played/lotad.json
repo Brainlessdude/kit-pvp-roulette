@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Lotad"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;988144886,45432902,-1467056083,-1475061494],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzJiMWQ0ZTA1YjFiMTAwNGVjZTM3NTYxOWQyMjA1OWI5YmY0ZTQ1YzA3YWI4YmE4OTlkYjA1YmY0YjM4ZGRjNyJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/americanhighschoolstudent",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

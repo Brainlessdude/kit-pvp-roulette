@@ -1,0 +1,18 @@
+{
+	"display": {
+		"title": {"text":"Ender Dragon"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:dragon_head"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/mule",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}
