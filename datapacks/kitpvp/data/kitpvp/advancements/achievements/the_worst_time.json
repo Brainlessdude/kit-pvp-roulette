@@ -3,7 +3,7 @@
 		"title": {"text":"The worst time"},
 		"description": {"text":"Play a round where everyone is sans."},
 		"icon": {
-			"item": "minecraft:skeleton_skull"
+			"item": "minecraft:bone"
 		},
 		"frame": "task"
 	},

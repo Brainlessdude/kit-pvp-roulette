@@ -3,7 +3,7 @@
 		"title": {"text":"...I was serious"},
 		"description": {"text":"Win 100 rounds."},
 		"icon": {
-			"item": "minecraft:trident"
+			"item": "minecraft:netherite_sword"
 		},
 		"frame": "challenge"
 	},

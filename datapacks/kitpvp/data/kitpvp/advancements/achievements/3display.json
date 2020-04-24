@@ -1,5 +1,5 @@
 {
-	"parent": "kitpvp:achievements/yaritai_koto_wa",
+	"parent": "kitpvp:achievements/you_must_be_cheating_somehow",
 	"criteria": {
 		"welcome": {
 			"trigger": "minecraft:impossible"

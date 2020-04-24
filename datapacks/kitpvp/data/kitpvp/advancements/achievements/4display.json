@@ -1,5 +1,5 @@
 {
-	"parent": "kitpvp:achievements/placeholder7",
+	"parent": "kitpvp:achievements/that_was_unnecessary",
 	"criteria": {
 		"welcome": {
 			"trigger": "minecraft:impossible"

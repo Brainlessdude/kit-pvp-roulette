@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Pokémon Stadium"},
+		"description": {"text":"Play a round where everyone is either a Pokémon or Pokémon Trainer."},
+		"icon": {
+			"item": "minecraft:pufferfish_bucket"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/instant_death_no_fun_allowed",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

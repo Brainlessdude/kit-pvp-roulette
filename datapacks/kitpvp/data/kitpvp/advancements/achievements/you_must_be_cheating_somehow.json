@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"You must be cheating somehow..."},
+		"description": {"text":"Win the arena vote 3 times in a row."},
+		"icon": {
+			"item": "minecraft:string"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/when_the_song_is_a_banger",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

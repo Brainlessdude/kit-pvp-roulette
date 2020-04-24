@@ -3,7 +3,7 @@
 		"title": {"text":"E x p a n d e d"},
 		"description": {"text":"Play a round where everyone is Donkey Kong."},
 		"icon": {
-			"item": "minecraft:barrel"
+			"item": "minecraft:cocoa_beans"
 		},
 		"frame": "task"
 	},

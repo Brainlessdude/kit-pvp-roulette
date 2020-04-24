@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Well that's a sad way to go"},
+		"description": {"text":"Die while stuck in a cobweb."},
+		"icon": {
+			"item": "minecraft:cobweb"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/nice",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

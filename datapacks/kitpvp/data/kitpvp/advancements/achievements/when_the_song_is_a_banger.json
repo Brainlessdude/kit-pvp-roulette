@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"When the song is a banger"},
+		"description": {"text":"Look directly up and back directly down five times within a second."},
+		"icon": {
+			"item": "minecraft:music_disc_stal"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/yaritai_koto_wa",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

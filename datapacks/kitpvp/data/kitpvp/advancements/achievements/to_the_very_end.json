@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"To the very end"},
+		"description": {"text":"Win a round with no hunger left."},
+		"icon": {
+			"item": "minecraft:rotten_flesh"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/well_thats_a_sad_way_to_go",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

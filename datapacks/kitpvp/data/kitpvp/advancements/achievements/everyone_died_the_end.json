@@ -3,7 +3,7 @@
 		"title": {"text":"Everyone died! The end."},
 		"description": {"text":"Have a tie game."},
 		"icon": {
-			"item": "minecraft:black_concrete"
+			"item": "minecraft:book"
 		},
 		"frame": "challenge"
 	},

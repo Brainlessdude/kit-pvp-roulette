@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Can't keep dodging forever"},
+		"description": {"text":"Survive for at least one minute in the Sans Fight arena."},
+		"icon": {
+			"item": "minecraft:bone_meal"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/to_the_very_end",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

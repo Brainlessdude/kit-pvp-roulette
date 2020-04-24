@@ -3,7 +3,7 @@
 		"title": {"text":"Have you tried... not dying?"},
 		"description": {"text":"Die 100 times."},
 		"icon": {
-			"item": "minecraft:wither_skeleton_skull"
+			"item": "minecraft:coal"
 		},
 		"frame": "task"
 	},

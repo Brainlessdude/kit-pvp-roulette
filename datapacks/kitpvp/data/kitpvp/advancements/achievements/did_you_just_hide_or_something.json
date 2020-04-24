@@ -3,7 +3,7 @@
 		"title": {"text":"Did you just hide or something"},
 		"description": {"text":"Win a round without taking damage."},
 		"icon": {
-			"item": "minecraft:red_stained_glass"
+			"item": "minecraft:rabbit_hide"
 		},
 		"frame": "task"
 	},

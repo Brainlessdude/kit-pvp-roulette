@@ -1,5 +1,5 @@
 {
-	"parent": "kitpvp:achievements/nice",
+	"parent": "kitpvp:achievements/pokemon_stadium",
 	"criteria": {
 		"welcome": {
 			"trigger": "minecraft:impossible"

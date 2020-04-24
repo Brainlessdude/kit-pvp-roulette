@@ -1,5 +1,5 @@
 {
-	"parent": "kitpvp:achievements/have_you_tried_not_dying",
+	"parent": "kitpvp:achievements/cant_keep_dodging_forever",
 	"criteria": {
 		"welcome": {
 			"trigger": "minecraft:impossible"

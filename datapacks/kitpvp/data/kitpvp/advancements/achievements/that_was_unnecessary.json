@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"That was unnecessary"},
+		"description": {"text":"Kill a player by punching them with nothing in your hand."},
+		"icon": {
+			"item": "minecraft:stick"
+		},
+		"frame": "challenge"
+	},
+	"parent": "kitpvp:achievements/all_effects",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

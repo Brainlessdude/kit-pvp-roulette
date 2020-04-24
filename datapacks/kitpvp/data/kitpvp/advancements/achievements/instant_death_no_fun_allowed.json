@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Instant death, no fun allowed"},
+		"description": {"text":"Lose at least 10 hearts of health at once and die."},
+		"icon": {
+			"item": "minecraft:fire_charge"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:achievements/have_you_tried_not_dying",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

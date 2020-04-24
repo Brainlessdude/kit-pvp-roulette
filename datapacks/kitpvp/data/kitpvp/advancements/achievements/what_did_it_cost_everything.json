@@ -3,7 +3,7 @@
 		"title": {"text":"Close call. Like, really close call"},
 		"description": {"text":"Win a round with only half a heart left."},
 		"icon": {
-			"item": "minecraft:magma_block"
+			"item": "minecraft:totem_of_undying"
 		},
 		"frame": "challenge"
 	},

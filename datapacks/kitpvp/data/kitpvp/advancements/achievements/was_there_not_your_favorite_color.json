@@ -3,7 +3,7 @@
 		"title": {"text":"I hate making more choices"},
 		"description": {"text":"Go back after selecting a kit."},
 		"icon": {
-			"item": "minecraft:pink_wool"
+			"item": "minecraft:dark_oak_door"
 		},
 		"frame": "task"
 	},

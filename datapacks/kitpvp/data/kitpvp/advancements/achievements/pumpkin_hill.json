@@ -1,9 +1,9 @@
 {
 	"display": {
-		"title": {"text":"More achievements coming soon!"},
-		"description": {"text":""},
+		"title": {"text":"Do do, dododo ditdoditdo, dodo"},
+		"description": {"text":"Eat a Pumpkin Pie while playing as Knuckles or Shadow."},
 		"icon": {
-			"item": "minecraft:barrier"
+			"item": "minecraft:pumpkin_pie"
 		},
 		"frame": "task"
 	},
