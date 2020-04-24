@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Luckily there's a Kit PvP"},
+		"description": {"text":"Play as Peter Griffin on Griffin House."},
+		"icon": {
+			"item": "minecraft:light_blue_concrete"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/tntrun",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

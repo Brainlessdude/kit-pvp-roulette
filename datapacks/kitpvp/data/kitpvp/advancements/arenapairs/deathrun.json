@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"\"Why am I die\""},
+		"description": {"text":"Play as Jerweh on Death Run."},
+		"icon": {
+			"item": "minecraft:brown_stained_glass"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/jungle",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

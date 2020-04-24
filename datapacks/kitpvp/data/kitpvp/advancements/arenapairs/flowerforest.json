@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"You ready for this, hot shot?"},
+		"description": {"text":"Play as Bee on Flower Forest."},
+		"icon": {
+			"item": "minecraft:birch_log"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/oceanmonument",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

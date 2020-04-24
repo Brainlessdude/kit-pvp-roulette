@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"High enough for this sheep!"},
+		"description": {"text":"Play as FushiJJ on Hardcore: Season 5."},
+		"icon": {
+			"item": "minecraft:pumpkin"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/frozenocean",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

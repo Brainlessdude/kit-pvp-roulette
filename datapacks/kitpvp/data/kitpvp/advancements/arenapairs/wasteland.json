@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Oops"},
+		"description": {"text":"Play as Wither on Wasteland."},
+		"icon": {
+			"item": "minecraft:gravel"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/end",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

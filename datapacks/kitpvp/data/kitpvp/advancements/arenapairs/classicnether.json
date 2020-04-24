@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"A fallen kingdom"},
+		"description": {"text":"Play as Wither Skeleton on Classic Nether."},
+		"icon": {
+			"item": "minecraft:nether_bricks"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/tiaga",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

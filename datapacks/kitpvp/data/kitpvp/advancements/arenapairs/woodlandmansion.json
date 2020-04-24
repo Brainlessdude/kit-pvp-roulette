@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Suspicious House Hosts"},
+		"description": {"text":"Play as Vindicator on Woodland Mansion."},
+		"icon": {
+			"item": "minecraft:dark_oak_planks"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/mushroomisland",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

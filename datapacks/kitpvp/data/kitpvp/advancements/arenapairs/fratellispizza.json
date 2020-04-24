@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"\"Hey Gino\" \"Die!\""},
+		"description": {"text":"Play as Khonjin igiuL Jr. III on Fratelli's Pizza."},
+		"icon": {
+			"item": "minecraft:bricks"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/icespikes",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

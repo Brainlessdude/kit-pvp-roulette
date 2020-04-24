@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Home of the Half-Baccas"},
+		"description": {"text":"Play as benmenhero on The Epic Realm of Brainlessdude."},
+		"icon": {
+			"item": "minecraft:smooth_quartz"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/classicmineshaft",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

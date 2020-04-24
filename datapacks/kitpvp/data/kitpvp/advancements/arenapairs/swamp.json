@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Lives of rejected professions"},
+		"description": {"text":"Play as Witch on Swamp."},
+		"icon": {
+			"item": "minecraft:oak_leaves"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/library",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

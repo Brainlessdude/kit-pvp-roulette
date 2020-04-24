@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Web slingers"},
+		"description": {"text":"Play as Cave Spider on Classic Mineshaft."},
+		"icon": {
+			"item": "minecraft:oak_planks"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/wasteland",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

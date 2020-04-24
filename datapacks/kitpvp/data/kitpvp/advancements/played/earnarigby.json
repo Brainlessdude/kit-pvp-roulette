@@ -11,7 +11,7 @@
 		"frame": "challenge",
 		"hidden": true
 	},
-	"parent": "kitpvp:played/khonjin",
+	"parent": "kitpvp:played/4display",
 	"criteria": {
 		"welcome": {
 			"trigger": "minecraft:impossible"

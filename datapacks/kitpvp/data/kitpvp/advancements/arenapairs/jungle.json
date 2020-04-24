@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Groovin' to Eleven"},
+		"description": {"text":"Play as Parrot on Jungle."},
+		"icon": {
+			"item": "minecraft:jungle_log"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/desertvillage",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

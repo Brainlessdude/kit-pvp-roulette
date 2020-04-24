@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Confronting Myself"},
+		"description": {"text":"Play as Sans on Sans Fight."},
+		"icon": {
+			"item": "minecraft:bone_block"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/pokemonarena",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

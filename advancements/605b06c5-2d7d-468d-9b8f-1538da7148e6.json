@@ -1,19 +1,43 @@
 {
-  "kitpvp:played/squid": {
+  "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
-      "welcome": "2020-04-18 21:02:02 -0500"
+      "has_string": "2019-11-27 13:53:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2019-11-17 16:17:58 -0600"
     },
     "done": true
   },
   "kitpvp:played/thebrainlessdude": {
     "criteria": {
-      "welcome": "2020-04-19 19:01:31 -0500"
+      "welcome": "2020-04-23 22:26:16 -0500"
     },
     "done": true
   },
-  "kitpvp:played/yellow": {
+  "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
-      "welcome": "2020-04-22 18:52:23 -0500"
+      "has_glass": "2019-11-17 16:17:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2019-12-12 20:56:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2020-01-13 17:26:59 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:arenapairs/root": {
+    "criteria": {
+      "welcome": "2020-04-23 23:04:35 -0500"
     },
     "done": true
   },
@@ -32,12 +56,6 @@
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2020-01-19 14:47:52 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/drowned": {
-    "criteria": {
-      "welcome": "2020-04-20 20:04:24 -0500"
     },
     "done": true
   },
@@ -65,18 +83,6 @@
     },
     "done": true
   },
-  "kitpvp:played/creeper": {
-    "criteria": {
-      "welcome": "2020-04-18 20:59:42 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/nessa": {
-    "criteria": {
-      "welcome": "2020-04-22 22:52:22 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2019-11-17 16:02:32 -0600"
@@ -86,6 +92,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2019-12-13 20:51:46 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2020-01-18 15:13:31 -0600"
     },
     "done": true
   },
@@ -101,15 +113,15 @@
     },
     "done": true
   },
-  "kitpvp:played/luigi": {
-    "criteria": {
-      "welcome": "2020-04-18 20:41:23 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2020-01-19 22:15:56 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2019-12-10 21:48:43 -0600"
     },
     "done": true
   },
@@ -119,15 +131,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2020-01-19 12:33:54 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2020-04-23 21:11:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2019-11-17 16:17:58 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-12-20 14:23:25 -0600"
     },
     "done": true
   },
-  "kitpvp:played/madeline": {
+  "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
-      "welcome": "2020-04-22 23:52:23 -0500"
+      "has_planks": "2020-01-18 15:13:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-01-19 12:20:14 -0600"
     },
     "done": true
   },
@@ -137,9 +173,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2020-04-23 21:23:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2020-01-12 19:23:01 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2020-01-20 11:56:32 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/root": {
+    "criteria": {
+      "welcome": "2020-04-23 20:27:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2019-11-17 16:17:58 -0600"
     },
     "done": true
   },
@@ -149,27 +209,9 @@
     },
     "done": true
   },
-  "kitpvp:played/papyrus": {
-    "criteria": {
-      "welcome": "2020-04-20 17:52:48 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/timewizard": {
-    "criteria": {
-      "welcome": "2020-04-22 17:04:15 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2019-12-01 18:38:05 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/canofpepsi": {
-    "criteria": {
-      "welcome": "2020-04-22 21:17:06 -0500"
     },
     "done": true
   },
@@ -191,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2020-04-18 18:13:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_red_nether_bricks": "2020-01-20 13:56:41 -0600"
@@ -209,21 +257,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-11-17 16:54:38 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2019-11-27 13:12:12 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2019-12-13 21:15:03 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-11-17 16:17:58 -0600"
     },
     "done": true
   },
-  "kitpvp:played/rabbit": {
+  "minecraft:end/elytra": {
     "criteria": {
-      "welcome": "2020-04-22 12:35:12 -0500"
+      "elytra": "2019-11-24 17:45:35 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2019-11-17 16:02:32 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/explodingkitty": {
+    "criteria": {
+      "welcome": "2020-04-23 22:36:26 -0500"
     },
     "done": true
   },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2020-01-18 15:13:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2020-01-19 21:09:51 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2019-11-24 17:59:14 -0600"
     },
     "done": true
   },
@@ -251,9 +341,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2020-01-20 13:57:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2020-01-25 17:46:24 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2019-12-20 14:23:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2020-01-12 19:23:01 -0600"
+    },
+    "done": true
+  },
   "kitpvp:played/enderdragon": {
     "criteria": {
-      "welcome": "2020-04-22 15:10:01 -0500"
+      "welcome": "2020-04-23 20:48:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2020-01-19 16:00:48 -0600"
     },
     "done": true
   },
@@ -263,21 +383,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-01-19 21:57:49 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2020-01-20 12:00:08 -0600"
     },
     "done": true
   },
-  "kitpvp:played/santaclaus": {
-    "criteria": {
-      "welcome": "2020-04-22 20:43:52 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2020-01-25 17:57:10 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2020-01-13 17:05:33 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2019-11-24 17:45:36 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2019-11-27 13:47:25 -0600"
     },
     "done": true
   },
@@ -293,15 +431,33 @@
     },
     "done": true
   },
-  "kitpvp:played/festivevillager": {
+  "kitpvp:played/pigman": {
     "criteria": {
-      "welcome": "2020-04-20 17:18:18 -0500"
+      "welcome": "2020-04-23 20:43:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2019-12-11 19:06:43 -0600"
     },
     "done": true
   },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2019-12-13 12:09:36 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2020-04-23 20:54:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2020-01-25 17:46:24 -0600"
     },
     "done": true
   },
@@ -329,9 +485,9 @@
     },
     "done": true
   },
-  "kitpvp:played/bronbot": {
+  "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "welcome": "2020-04-18 19:56:34 -0500"
+      "has_gold_nugget": "2019-12-11 19:06:43 -0600"
     },
     "done": true
   },
@@ -347,9 +503,15 @@
     },
     "done": true
   },
-  "kitpvp:played/furiousjdestroy": {
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
-      "welcome": "2020-04-22 20:47:13 -0500"
+      "has_cobblestone": "2020-01-19 21:19:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2020-01-15 17:49:34 -0600"
     },
     "done": true
   },
@@ -365,9 +527,21 @@
     },
     "done": true
   },
-  "kitpvp:played/ke0p": {
+  "kitpvp:played/rob": {
     "criteria": {
-      "welcome": "2020-04-22 23:37:58 -0500"
+      "welcome": "2020-04-23 21:43:14 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/ten_wins": {
+    "criteria": {
+      "welcome": "2019-11-17 15:53:28 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-20 13:54:46 -0600"
     },
     "done": true
   },
@@ -377,21 +551,27 @@
     },
     "done": true
   },
+  "kitpvp:achievements/the_worst_time": {
+    "criteria": {
+      "welcome": "2019-11-17 16:00:24 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-01-19 21:57:49 -0600"
+    },
+    "done": true
+  },
   "kitpvp:played/silverfish": {
     "criteria": {
-      "welcome": "2020-04-22 14:02:18 -0500"
+      "welcome": "2020-04-23 21:40:46 -0500"
     },
     "done": true
   },
-  "kitpvp:played/bob": {
+  "kitpvp:played/technoblade": {
     "criteria": {
-      "welcome": "2020-04-19 17:03:25 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/teletubby": {
-    "criteria": {
-      "welcome": "2020-04-19 18:15:29 -0500"
+      "welcome": "2020-04-23 21:50:36 -0500"
     },
     "done": true
   },
@@ -401,9 +581,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-20 13:54:46 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
       "has_magenta_wool": "2020-01-19 14:48:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2020-03-06 13:57:06 -0600"
     },
     "done": true
   },
@@ -431,6 +623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2020-01-19 15:34:24 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2020-01-20 16:07:17 -0600"
@@ -443,9 +641,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-02-26 16:35:44 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2020-02-27 11:45:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2019-11-17 16:17:58 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald_from_blasting": {
     "criteria": {
       "has_emerald_ore": "2020-01-25 17:42:07 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2019-11-17 16:02:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2020-01-19 14:47:52 -0600"
     },
     "done": true
   },
@@ -467,9 +695,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2019-11-27 13:44:43 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2019-12-13 21:15:03 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2020-01-20 11:56:32 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/sans": {
+    "criteria": {
+      "welcome": "2020-04-23 22:05:20 -0500"
     },
     "done": true
   },
@@ -479,15 +725,21 @@
     },
     "done": true
   },
-  "kitpvp:played/elmo": {
+  "kitpvp:arenapairs/2display": {
     "criteria": {
-      "welcome": "2020-04-20 17:28:33 -0500"
+      "welcome": "2020-04-23 23:04:53 -0500"
     },
     "done": true
   },
-  "kitpvp:played/jigglypuff": {
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
-      "welcome": "2020-04-20 17:36:06 -0500"
+      "has_double_plant": "2019-11-27 13:55:11 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2019-11-27 13:16:22 -0600"
     },
     "done": true
   },
@@ -503,9 +755,21 @@
     },
     "done": true
   },
+  "kitpvp:played/fushijj": {
+    "criteria": {
+      "welcome": "2020-04-23 21:25:31 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2019-11-17 16:17:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2020-01-19 12:21:04 -0600"
     },
     "done": true
   },
@@ -521,15 +785,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
+  "minecraft:recipes/combat/turtle_helmet": {
     "criteria": {
-      "has_kelp": "2019-12-13 20:33:16 -0600"
+      "has_scute": "2019-12-20 13:16:27 -0600"
     },
     "done": true
   },
-  "kitpvp:played/foxmccloud": {
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
-      "welcome": "2020-04-22 21:41:02 -0500"
+      "has_cobblestone": "2020-01-19 21:19:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-12-13 20:33:16 -0600"
     },
     "done": true
   },
@@ -539,9 +809,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2020-01-12 19:23:01 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2020-01-19 12:06:34 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2020-01-19 21:54:30 -0600"
     },
     "done": true
   },
@@ -551,9 +833,21 @@
     },
     "done": true
   },
-  "kitpvp:played/artilleryturtlex": {
+  "kitpvp:played/wario": {
     "criteria": {
-      "welcome": "2020-04-18 20:13:36 -0500"
+      "welcome": "2020-04-23 20:37:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2019-11-17 16:34:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2019-12-20 14:23:25 -0600"
     },
     "done": true
   },
@@ -569,21 +863,27 @@
     },
     "done": true
   },
+  "kitpvp:played/pillager": {
+    "criteria": {
+      "welcome": "2020-04-23 21:47:03 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2020-01-19 15:49:28 -0600"
     },
     "done": true
   },
-  "kitpvp:played/earthchan": {
+  "kitpvp:played/4display": {
     "criteria": {
-      "welcome": "2020-04-20 17:05:25 -0500"
+      "welcome": "2020-04-23 20:27:51 -0500"
     },
     "done": true
   },
-  "kitpvp:played/flandrescarlet": {
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
-      "welcome": "2020-04-22 23:41:44 -0500"
+      "has_gravel": "2020-01-19 12:20:14 -0600"
     },
     "done": true
   },
@@ -593,27 +893,57 @@
     },
     "done": true
   },
-  "kitpvp:played/complimentmachine": {
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
-      "welcome": "2020-04-22 20:54:19 -0500"
+      "has_string": "2019-11-27 13:53:02 -0600"
     },
     "done": true
   },
-  "kitpvp:played/dolphin": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
-      "welcome": "2020-04-22 12:39:22 -0500"
+      "has_diamond": "2019-11-27 13:26:12 -0600"
     },
     "done": true
   },
-  "kitpvp:played/sekiro": {
+  "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "welcome": "2020-04-22 23:18:58 -0500"
+      "minecraft:skeleton": "2020-01-25 22:03:41 -0600",
+      "minecraft:spider": "2020-02-18 21:34:14 -0600",
+      "minecraft:phantom": "2020-02-27 11:30:43 -0600",
+      "minecraft:zombified_piglin": "2019-12-13 12:21:30 -0600",
+      "minecraft:husk": "2020-01-19 20:51:52 -0600",
+      "minecraft:silverfish": "2020-01-25 22:03:36 -0600",
+      "minecraft:zombie": "2020-01-16 19:10:22 -0600"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2019-12-10 21:38:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2019-12-20 14:50:42 -0600"
     },
     "done": true
   },
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2019-11-17 16:02:20 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2019-11-17 15:54:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2020-01-19 15:59:56 -0600"
     },
     "done": true
   },
@@ -629,9 +959,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_brown_dye": "2019-12-09 12:19:58 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2020-02-26 16:50:48 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2019-11-17 16:17:58 -0600"
     },
     "done": true
   },
@@ -671,15 +1013,15 @@
     },
     "done": true
   },
-  "kitpvp:played/isabelle": {
-    "criteria": {
-      "welcome": "2020-04-19 17:05:13 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_shovel": "2019-11-27 13:18:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2020-04-23 21:11:31 -0500"
     },
     "done": true
   },
@@ -689,9 +1031,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2020-01-19 12:06:34 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2019-12-10 21:38:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2019-12-12 20:56:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2020-01-13 17:05:35 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2019-12-10 21:38:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2020-04-19 17:14:44 -0500"
     },
     "done": true
   },
@@ -701,15 +1073,15 @@
     },
     "done": true
   },
-  "kitpvp:played/irongolem": {
+  "kitpvp:achievements/4display": {
     "criteria": {
-      "welcome": "2020-04-19 17:16:31 -0500"
+      "welcome": "2019-11-17 15:47:18 -0600"
     },
     "done": true
   },
   "kitpvp:played/scroogemcduck": {
     "criteria": {
-      "welcome": "2020-04-20 17:34:32 -0500"
+      "welcome": "2020-04-23 22:46:43 -0500"
     },
     "done": true
   },
@@ -719,9 +1091,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2020-01-19 15:59:56 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-20 13:54:46 -0600"
+    },
+    "done": true
+  },
   "kitpvp:played/gary": {
     "criteria": {
-      "welcome": "2020-04-19 16:21:19 -0500"
+      "welcome": "2020-04-23 22:10:29 -0500"
     },
     "done": true
   },
@@ -731,9 +1115,9 @@
     },
     "done": true
   },
-  "kitpvp:played/tomnook": {
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
-      "welcome": "2020-04-19 17:08:42 -0500"
+      "has_nether_bricks": "2020-04-23 21:11:31 -0500"
     },
     "done": true
   },
@@ -743,9 +1127,27 @@
     },
     "done": true
   },
-  "kitpvp:played/warterror15": {
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "welcome": "2020-04-19 18:50:25 -0500"
+      "has_red_dye": "2019-12-10 22:07:04 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2020-01-12 19:23:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2019-11-27 13:12:12 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/tropicalfish": {
+    "criteria": {
+      "welcome": "2020-04-23 21:59:59 -0500"
     },
     "done": true
   },
@@ -785,15 +1187,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_light_gray_dye": "2019-11-27 13:26:12 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-11-17 16:17:58 -0600"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2019-12-10 21:48:43 -0600"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2019-11-27 13:12:54 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2019-12-10 22:07:04 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2019-12-20 14:20:30 -0600"
     },
     "done": true
   },
@@ -815,15 +1241,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2019-12-20 13:49:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2020-01-20 11:56:32 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_bed": {
     "criteria": {
       "has_purple_wool": "2020-01-20 15:44:15 -0600"
     },
     "done": true
   },
+  "kitpvp:achievements/five_wins": {
+    "criteria": {
+      "welcome": "2019-11-17 15:53:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2019-12-13 21:15:03 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2020-01-16 15:00:02 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/hatkid": {
+    "criteria": {
+      "welcome": "2020-04-23 22:28:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2020-01-20 11:33:55 -0600"
     },
     "done": true
   },
@@ -845,15 +1307,57 @@
     },
     "done": true
   },
-  "kitpvp:played/mortis": {
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
-      "welcome": "2020-04-22 21:41:15 -0500"
+      "has_blue_flower": "2019-12-10 21:55:02 -0600"
     },
     "done": true
   },
-  "kitpvp:played/captaintoad": {
+  "kitpvp:achievements/being_level_with_them": {
     "criteria": {
-      "welcome": "2020-04-19 17:00:23 -0500"
+      "welcome": "2019-11-17 15:51:16 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/did_you_just_hide_or_something": {
+    "criteria": {
+      "welcome": "2019-11-17 15:49:34 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2019-11-17 16:17:58 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/1display": {
+    "criteria": {
+      "welcome": "2019-11-17 15:47:18 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2020-01-19 12:06:34 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-01-12 19:23:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2020-04-23 21:11:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2019-12-20 14:23:25 -0600"
     },
     "done": true
   },
@@ -869,15 +1373,33 @@
     },
     "done": true
   },
+  "kitpvp:played/cavespider": {
+    "criteria": {
+      "welcome": "2020-04-23 21:16:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2019-12-10 21:55:02 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2020-01-22 20:56:01 -0600"
     },
     "done": true
   },
-  "kitpvp:played/satoukazuma": {
+  "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
-      "welcome": "2020-04-22 19:25:09 -0500"
+      "has_log": "2020-01-19 15:27:33 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2020-01-19 15:34:24 -0600"
     },
     "done": true
   },
@@ -887,21 +1409,21 @@
     },
     "done": true
   },
-  "kitpvp:played/drybones": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "welcome": "2020-04-22 13:18:49 -0500"
+      "has_yellow_flower": "2020-01-19 15:36:46 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2020-03-06 13:57:06 -0600"
     },
     "done": true
   },
   "kitpvp:played/stray": {
     "criteria": {
-      "welcome": "2020-04-19 16:01:59 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/panda": {
-    "criteria": {
-      "welcome": "2020-04-21 23:38:23 -0500"
+      "welcome": "2020-04-23 20:33:51 -0500"
     },
     "done": true
   },
@@ -923,15 +1445,21 @@
     },
     "done": true
   },
+  "kitpvp:played/sonic": {
+    "criteria": {
+      "welcome": "2020-04-23 21:57:46 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2020-01-20 11:56:32 -0600"
     },
     "done": true
   },
-  "kitpvp:played/giant": {
+  "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
-      "welcome": "2020-04-22 15:05:46 -0500"
+      "has_stick": "2019-11-24 17:59:14 -0600"
     },
     "done": true
   },
@@ -941,27 +1469,39 @@
     },
     "done": true
   },
-  "kitpvp:played/silentnothing": {
+  "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "welcome": "2020-04-18 20:16:04 -0500"
+      "has_logs": "2020-04-23 21:51:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-01-19 12:20:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2020-01-19 21:05:19 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2020-02-27 13:53:50 -0600"
     },
     "done": true
   },
   "kitpvp:played/guardian": {
     "criteria": {
-      "welcome": "2020-04-18 18:19:48 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/principalofthething": {
-    "criteria": {
-      "welcome": "2020-04-22 21:59:56 -0500"
+      "welcome": "2020-04-23 20:52:11 -0500"
     },
     "done": true
   },
   "kitpvp:played/lakitu": {
     "criteria": {
-      "welcome": "2020-04-22 19:15:03 -0500"
+      "welcome": "2020-04-23 21:35:51 -0500"
     },
     "done": true
   },
@@ -971,9 +1511,27 @@
     },
     "done": true
   },
+  "kitpvp:played/vindicator": {
+    "criteria": {
+      "welcome": "2020-04-23 20:57:20 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2019-12-13 21:15:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2019-12-20 14:23:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2019-11-27 13:39:24 -0600"
     },
     "done": true
   },
@@ -983,21 +1541,45 @@
     },
     "done": true
   },
-  "kitpvp:played/getthesnowboy": {
+  "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
-      "welcome": "2020-04-19 19:04:43 -0500"
+      "has_prismarine_crystals": "2020-02-28 21:07:47 -0600"
     },
     "done": true
   },
-  "kitpvp:played/wolf": {
+  "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
-      "welcome": "2020-04-19 16:12:57 -0500"
+      "has_logs": "2020-04-23 22:20:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2020-01-19 15:49:28 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2019-12-10 21:38:22 -0600"
     },
     "done": true
   },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2019-12-13 20:24:48 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2019-11-27 13:53:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2020-03-05 19:31:55 -0600"
     },
     "done": true
   },
@@ -1013,9 +1595,21 @@
     },
     "done": true
   },
-  "kitpvp:played/zombievillager": {
+  "minecraft:recipes/misc/bone_meal": {
     "criteria": {
-      "welcome": "2020-04-21 23:59:00 -0500"
+      "has_bone": "2019-11-27 12:58:27 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2020-04-23 21:02:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-01-19 12:20:14 -0600"
     },
     "done": true
   },
@@ -1031,9 +1625,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2020-04-20 17:05:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2020-02-27 11:45:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-01-20 16:07:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_orange_dye": "2020-04-22 13:08:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2019-11-17 16:02:32 -0600"
+    },
+    "done": true
+  },
   "kitpvp:achievements/colorful_roster": {
     "criteria": {
       "welcome": "2019-11-17 16:03:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2019-11-24 17:59:14 -0600"
     },
     "done": true
   },
@@ -1043,9 +1673,15 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2020-04-20 19:24:52 -0500"
+    },
+    "done": true
+  },
   "kitpvp:played/pedobear": {
     "criteria": {
-      "welcome": "2020-04-22 13:28:30 -0500"
+      "welcome": "2020-04-23 22:03:39 -0500"
     },
     "done": true
   },
@@ -1055,9 +1691,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2020-01-20 11:56:32 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2020-01-20 13:57:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2019-12-20 14:20:30 -0600"
     },
     "done": true
   },
@@ -1073,9 +1721,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2019-12-10 22:16:00 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-01-13 17:05:35 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-01-20 11:55:41 -0600"
     },
     "done": true
   },
@@ -1091,9 +1751,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2020-04-23 21:11:31 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-01-19 12:20:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2020-04-23 21:11:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_shovel": "2019-11-27 13:18:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2020-01-25 17:57:10 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombified_piglin": "2019-12-13 12:21:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2020-01-20 13:57:31 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/jerweh": {
+    "criteria": {
+      "welcome": "2020-04-23 22:31:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-20 13:54:46 -0600"
     },
     "done": true
   },
@@ -1109,9 +1817,9 @@
     },
     "done": true
   },
-  "kitpvp:played/mabelpines": {
+  "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
-      "welcome": "2020-04-22 23:15:19 -0500"
+      "has_diorite": "2020-01-20 11:55:41 -0600"
     },
     "done": true
   },
@@ -1121,9 +1829,15 @@
     },
     "done": true
   },
-  "kitpvp:played/zombie": {
+  "minecraft:recipes/building_blocks/stone": {
     "criteria": {
-      "welcome": "2020-04-18 21:00:41 -0500"
+      "has_cobblestone": "2020-01-19 21:19:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2019-11-17 16:52:32 -0600"
     },
     "done": true
   },
@@ -1132,6 +1846,50 @@
       "has_blaze_powder": "2019-12-20 14:50:42 -0600"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2019-11-17 16:02:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-20 13:54:46 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/evilbrainless": {
+    "criteria": {
+      "welcome": "2020-04-23 22:56:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2019-12-12 12:49:12 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2019-11-17 16:40:42 -0600",
+      "minecraft:badlands_plateau": "2019-11-17 16:16:36 -0600",
+      "minecraft:mountains": "2019-11-17 16:16:38 -0600",
+      "minecraft:forest": "2019-11-17 15:48:40 -0600",
+      "minecraft:taiga_hills": "2019-11-17 16:42:51 -0600",
+      "minecraft:desert": "2019-11-17 16:32:35 -0600",
+      "minecraft:jungle": "2019-11-17 16:34:00 -0600",
+      "minecraft:warm_ocean": "2019-11-17 16:43:23 -0600",
+      "minecraft:badlands": "2019-11-17 16:42:26 -0600",
+      "minecraft:dark_forest": "2019-11-17 16:32:33 -0600",
+      "minecraft:snowy_taiga": "2019-11-17 16:39:08 -0600",
+      "minecraft:mushroom_field_shore": "2019-11-17 16:32:50 -0600",
+      "minecraft:swamp": "2019-11-17 16:34:36 -0600",
+      "minecraft:savanna": "2019-11-17 16:34:19 -0600",
+      "minecraft:plains": "2019-11-17 16:39:39 -0600"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/book": {
     "criteria": {
@@ -1145,15 +1903,27 @@
     },
     "done": true
   },
-  "kitpvp:played/pussinboots": {
+  "kitpvp:played/ib": {
     "criteria": {
-      "welcome": "2020-04-20 19:03:14 -0500"
+      "welcome": "2020-04-23 22:43:43 -0500"
     },
     "done": true
   },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2020-01-19 21:19:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2020-02-27 13:53:50 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_wood_slab": "2019-12-11 09:08:31 -0600"
     },
     "done": true
   },
@@ -1169,9 +1939,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2020-01-19 21:05:19 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2019-11-17 16:13:11 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2020-01-20 15:44:15 -0600"
     },
     "done": true
   },
@@ -1181,9 +1963,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2019-12-20 14:23:25 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/i_didnt_want_to_play_anyways": {
+    "criteria": {
+      "welcome": "2019-11-17 16:12:41 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/salmon": {
+    "criteria": {
+      "welcome": "2020-04-23 21:10:22 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2020-04-18 20:04:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2019-11-17 16:02:32 -0600"
     },
     "done": true
   },
@@ -1205,15 +2011,45 @@
     },
     "done": true
   },
-  "kitpvp:played/megumin": {
+  "minecraft:recipes/combat/leather_boots": {
     "criteria": {
-      "welcome": "2020-04-22 20:13:45 -0500"
+      "has_leather": "2019-12-13 21:03:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-01-19 22:15:56 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-01-19 21:19:14 -0600"
     },
     "done": true
   },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2019-11-27 13:26:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2020-01-13 17:26:59 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2020-02-02 11:35:34 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-03-05 19:32:02 -0600"
     },
     "done": true
   },
@@ -1232,6 +2068,12 @@
   "minecraft:recipes/food/honey_bottle": {
     "criteria": {
       "has_honey_block": "2019-11-17 16:54:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2019-11-27 13:26:12 -0600"
     },
     "done": true
   },
@@ -1283,9 +2125,15 @@
     },
     "done": true
   },
-  "kitpvp:played/lightningmcqueen": {
+  "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
-      "welcome": "2020-04-20 17:23:40 -0500"
+      "has_yellow_wool": "2020-01-19 15:59:56 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2020-01-12 19:23:01 -0600"
     },
     "done": true
   },
@@ -1295,9 +2143,9 @@
     },
     "done": true
   },
-  "kitpvp:played/mathews1327": {
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "welcome": "2020-04-21 23:35:10 -0500"
+      "has_glass_pane": "2020-01-12 19:23:01 -0600"
     },
     "done": true
   },
@@ -1307,15 +2155,33 @@
     },
     "done": true
   },
+  "kitpvp:achievements/everyone_died_the_end": {
+    "criteria": {
+      "welcome": "2019-11-17 15:52:18 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_nugget": "2019-12-11 19:06:43 -0600"
     },
     "done": true
   },
-  "kitpvp:played/takeru": {
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
-      "welcome": "2020-04-22 16:03:49 -0500"
+      "has_bamboo": "2019-11-27 13:18:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2020-01-20 16:07:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2019-12-09 12:19:54 -0600"
     },
     "done": true
   },
@@ -1343,27 +2209,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_blue_dye": "2019-11-27 13:26:12 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2020-01-19 21:54:30 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2020-01-20 11:56:32 -0600"
     },
     "done": true
   },
-  "kitpvp:played/animegirlinpikachuhoodie": {
+  "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
-      "welcome": "2020-04-20 17:44:29 -0500"
+      "has_andesite": "2020-01-19 21:54:30 -0600"
     },
     "done": true
   },
   "kitpvp:played/benmenhero": {
     "criteria": {
-      "welcome": "2020-04-22 17:22:33 -0500"
+      "welcome": "2020-04-23 21:33:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2020-01-19 14:47:52 -0600"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2020-01-20 11:56:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2020-01-20 12:00:08 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/3display": {
+    "criteria": {
+      "welcome": "2020-04-23 20:27:46 -0500"
     },
     "done": true
   },
@@ -1391,21 +2287,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2019-12-20 14:50:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2020-01-13 17:05:33 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2019-12-12 12:49:12 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-20 13:54:46 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2020-01-20 11:56:32 -0600"
     },
     "done": true
   },
-  "kitpvp:played/freddyfazbear": {
+  "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
-      "welcome": "2020-04-20 20:01:55 -0500"
+      "has_quartz_pillar": "2019-11-17 17:01:56 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-20 13:54:46 -0600"
     },
     "done": true
   },
   "kitpvp:achievements/earn_a_secret": {
     "criteria": {
       "welcome": "2019-11-17 15:48:16 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-01-19 21:19:14 -0600"
     },
     "done": true
   },
@@ -1421,12 +2353,6 @@
     },
     "done": true
   },
-  "kitpvp:played/emojiman": {
-    "criteria": {
-      "welcome": "2020-04-22 18:56:53 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_bed": {
     "criteria": {
       "has_green_wool": "2019-11-17 16:52:32 -0600"
@@ -1439,15 +2365,39 @@
     },
     "done": true
   },
-  "kitpvp:played/eviljerweh": {
+  "minecraft:recipes/misc/writable_book": {
     "criteria": {
-      "welcome": "2020-04-22 20:49:22 -0500"
+      "has_book": "2020-02-26 16:35:44 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2020-01-25 18:00:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2019-11-17 16:52:34 -0600"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2020-01-13 17:26:59 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2020-01-19 21:54:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2020-01-20 11:56:32 -0600"
     },
     "done": true
   },
@@ -1463,15 +2413,57 @@
     },
     "done": true
   },
-  "kitpvp:played/bobafett": {
+  "minecraft:recipes/misc/green_dye": {
     "criteria": {
-      "welcome": "2020-04-22 20:59:21 -0500"
+      "has_cactus": "2019-12-13 20:43:19 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2020-01-19 14:48:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-12-10 22:16:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2019-11-17 16:08:37 -0600"
     },
     "done": true
   },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2019-11-24 17:59:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2019-12-13 21:15:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2020-01-25 17:46:24 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-01-20 11:55:41 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2019-11-17 16:02:32 -0600"
     },
     "done": true
   },
@@ -1499,15 +2491,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2020-04-23 21:11:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-04-23 20:44:36 -0500"
+    },
+    "done": true
+  },
   "minecraft:end/levitate": {
     "criteria": {
       "levitated": "2019-12-11 11:36:10 -0600"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2020-01-19 14:48:08 -0600"
+    },
+    "done": true
+  },
   "kitpvp:achievements/biggest_meanie_award": {
     "criteria": {
       "welcome": "2019-11-17 16:31:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2020-01-14 16:43:33 -0600"
     },
     "done": true
   },
@@ -1535,12 +2551,6 @@
     },
     "done": true
   },
-  "kitpvp:played/mario": {
-    "criteria": {
-      "welcome": "2020-04-18 20:39:22 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-11-17 16:17:58 -0600"
@@ -1553,15 +2563,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2019-12-10 22:07:04 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2020-01-17 16:26:01 -0600"
     },
     "done": true
   },
-  "kitpvp:played/meggy": {
+  "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "welcome": "2020-04-22 21:35:15 -0500"
+      "in_water": "2019-11-17 16:34:55 -0600"
     },
     "done": true
   },
@@ -1571,15 +2587,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+  "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
-      "has_stone_bricks": "2020-01-19 21:24:12 -0600"
+      "has_quartz": "2019-12-13 20:51:46 -0600"
     },
     "done": true
   },
-  "kitpvp:played/engineer": {
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
-      "welcome": "2020-04-22 17:39:14 -0500"
+      "has_stone_bricks": "2020-01-19 21:24:12 -0600"
     },
     "done": true
   },
@@ -1595,15 +2611,65 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2019-12-10 21:38:22 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2019-12-13 16:59:27 -0600"
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2019-12-20 13:23:34 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2020-01-20 11:56:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2020-01-13 17:05:35 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2019-12-13 21:15:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2020-01-25 21:33:04 -0600",
+      "sweet_berries": "2020-01-16 17:02:40 -0600",
+      "cooked_beef": "2019-11-27 13:23:32 -0600",
+      "baked_potato": "2019-12-13 21:17:27 -0600",
+      "apple": "2020-01-19 20:36:57 -0600",
+      "spider_eye": "2019-11-17 16:13:13 -0600",
+      "potato": "2020-01-16 16:23:54 -0600",
+      "cooked_cod": "2019-12-10 22:14:50 -0600",
+      "cookie": "2019-12-12 21:14:41 -0600",
+      "suspicious_stew": "2020-01-25 21:53:55 -0600",
+      "salmon": "2020-01-16 16:54:56 -0600",
+      "cooked_chicken": "2019-11-27 13:54:33 -0600",
+      "mushroom_stew": "2020-01-19 20:59:40 -0600",
+      "cooked_salmon": "2020-01-25 21:29:24 -0600",
+      "carrot": "2019-12-11 11:52:30 -0600"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-20 13:54:46 -0600"
     },
     "done": true
   },
@@ -1616,12 +2682,6 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2020-01-25 17:57:10 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/papasmurf": {
-    "criteria": {
-      "welcome": "2020-04-20 17:20:20 -0500"
     },
     "done": true
   },
@@ -1643,15 +2703,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2019-11-27 13:12:12 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2019-12-20 14:23:25 -0600"
     },
     "done": true
   },
-  "kitpvp:played/podzol": {
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
-      "welcome": "2020-04-20 16:55:41 -0500"
+      "has_red_nether_bricks": "2020-01-20 13:56:41 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2020-01-19 21:19:14 -0600"
     },
     "done": true
   },
@@ -1667,6 +2739,12 @@
     },
     "done": true
   },
+  "kitpvp:played/witch": {
+    "criteria": {
+      "welcome": "2020-04-23 22:23:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-01-20 16:07:17 -0600"
@@ -1676,6 +2754,18 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2020-01-13 17:05:35 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/2display": {
+    "criteria": {
+      "welcome": "2019-11-17 15:47:18 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2019-11-17 15:54:00 -0600"
     },
     "done": true
   },
@@ -1691,9 +2781,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2019-12-10 22:07:04 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-01-19 12:06:34 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-01-19 12:20:14 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/have_you_tried_not_dying": {
+    "criteria": {
+      "welcome": "2019-11-21 16:28:36 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2020-01-19 14:48:08 -0600"
     },
     "done": true
   },
@@ -1709,27 +2823,33 @@
     },
     "done": true
   },
-  "kitpvp:played/1display": {
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
     "criteria": {
-      "welcome": "2020-04-19 17:29:29 -0500"
+      "has_prismarine_bricks": "2020-02-27 11:45:30 -0600"
     },
     "done": true
   },
-  "kitpvp:played/pufferfish": {
+  "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
-      "welcome": "2020-04-22 14:06:23 -0500"
+      "has_leather": "2019-12-13 21:03:32 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/1display": {
+    "criteria": {
+      "welcome": "2020-04-23 20:27:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2019-11-17 16:52:34 -0600"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2020-01-19 12:21:04 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/waluigi": {
-    "criteria": {
-      "welcome": "2020-04-20 19:39:47 -0500"
     },
     "done": true
   },
@@ -1745,15 +2865,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2019-11-27 12:58:27 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2019-11-27 13:53:02 -0600"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-01-19 21:57:49 -0600"
+    },
+    "done": true
+  },
   "kitpvp:played/scar": {
     "criteria": {
-      "welcome": "2020-04-22 22:05:13 -0500"
+      "welcome": "2020-04-23 22:16:02 -0500"
     },
     "done": true
   },
@@ -1763,9 +2895,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2019-12-10 22:10:47 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2020-01-12 19:23:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2019-11-17 16:17:58 -0600"
     },
     "done": true
   },
@@ -1781,6 +2925,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2019-12-13 20:51:46 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/khonjin": {
+    "criteria": {
+      "welcome": "2020-04-23 22:53:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-01-19 12:20:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2020-01-20 16:07:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2020-02-28 17:43:40 -0600"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cat": "2019-11-27 13:13:12 -0600"
@@ -1793,21 +2967,39 @@
     },
     "done": true
   },
+  "kitpvp:arenapairs/1display": {
+    "criteria": {
+      "welcome": "2020-04-23 23:04:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2019-11-17 16:02:20 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2019-11-27 13:26:12 -0600"
     },
     "done": true
   },
-  "kitpvp:played/peach": {
-    "criteria": {
-      "welcome": "2020-04-20 19:44:03 -0500"
-    },
-    "done": true
-  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2020-01-19 21:19:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-01-25 17:38:27 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2020-04-18 19:56:53 -0500"
     },
     "done": true
   },
@@ -1823,6 +3015,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2019-11-27 13:38:45 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2019-11-17 16:52:30 -0600"
@@ -1835,9 +3033,9 @@
     },
     "done": true
   },
-  "kitpvp:played/fricken_cabbage": {
+  "kitpvp:arenapairs/4display": {
     "criteria": {
-      "welcome": "2020-04-22 16:48:36 -0500"
+      "welcome": "2020-04-23 23:05:00 -0500"
     },
     "done": true
   },
@@ -1850,18 +3048,6 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2020-01-19 21:54:30 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/ocelot": {
-    "criteria": {
-      "welcome": "2020-04-19 17:24:38 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/robbierotten": {
-    "criteria": {
-      "welcome": "2020-04-18 20:56:20 -0500"
     },
     "done": true
   },
@@ -1891,7 +3077,7 @@
   },
   "kitpvp:played/villager": {
     "criteria": {
-      "welcome": "2020-04-18 18:24:25 -0500"
+      "welcome": "2020-04-23 22:07:34 -0500"
     },
     "done": true
   },
@@ -1904,6 +3090,18 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2020-01-19 12:33:54 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-11-17 16:34:55 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/mooshroom": {
+    "criteria": {
+      "welcome": "2020-04-23 20:40:01 -0500"
     },
     "done": true
   },
@@ -1925,6 +3123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-01-19 15:32:23 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-01-19 21:54:30 -0600"
@@ -1934,6 +3138,24 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2019-12-20 14:23:25 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/super_hot": {
+    "criteria": {
+      "welcome": "2019-11-17 16:16:16 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2020-04-23 21:45:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2020-01-19 14:47:52 -0600"
     },
     "done": true
   },
@@ -1961,6 +3183,12 @@
     },
     "done": true
   },
+  "kitpvp:played/2display": {
+    "criteria": {
+      "welcome": "2020-04-23 20:27:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2019-12-13 21:03:32 -0600"
@@ -1973,9 +3201,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2020-01-19 21:19:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2020-01-18 15:13:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2020-01-20 13:55:53 -0600"
+    },
+    "done": true
+  },
   "kitpvp:achievements/its_poison_in_one_bite": {
     "criteria": {
       "welcome": "2019-11-17 16:13:13 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2019-11-27 13:26:12 -0600"
     },
     "done": true
   },
@@ -1985,27 +3237,33 @@
     },
     "done": true
   },
-  "kitpvp:played/bomberman": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "welcome": "2020-04-18 20:54:46 -0500"
+      "has_glowstone_dust": "2019-11-27 13:39:24 -0600"
     },
     "done": true
   },
-  "kitpvp:played/aqua": {
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
-      "welcome": "2020-04-22 20:08:16 -0500"
+      "has_glass": "2019-11-17 16:17:58 -0600"
     },
     "done": true
   },
-  "kitpvp:played/shadow": {
+  "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
-      "welcome": "2020-04-19 18:40:14 -0500"
+      "has_diamond": "2019-11-27 13:26:12 -0600"
     },
     "done": true
   },
-  "kitpvp:played/thomasthetrain": {
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
-      "welcome": "2020-04-22 21:22:11 -0500"
+      "has_planks": "2020-01-20 13:57:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2020-01-19 12:06:33 -0600"
     },
     "done": true
   },
@@ -2021,9 +3279,15 @@
     },
     "done": true
   },
-  "kitpvp:played/bat": {
+  "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
-      "welcome": "2020-04-21 23:41:32 -0500"
+      "has_packed_ice": "2020-01-22 20:53:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2020-01-13 17:05:35 -0600"
     },
     "done": true
   },
@@ -2039,6 +3303,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2019-11-27 13:10:35 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2020-01-20 11:56:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_dark_oak_planks": "2020-01-20 13:57:01 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
       "has_magenta_dye": "2019-12-10 21:48:43 -0600"
@@ -2051,33 +3333,33 @@
     },
     "done": true
   },
-  "kitpvp:played/royalebomber": {
+  "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
-      "welcome": "2020-04-22 17:06:53 -0500"
+      "has_planks": "2020-01-18 15:13:31 -0600"
     },
     "done": true
   },
   "kitpvp:played/earnarigby": {
     "criteria": {
-      "welcome": "2020-04-22 21:56:41 -0500"
+      "welcome": "2020-04-23 21:53:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2020-01-25 18:00:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_pink_dye": "2019-12-10 22:11:23 -0600"
     },
     "done": true
   },
   "kitpvp:played/mememachindotexe": {
     "criteria": {
-      "welcome": "2020-04-19 19:03:06 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/squidward": {
-    "criteria": {
-      "welcome": "2020-04-22 13:39:32 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/isaac": {
-    "criteria": {
-      "welcome": "2020-04-22 22:48:57 -0500"
+      "welcome": "2020-04-23 21:27:34 -0500"
     },
     "done": true
   },
@@ -2087,9 +3369,15 @@
     },
     "done": true
   },
-  "kitpvp:played/jurigumo": {
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
-      "welcome": "2020-04-22 13:15:42 -0500"
+      "has_carved_pumpkin": "2019-12-20 14:27:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2019-11-17 16:17:58 -0600"
     },
     "done": true
   },
@@ -2099,21 +3387,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2020-01-20 15:44:15 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2020-01-25 16:10:48 -0600"
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
+  "kitpvp:played/baldi": {
     "criteria": {
-      "stone_pickaxe": "2019-11-27 13:31:16 -0600"
+      "welcome": "2020-04-23 22:32:47 -0500"
     },
     "done": true
   },
-  "kitpvp:played/noid": {
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
-      "welcome": "2020-04-20 19:29:01 -0500"
+      "has_glass": "2019-11-17 16:17:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2019-11-27 13:26:12 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2019-11-27 13:31:16 -0600"
     },
     "done": true
   },
@@ -2129,9 +3435,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2020-01-13 17:05:35 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2019-11-27 13:24:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2019-11-17 16:34:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2019-12-12 20:50:51 -0600"
     },
     "done": true
   },
@@ -2147,6 +3471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-01-19 12:20:14 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2020-01-19 12:33:54 -0600"
@@ -2156,6 +3486,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2019-12-13 21:15:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2020-02-28 17:43:40 -0600"
     },
     "done": true
   },
@@ -2177,15 +3513,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2020-01-20 11:56:32 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_mossy_cobblestone": "2020-01-19 21:57:49 -0600"
     },
     "done": true
   },
-  "kitpvp:played/link": {
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
-      "welcome": "2020-04-22 21:14:32 -0500"
+      "has_diorite": "2020-01-19 12:06:34 -0600"
     },
     "done": true
   },
@@ -2195,33 +3537,63 @@
     },
     "done": true
   },
-  "kitpvp:played/maxcaulfield": {
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
-      "welcome": "2020-04-22 17:13:31 -0500"
+      "has_nether_bricks": "2020-04-23 21:11:31 -0500"
     },
     "done": true
   },
-  "kitpvp:played/popuko": {
+  "minecraft:recipes/decorations/loom": {
     "criteria": {
-      "welcome": "2020-04-20 17:44:46 -0500"
+      "has_string": "2019-11-27 13:53:02 -0600"
     },
     "done": true
   },
-  "kitpvp:played/bidoof": {
+  "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
-      "welcome": "2020-04-22 15:45:33 -0500"
+      "has_white_wool": "2020-01-20 11:56:32 -0600"
     },
     "done": true
   },
-  "kitpvp:played/_pjmgaming_": {
+  "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
-      "welcome": "2020-04-22 15:50:07 -0500"
+      "has_diamond": "2019-11-27 13:26:12 -0600"
     },
     "done": true
   },
-  "kitpvp:arenapairs/forest": {
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
-      "welcome": "2020-04-17 19:47:29 -0500"
+      "has_stone_bricks": "2020-01-19 21:24:12 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-04-23 20:44:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2020-01-20 13:56:41 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-04-23 20:44:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2020-01-20 11:56:32 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/one_hundred_wins": {
+    "criteria": {
+      "welcome": "2019-11-17 15:53:22 -0600"
     },
     "done": true
   },
@@ -2231,21 +3603,15 @@
     },
     "done": true
   },
-  "kitpvp:played/us": {
+  "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
-      "welcome": "2020-04-22 14:22:18 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/dipperpines": {
-    "criteria": {
-      "welcome": "2020-04-22 23:06:36 -0500"
+      "has_bamboo": "2019-11-27 13:18:23 -0600"
     },
     "done": true
   },
   "kitpvp:played/bee": {
     "criteria": {
-      "welcome": "2020-04-22 20:28:55 -0500"
+      "welcome": "2020-04-23 21:06:30 -0500"
     },
     "done": true
   },
@@ -2255,15 +3621,15 @@
     },
     "done": true
   },
-  "kitpvp:played/americanhighschoolstudent": {
-    "criteria": {
-      "welcome": "2020-04-22 16:32:01 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-11-17 16:02:20 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/theres_a_game_you_should_probably_focus_on": {
+    "criteria": {
+      "welcome": "2019-11-17 16:07:45 -0600"
     },
     "done": true
   },
@@ -2273,15 +3639,27 @@
     },
     "done": true
   },
-  "kitpvp:played/reallystonedguy": {
+  "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
-      "welcome": "2020-04-22 20:57:02 -0500"
+      "has_glass": "2019-11-17 16:17:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2020-01-19 15:40:51 -0600"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2020-01-20 13:54:46 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2020-01-20 17:56:59 -0600"
     },
     "done": true
   },
@@ -2297,15 +3675,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-01-19 14:47:52 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2020-01-19 15:49:28 -0600"
     },
     "done": true
   },
-  "kitpvp:played/elderguardian": {
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
-      "welcome": "2020-04-22 13:03:48 -0500"
+      "has_andesite": "2020-01-19 21:54:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2019-11-27 13:26:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2020-01-25 17:51:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2019-12-13 21:15:03 -0600"
     },
     "done": true
   },
@@ -2315,9 +3717,9 @@
     },
     "done": true
   },
-  "kitpvp:played/malekab": {
+  "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
-      "welcome": "2020-04-22 23:29:17 -0500"
+      "has_cobblestone": "2020-01-19 21:19:14 -0600"
     },
     "done": true
   },
@@ -2333,6 +3735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-01-19 21:57:49 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald_from_smelting": {
     "criteria": {
       "has_emerald_ore": "2020-01-25 17:42:07 -0600"
@@ -2345,6 +3753,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2020-01-20 11:55:41 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2020-02-21 19:40:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2020-01-18 15:13:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-20 13:54:46 -0600"
+    },
+    "done": true
+  },
   "kitpvp:achievements/i_despise_summoning_kits": {
     "criteria": {
       "welcome": "2019-11-17 16:12:03 -0600"
@@ -2354,6 +3786,24 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-01-13 17:05:35 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/pikachu": {
+    "criteria": {
+      "welcome": "2020-04-23 21:55:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-20 13:54:46 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2020-01-13 17:26:59 -0600"
     },
     "done": true
   },
@@ -2393,21 +3843,21 @@
     },
     "done": true
   },
-  "kitpvp:played/chicken": {
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "welcome": "2020-04-18 20:35:27 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/steve": {
-    "criteria": {
-      "welcome": "2020-04-18 20:23:35 -0500"
+      "has_white_dye": "2019-12-12 12:49:12 -0600"
     },
     "done": true
   },
   "kitpvp:achievements/yaritai_koto_wa": {
     "criteria": {
       "welcome": "2020-04-22 15:00:38 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/witherskeleton": {
+    "criteria": {
+      "welcome": "2020-04-23 21:12:35 -0500"
     },
     "done": true
   },
@@ -2429,27 +3879,45 @@
     },
     "done": true
   },
-  "kitpvp:played/skeletonhorse": {
+  "kitpvp:achievements/i_just_stood_here": {
     "criteria": {
-      "welcome": "2020-04-22 15:21:12 -0500"
+      "welcome": "2019-11-17 16:08:20 -0600"
     },
     "done": true
   },
-  "kitpvp:played/traderllama": {
+  "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
-      "welcome": "2020-04-22 15:27:17 -0500"
+      "has_wither_skeleton_skull": "2019-12-01 18:14:52 -0600"
     },
     "done": true
   },
   "kitpvp:played/fox": {
     "criteria": {
-      "welcome": "2020-04-22 17:34:39 -0500"
+      "welcome": "2020-04-23 20:59:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2020-01-12 19:23:01 -0600"
     },
     "done": true
   },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2020-01-16 15:00:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2020-01-19 21:20:57 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2019-11-17 16:54:49 -0600"
     },
     "done": true
   },
@@ -2471,2803 +3939,15 @@
     },
     "done": true
   },
-  "kitpvp:played/horseminer_": {
-    "criteria": {
-      "welcome": "2020-04-19 19:07:45 -0500"
-    },
-    "done": true
-  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2020-01-19 15:32:23 -0600"
     },
     "done": true
   },
-  "kitpvp:played/hobbes": {
-    "criteria": {
-      "welcome": "2020-04-20 19:19:04 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2019-12-13 21:03:32 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/evoker": {
-    "criteria": {
-      "welcome": "2020-04-19 17:23:06 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/lasershark280": {
-    "criteria": {
-      "welcome": "2020-04-22 21:51:30 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_blue_dye": "2019-11-27 12:58:27 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
-    "criteria": {
-      "has_blue_dye": "2019-11-27 12:58:27 -0600"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2019-12-20 13:49:01 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_stone": "2020-01-19 21:54:30 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/llama": {
-    "criteria": {
-      "welcome": "2020-04-22 13:00:36 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/petergriffin": {
-    "criteria": {
-      "welcome": "2020-04-22 16:54:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_block": {
-    "criteria": {
-      "has_chorus_fruit_popped": "2019-12-10 22:20:50 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/burger": {
-    "criteria": {
-      "welcome": "2020-04-20 19:07:29 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2020-01-20 13:56:41 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/spongebob": {
-    "criteria": {
-      "welcome": "2020-04-18 20:44:53 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/you_have_lost_connection_to_jesus": {
-    "criteria": {
-      "welcome": "2019-11-17 15:53:41 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2020-01-12 19:23:01 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/magentaugandanknuckles": {
-    "criteria": {
-      "welcome": "2020-04-19 18:27:05 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/found_the_button": {
-    "criteria": {
-      "welcome": "2019-11-17 16:17:28 -0600"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2019-11-27 13:15:52 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2019-12-12 20:50:51 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/ridley": {
-    "criteria": {
-      "welcome": "2020-04-22 22:39:13 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/phantom": {
-    "criteria": {
-      "welcome": "2020-04-22 13:53:42 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2019-12-11 11:50:53 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
-    "criteria": {
-      "has_dark_prismarine": "2020-01-25 18:00:23 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/hey_youre_pretty_good": {
-    "criteria": {
-      "welcome": "2019-11-17 15:54:54 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2020-01-19 21:54:30 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_wool": {
-    "criteria": {
-      "has_white_wool": "2020-01-20 11:56:32 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/horse": {
-    "criteria": {
-      "welcome": "2020-04-19 17:26:14 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_stone": "2020-01-13 17:05:35 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/laserjerweh280": {
-    "criteria": {
-      "welcome": "2020-04-22 23:17:10 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
-    "criteria": {
-      "has_planks": "2020-01-18 15:13:31 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_light_gray_dye": "2019-11-27 13:26:12 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/illusioner": {
-    "criteria": {
-      "welcome": "2020-04-19 16:09:37 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/herobrine": {
-    "criteria": {
-      "welcome": "2020-04-22 13:33:37 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/enderman": {
-    "criteria": {
-      "welcome": "2020-04-19 17:19:35 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
-    "criteria": {
-      "has_smooth_red_sandstone": "2020-01-19 15:34:24 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
-    "criteria": {
-      "has_gray_dye": "2019-12-10 22:11:23 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_stick": "2020-04-18 18:26:23 -0500"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2019-12-20 14:23:25 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
-    "criteria": {
-      "has_pink_dye": "2019-12-10 22:11:23 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2019-12-01 18:38:05 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_bed": {
-    "criteria": {
-      "has_light_blue_wool": "2020-01-19 21:05:19 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_stained_glass": {
-    "criteria": {
-      "has_glass": "2019-11-17 16:17:58 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/serena": {
-    "criteria": {
-      "welcome": "2020-04-22 16:12:41 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2019-11-27 13:53:02 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2019-11-17 16:17:58 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_stained_glass": {
-    "criteria": {
-      "has_glass": "2019-11-17 16:17:58 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2019-12-12 20:56:09 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2020-01-13 17:26:59 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:arenapairs/root": {
-    "criteria": {
-      "welcome": "2020-04-17 19:43:07 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/steveai": {
-    "criteria": {
-      "welcome": "2020-04-21 23:31:50 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_door": {
-    "criteria": {
-      "has_planks": "2020-01-18 15:13:31 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_yellow_dye": "2019-12-10 21:48:43 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2020-01-19 12:33:54 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2019-11-17 16:17:58 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
-    "criteria": {
-      "has_planks": "2020-01-18 15:13:31 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2020-01-19 12:20:14 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/flyingspaghettimonster": {
-    "criteria": {
-      "welcome": "2020-04-20 18:27:24 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2020-01-12 19:23:01 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/root": {
-    "criteria": {
-      "welcome": "2020-04-17 21:53:29 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_stained_glass": {
-    "criteria": {
-      "has_glass": "2019-11-17 16:17:58 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2020-04-18 18:13:15 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2019-11-17 16:54:38 -0600"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2019-11-27 13:12:12 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2019-12-13 21:15:03 -0600"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2019-11-24 17:45:35 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2019-11-17 16:02:32 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/pig": {
-    "criteria": {
-      "welcome": "2020-04-19 17:11:42 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/explodingkitty": {
-    "criteria": {
-      "welcome": "2020-04-19 18:48:25 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_sandstone": {
-    "criteria": {
-      "has_sand": "2020-01-19 21:09:51 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2019-11-24 17:59:14 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/cow": {
-    "criteria": {
-      "welcome": "2020-04-19 18:05:06 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_button": {
-    "criteria": {
-      "has_planks": "2020-01-20 13:57:01 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_stairs": {
-    "criteria": {
-      "has_purpur_block": "2020-01-25 17:46:24 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/shears": {
-    "criteria": {
-      "has_iron_ingot": "2019-12-20 14:23:25 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2020-01-12 19:23:01 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2020-01-19 16:00:48 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2020-01-19 21:57:49 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/cod": {
-    "criteria": {
-      "welcome": "2020-04-21 23:48:01 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_carpet": {
-    "criteria": {
-      "has_blue_wool": "2020-01-13 17:05:33 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2019-11-24 17:45:36 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2019-11-27 13:47:25 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/pigman": {
-    "criteria": {
-      "welcome": "2020-04-18 20:28:16 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/endermite": {
-    "criteria": {
-      "welcome": "2020-04-22 14:15:18 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/pingu": {
-    "criteria": {
-      "welcome": "2020-04-20 17:12:09 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2019-12-11 19:06:43 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_purpur_block": "2020-01-25 17:46:24 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/magmacube": {
-    "criteria": {
-      "welcome": "2020-04-19 18:07:37 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2019-12-11 19:06:43 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2020-01-19 21:19:14 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2020-01-15 17:49:34 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/puttputt": {
-    "criteria": {
-      "welcome": "2020-04-22 23:23:49 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/rob": {
-    "criteria": {
-      "welcome": "2020-04-19 18:35:41 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/mule": {
-    "criteria": {
-      "welcome": "2020-04-22 14:11:32 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/ten_wins": {
-    "criteria": {
-      "welcome": "2019-11-17 15:53:28 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_terracotta": {
-    "criteria": {
-      "has_terracotta": "2020-01-20 13:54:46 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/mexicanman": {
-    "criteria": {
-      "welcome": "2020-04-20 18:46:17 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/the_worst_time": {
-    "criteria": {
-      "welcome": "2019-11-17 16:00:24 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2020-01-19 21:57:49 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/technoblade": {
-    "criteria": {
-      "welcome": "2020-04-22 20:25:24 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/donkeykong": {
-    "criteria": {
-      "welcome": "2020-04-22 20:51:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_terracotta": {
-    "criteria": {
-      "has_terracotta": "2020-01-20 13:54:46 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2020-03-06 13:57:06 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_red_sandstone": "2020-01-19 15:34:24 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2020-02-26 16:35:44 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
-    "criteria": {
-      "has_prismarine_bricks": "2020-02-27 11:45:30 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/zombiehorse": {
-    "criteria": {
-      "welcome": "2020-04-22 13:56:30 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_stained_glass": {
-    "criteria": {
-      "has_glass": "2019-11-17 16:17:58 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2019-11-17 16:02:32 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2020-01-19 14:47:52 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
-    "criteria": {
-      "has_purple_dye": "2019-11-27 13:44:43 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2019-12-13 21:15:03 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/sans": {
-    "criteria": {
-      "welcome": "2020-04-21 23:15:58 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/turtle": {
-    "criteria": {
-      "welcome": "2020-04-21 23:45:11 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_double_plant": "2019-11-27 13:55:11 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/supergranny": {
-    "criteria": {
-      "welcome": "2020-04-22 16:45:23 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2019-11-27 13:16:22 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/fushijj": {
-    "criteria": {
-      "welcome": "2020-04-21 23:24:54 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2020-01-19 12:21:04 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/turtle_helmet": {
-    "criteria": {
-      "has_scute": "2019-12-20 13:16:27 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2020-01-19 21:19:14 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2020-01-12 19:23:01 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2020-01-19 21:54:30 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/wario": {
-    "criteria": {
-      "welcome": "2020-04-20 19:36:25 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2019-11-17 16:34:55 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/iron_trapdoor": {
-    "criteria": {
-      "has_iron_ingot": "2019-12-20 14:23:25 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/funkykong": {
-    "criteria": {
-      "welcome": "2020-04-20 17:48:16 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/pillager": {
-    "criteria": {
-      "welcome": "2020-04-22 14:09:02 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/starbuckscup": {
-    "criteria": {
-      "welcome": "2020-04-22 16:18:30 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/trollface": {
-    "criteria": {
-      "welcome": "2020-04-22 21:06:22 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/yoshi": {
-    "criteria": {
-      "welcome": "2020-04-22 21:28:18 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2020-01-19 12:20:14 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/napstaton": {
-    "criteria": {
-      "welcome": "2020-04-22 21:54:13 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2019-11-27 13:53:02 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2019-11-27 13:26:12 -0600"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2020-01-25 22:03:41 -0600",
-      "minecraft:spider": "2020-02-18 21:34:14 -0600",
-      "minecraft:phantom": "2020-02-27 11:30:43 -0600",
-      "minecraft:zombified_piglin": "2019-12-13 12:21:30 -0600",
-      "minecraft:husk": "2020-01-19 20:51:52 -0600",
-      "minecraft:silverfish": "2020-01-25 22:03:36 -0600",
-      "minecraft:zombie": "2020-01-16 19:10:22 -0600"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2019-12-10 21:38:22 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2019-12-20 14:50:42 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2019-11-17 15:54:00 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_banner": {
-    "criteria": {
-      "has_yellow_wool": "2020-01-19 15:59:56 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/dolan": {
-    "criteria": {
-      "welcome": "2020-04-18 20:51:59 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_brown_dye": "2019-12-09 12:19:58 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_stained_glass": {
-    "criteria": {
-      "has_glass": "2019-11-17 16:17:58 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/cosmog": {
-    "criteria": {
-      "welcome": "2020-04-22 15:41:24 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
-    "criteria": {
-      "has_polished_diorite": "2020-01-19 12:06:34 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2019-12-10 21:38:22 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2019-12-12 20:56:09 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2020-01-13 17:05:35 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/rosalina": {
-    "criteria": {
-      "welcome": "2020-04-20 19:54:52 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chain": {
-    "criteria": {
-      "has_iron_ingot": "2020-04-19 17:14:44 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/4display": {
-    "criteria": {
-      "welcome": "2019-11-17 15:47:18 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/watermelonface": {
-    "criteria": {
-      "welcome": "2020-04-20 18:32:32 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_bed": {
-    "criteria": {
-      "has_yellow_wool": "2020-01-19 15:59:56 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_terracotta": {
-    "criteria": {
-      "has_terracotta": "2020-01-20 13:54:46 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_red_dye": "2019-12-10 22:07:04 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2020-01-12 19:23:01 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2019-11-27 13:12:12 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/barney": {
-    "criteria": {
-      "welcome": "2020-04-19 18:23:19 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/tropicalfish": {
-    "criteria": {
-      "welcome": "2020-04-22 13:59:29 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/gamecube": {
-    "criteria": {
-      "welcome": "2020-04-22 23:02:02 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/spider": {
-    "criteria": {
-      "welcome": "2020-04-19 17:18:06 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
-    "criteria": {
-      "has_light_gray_dye": "2019-11-27 13:26:12 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_magenta_dye": "2019-12-10 21:48:43 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_red_dye": "2019-12-10 22:07:04 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2019-12-20 14:20:30 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2019-12-20 13:49:01 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/shrek": {
-    "criteria": {
-      "welcome": "2020-04-20 17:32:50 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/darkness": {
-    "criteria": {
-      "welcome": "2020-04-22 20:22:02 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_wool": {
-    "criteria": {
-      "has_white_wool": "2020-01-20 11:56:32 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/five_wins": {
-    "criteria": {
-      "welcome": "2019-11-17 15:53:15 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2019-12-13 21:15:03 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/hatkid": {
-    "criteria": {
-      "welcome": "2020-04-20 18:53:01 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/mintugandanknuckles": {
-    "criteria": {
-      "welcome": "2020-04-20 16:57:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
-    "criteria": {
-      "has_log": "2020-01-20 11:33:55 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/chuckecheese": {
-    "criteria": {
-      "welcome": "2020-04-19 16:23:01 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_blue_flower": "2019-12-10 21:55:02 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/gandalf": {
-    "criteria": {
-      "welcome": "2020-04-20 19:22:58 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/being_level_with_them": {
-    "criteria": {
-      "welcome": "2019-11-17 15:51:16 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/did_you_just_hide_or_something": {
-    "criteria": {
-      "welcome": "2019-11-17 15:49:34 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2019-11-17 16:17:58 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/1display": {
-    "criteria": {
-      "welcome": "2019-11-17 15:47:18 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
-    "criteria": {
-      "has_polished_diorite": "2020-01-19 12:06:34 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/ea": {
-    "criteria": {
-      "welcome": "2020-04-20 19:05:24 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/zelgius": {
-    "criteria": {
-      "welcome": "2020-04-22 22:44:00 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2020-01-12 19:23:01 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_iron_ingot": "2019-12-20 14:23:25 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/cavespider": {
-    "criteria": {
-      "welcome": "2020-04-18 20:30:26 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_red_flower": "2019-12-10 21:55:02 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2020-01-19 15:27:33 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
-    "criteria": {
-      "has_smooth_red_sandstone": "2020-01-19 15:34:24 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_yellow_flower": "2020-01-19 15:36:46 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2020-03-06 13:57:06 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/tails": {
-    "criteria": {
-      "welcome": "2020-04-19 18:45:12 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/sonic": {
-    "criteria": {
-      "welcome": "2020-04-19 18:38:02 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2019-11-24 17:59:14 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/grassblock": {
-    "criteria": {
-      "welcome": "2020-04-22 23:26:15 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2020-01-19 12:20:14 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_carpet": {
-    "criteria": {
-      "has_light_blue_wool": "2020-01-19 21:05:19 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2020-02-27 13:53:50 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/polarbear": {
-    "criteria": {
-      "welcome": "2020-04-18 20:32:00 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/vindicator": {
-    "criteria": {
-      "welcome": "2020-04-19 16:11:48 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_axe": {
-    "criteria": {
-      "has_iron_ingot": "2019-12-20 14:23:25 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2019-11-27 13:39:24 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2020-02-28 21:07:47 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/ness": {
-    "criteria": {
-      "welcome": "2020-04-22 21:47:18 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2020-01-19 15:49:28 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2019-12-10 21:38:22 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2019-11-27 13:53:02 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_black_flower": "2020-03-05 19:31:55 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2019-11-27 12:58:27 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/godzilla": {
-    "criteria": {
-      "welcome": "2020-04-22 23:04:33 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2020-01-19 12:20:14 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/berniesanders": {
-    "criteria": {
-      "welcome": "2020-04-22 22:02:14 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/ludwig": {
-    "criteria": {
-      "welcome": "2020-04-20 17:48:20 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2020-04-20 17:05:25 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine_brick": "2020-02-27 11:45:30 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2020-01-20 16:07:17 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
-    "criteria": {
-      "has_orange_dye": "2020-04-22 13:08:36 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2019-11-17 16:02:32 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/inkling": {
-    "criteria": {
-      "welcome": "2020-04-22 21:33:38 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_stick": "2019-11-24 17:59:14 -0600"
-    },
-    "done": true
-  },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2020-04-20 19:24:52 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/wither": {
-    "criteria": {
-      "welcome": "2020-04-22 15:12:40 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_wool": {
-    "criteria": {
-      "has_white_wool": "2020-01-20 11:56:32 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/captainamerica": {
-    "criteria": {
-      "welcome": "2020-04-22 20:36:02 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2019-12-20 14:20:30 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2019-12-10 22:16:00 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2020-01-20 11:55:41 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_shovel": "2019-11-27 13:18:23 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/blaze": {
-    "criteria": {
-      "welcome": "2020-04-18 20:57:57 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
-    "criteria": {
-      "has_smooth_sandstone": "2020-01-25 17:57:10 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/ghast": {
-    "criteria": {
-      "welcome": "2020-04-19 18:46:46 -0500"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombified_piglin": "2019-12-13 12:21:30 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_glazed_terracotta": {
-    "criteria": {
-      "has_black_terracotta": "2020-01-20 13:57:31 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/jerweh": {
-    "criteria": {
-      "welcome": "2020-04-18 20:10:21 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_terracotta": {
-    "criteria": {
-      "has_terracotta": "2020-01-20 13:54:46 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/linkbreathofthewild": {
-    "criteria": {
-      "welcome": "2020-04-22 20:40:59 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/lucina": {
-    "criteria": {
-      "welcome": "2020-04-22 21:24:35 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2020-01-20 11:55:41 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/amyrose": {
-    "criteria": {
-      "welcome": "2020-04-22 18:35:25 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2020-01-19 21:19:14 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_carpet": {
-    "criteria": {
-      "has_green_wool": "2019-11-17 16:52:32 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2019-11-17 16:02:32 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_terracotta": {
-    "criteria": {
-      "has_terracotta": "2020-01-20 13:54:46 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/evilbrainless": {
-    "criteria": {
-      "welcome": "2020-04-18 20:02:34 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_white_dye": "2019-12-12 12:49:12 -0600"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:cold_ocean": "2019-11-17 16:40:42 -0600",
-      "minecraft:badlands_plateau": "2019-11-17 16:16:36 -0600",
-      "minecraft:mountains": "2019-11-17 16:16:38 -0600",
-      "minecraft:forest": "2019-11-17 15:48:40 -0600",
-      "minecraft:taiga_hills": "2019-11-17 16:42:51 -0600",
-      "minecraft:desert": "2019-11-17 16:32:35 -0600",
-      "minecraft:jungle": "2019-11-17 16:34:00 -0600",
-      "minecraft:warm_ocean": "2019-11-17 16:43:23 -0600",
-      "minecraft:badlands": "2019-11-17 16:42:26 -0600",
-      "minecraft:dark_forest": "2019-11-17 16:32:33 -0600",
-      "minecraft:snowy_taiga": "2019-11-17 16:39:08 -0600",
-      "minecraft:mushroom_field_shore": "2019-11-17 16:32:50 -0600",
-      "minecraft:swamp": "2019-11-17 16:34:36 -0600",
-      "minecraft:savanna": "2019-11-17 16:34:19 -0600",
-      "minecraft:plains": "2019-11-17 16:39:39 -0600"
-    },
-    "done": false
-  },
-  "kitpvp:played/ib": {
-    "criteria": {
-      "welcome": "2020-04-20 18:42:52 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/shyguy": {
-    "criteria": {
-      "welcome": "2020-04-22 13:45:08 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/abigail": {
-    "criteria": {
-      "welcome": "2020-04-22 15:58:09 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_carpet": {
-    "criteria": {
-      "has_light_gray_wool": "2020-02-27 13:53:50 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_wood_slab": "2019-12-11 09:08:31 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_banner": {
-    "criteria": {
-      "has_light_blue_wool": "2020-01-19 21:05:19 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_carpet": {
-    "criteria": {
-      "has_purple_wool": "2020-01-20 15:44:15 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smithing_table": {
-    "criteria": {
-      "has_iron_ingot": "2019-12-20 14:23:25 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/i_didnt_want_to_play_anyways": {
-    "criteria": {
-      "welcome": "2019-11-17 16:12:41 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/salmon": {
-    "criteria": {
-      "welcome": "2020-04-22 12:41:46 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/kirby": {
-    "criteria": {
-      "welcome": "2020-04-22 21:37:31 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2019-11-17 16:02:32 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2019-12-13 21:03:32 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_tulip": {
-    "criteria": {
-      "has_red_flower": "2020-01-19 22:15:56 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/joesephstalin": {
-    "criteria": {
-      "welcome": "2020-04-22 23:34:05 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2020-01-19 21:19:14 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/perrytheplatypus": {
-    "criteria": {
-      "welcome": "2020-04-19 18:29:08 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/bigchungus": {
-    "criteria": {
-      "welcome": "2020-04-22 22:58:55 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2020-01-13 17:26:59 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2020-02-02 11:35:34 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
-    "criteria": {
-      "has_red_flower": "2020-03-05 19:32:02 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2019-11-27 13:26:12 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_carpet": {
-    "criteria": {
-      "has_yellow_wool": "2020-01-19 15:59:56 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2020-01-12 19:23:01 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2020-01-12 19:23:01 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/sheep": {
-    "criteria": {
-      "welcome": "2020-04-19 16:08:15 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/everyone_died_the_end": {
-    "criteria": {
-      "welcome": "2019-11-17 15:52:18 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2019-11-27 13:18:23 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/krusty": {
-    "criteria": {
-      "welcome": "2020-04-19 18:11:41 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall": {
-    "criteria": {
-      "has_sandstone": "2020-01-20 16:07:17 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2019-12-09 12:19:54 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/litten": {
-    "criteria": {
-      "welcome": "2020-04-22 15:34:49 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_light_blue_dye": "2019-11-27 13:26:12 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall": {
-    "criteria": {
-      "has_andesite": "2020-01-19 21:54:30 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab": {
-    "criteria": {
-      "has_andesite": "2020-01-19 21:54:30 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_stairs": {
-    "criteria": {
-      "has_planks": "2020-01-19 14:47:52 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_red_flower": "2020-01-20 12:00:08 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2019-12-20 14:50:42 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_banner": {
-    "criteria": {
-      "has_blue_wool": "2020-01-13 17:05:33 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
-    "criteria": {
-      "has_white_dye": "2019-12-12 12:49:12 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_terracotta": {
-    "criteria": {
-      "has_terracotta": "2020-01-20 13:54:46 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/senjorsasquach": {
-    "criteria": {
-      "welcome": "2020-04-19 18:59:10 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
-    "criteria": {
-      "has_quartz_pillar": "2019-11-17 17:01:56 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_terracotta": {
-    "criteria": {
-      "has_terracotta": "2020-01-20 13:54:46 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2020-01-19 21:19:14 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/adolfhitler": {
-    "criteria": {
-      "welcome": "2020-04-20 18:57:53 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2020-02-26 16:35:44 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/peterpan": {
-    "criteria": {
-      "welcome": "2020-04-22 23:21:21 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2020-01-25 18:00:23 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_banner": {
-    "criteria": {
-      "has_lime_wool": "2019-11-17 16:52:34 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2020-01-19 21:54:30 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2020-01-20 11:56:32 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2019-12-13 20:43:19 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_bed": {
-    "criteria": {
-      "has_magenta_wool": "2020-01-19 14:48:15 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2019-12-10 22:16:00 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2019-11-17 16:08:37 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/possessedarmor": {
-    "criteria": {
-      "welcome": "2020-04-19 18:32:27 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/snorlax": {
-    "criteria": {
-      "welcome": "2020-04-22 15:32:49 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2019-12-13 21:15:03 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_purpur_block": "2020-01-25 17:46:24 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2020-01-20 11:55:41 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2019-11-17 16:02:32 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/reddit": {
-    "criteria": {
-      "welcome": "2020-04-22 18:28:31 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_carpet": {
-    "criteria": {
-      "has_pink_wool": "2020-01-19 14:48:08 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2020-01-14 16:43:33 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/solidsnake": {
-    "criteria": {
-      "welcome": "2020-04-22 17:25:42 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
-    "criteria": {
-      "has_red_dye": "2019-12-10 22:07:04 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2019-11-17 16:34:55 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2019-12-13 20:51:46 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/squirtle": {
-    "criteria": {
-      "welcome": "2020-04-22 13:22:32 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2019-12-10 21:38:22 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_brown_mushroom": "2019-12-20 13:23:34 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_wool": {
-    "criteria": {
-      "has_white_wool": "2020-01-20 11:56:32 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/vex": {
-    "criteria": {
-      "welcome": "2020-04-22 15:30:21 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2020-01-13 17:05:35 -0600"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_porkchop": "2020-01-25 21:33:04 -0600",
-      "sweet_berries": "2020-01-16 17:02:40 -0600",
-      "cooked_beef": "2019-11-27 13:23:32 -0600",
-      "baked_potato": "2019-12-13 21:17:27 -0600",
-      "apple": "2020-01-19 20:36:57 -0600",
-      "spider_eye": "2019-11-17 16:13:13 -0600",
-      "potato": "2020-01-16 16:23:54 -0600",
-      "cooked_cod": "2019-12-10 22:14:50 -0600",
-      "cookie": "2019-12-12 21:14:41 -0600",
-      "suspicious_stew": "2020-01-25 21:53:55 -0600",
-      "salmon": "2020-01-16 16:54:56 -0600",
-      "cooked_chicken": "2019-11-27 13:54:33 -0600",
-      "mushroom_stew": "2020-01-19 20:59:40 -0600",
-      "cooked_salmon": "2020-01-25 21:29:24 -0600",
-      "carrot": "2019-12-11 11:52:30 -0600"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/gray_terracotta": {
-    "criteria": {
-      "has_terracotta": "2020-01-20 13:54:46 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2019-11-27 13:12:12 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
-    "criteria": {
-      "has_red_nether_bricks": "2020-01-20 13:56:41 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2020-01-19 21:19:14 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/witch": {
-    "criteria": {
-      "welcome": "2020-04-19 17:10:17 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/2display": {
-    "criteria": {
-      "welcome": "2019-11-17 15:47:18 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2019-11-17 15:54:00 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_green_dye": "2019-12-10 22:07:04 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2020-01-19 12:06:34 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/reggie": {
-    "criteria": {
-      "welcome": "2020-04-22 21:47:29 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/have_you_tried_not_dying": {
-    "criteria": {
-      "welcome": "2019-11-21 16:28:36 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_banner": {
-    "criteria": {
-      "has_pink_wool": "2020-01-19 14:48:08 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/sun_seeker": {
-    "criteria": {
-      "welcome": "2020-04-18 18:26:23 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
-    "criteria": {
-      "has_prismarine_bricks": "2020-02-27 11:45:30 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2019-12-13 21:03:32 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_bed": {
-    "criteria": {
-      "has_lime_wool": "2019-11-17 16:52:34 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/pipimi": {
-    "criteria": {
-      "welcome": "2020-04-20 17:48:35 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
-    "criteria": {
-      "has_blue_dye": "2019-11-27 12:58:27 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2020-01-19 21:57:49 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2019-12-10 22:10:47 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2019-11-17 16:17:58 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2019-12-13 20:51:46 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/khonjin": {
-    "criteria": {
-      "welcome": "2020-04-22 23:50:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2020-01-19 12:20:14 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2020-01-20 16:07:17 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2020-02-28 17:43:40 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/resetti": {
-    "criteria": {
-      "welcome": "2020-04-19 17:07:13 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/cat": {
-    "criteria": {
-      "welcome": "2020-04-21 23:56:12 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_carpet": {
-    "criteria": {
-      "has_orange_wool": "2019-11-17 16:02:20 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/megavoltorb": {
-    "criteria": {
-      "welcome": "2020-04-22 21:49:48 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2020-01-25 17:38:27 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2020-04-18 19:56:53 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/meikusakabe": {
-    "criteria": {
-      "welcome": "2020-04-22 16:28:57 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2019-11-27 13:38:45 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/lotad": {
-    "criteria": {
-      "welcome": "2020-04-22 16:52:01 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/clyde": {
-    "criteria": {
-      "welcome": "2020-04-22 13:08:36 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/dragonlady103": {
-    "criteria": {
-      "welcome": "2020-04-18 20:02:45 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/kenny": {
-    "criteria": {
-      "welcome": "2020-04-20 19:32:47 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/daisy": {
-    "criteria": {
-      "welcome": "2020-04-20 19:51:50 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/slime": {
-    "criteria": {
-      "welcome": "2020-04-19 18:09:17 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2019-11-17 16:34:55 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/mooshroom": {
-    "criteria": {
-      "welcome": "2020-04-18 20:26:03 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2020-01-19 15:32:23 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/super_hot": {
-    "criteria": {
-      "welcome": "2019-11-17 16:16:16 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_door": {
-    "criteria": {
-      "has_planks": "2020-01-19 14:47:52 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/samus": {
-    "criteria": {
-      "welcome": "2020-04-20 17:07:02 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/2display": {
-    "criteria": {
-      "welcome": "2020-04-19 18:05:35 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2020-01-19 21:19:14 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2020-01-18 15:13:31 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_glazed_terracotta": {
-    "criteria": {
-      "has_green_terracotta": "2020-01-20 13:55:53 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2019-11-27 13:26:12 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2019-11-27 13:39:24 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2019-11-17 16:17:58 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2019-11-27 13:26:12 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2020-01-20 13:57:01 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
-    "criteria": {
-      "has_polished_granite": "2020-01-19 12:06:33 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2020-01-22 20:53:42 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2020-01-13 17:05:35 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/knuckles": {
-    "criteria": {
-      "welcome": "2020-04-20 17:16:19 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/sayakamiki": {
-    "criteria": {
-      "welcome": "2020-04-22 16:59:52 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2019-11-27 13:10:35 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2020-01-20 11:56:32 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_sign": {
-    "criteria": {
-      "has_dark_oak_planks": "2020-01-20 13:57:01 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
-    "criteria": {
-      "has_planks": "2020-01-18 15:13:31 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/pilot": {
-    "criteria": {
-      "welcome": "2020-04-22 21:08:47 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
-    "criteria": {
-      "has_dark_prismarine": "2020-01-25 18:00:23 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_pink_dye": "2019-12-10 22:11:23 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jack_o_lantern": {
-    "criteria": {
-      "has_carved_pumpkin": "2019-12-20 14:27:15 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glass_pane": {
-    "criteria": {
-      "has_glass": "2019-11-17 16:17:58 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_banner": {
-    "criteria": {
-      "has_purple_wool": "2020-01-20 15:44:15 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/baldi": {
-    "criteria": {
-      "welcome": "2020-04-19 16:17:40 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_stained_glass": {
-    "criteria": {
-      "has_glass": "2019-11-17 16:17:58 -0600"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2019-11-27 13:26:12 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2020-01-13 17:05:35 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2019-11-17 16:34:55 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/cappy": {
-    "criteria": {
-      "welcome": "2020-04-22 21:11:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2019-12-12 20:50:51 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2020-01-19 12:20:14 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/pepe": {
-    "criteria": {
-      "welcome": "2020-04-19 16:17:25 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2020-02-28 17:43:40 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/feverentacolyte": {
-    "criteria": {
-      "welcome": "2020-04-20 17:02:44 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/stevewithazombiemask": {
-    "criteria": {
-      "welcome": "2020-04-22 13:36:28 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_wool": {
-    "criteria": {
-      "has_white_wool": "2020-01-20 11:56:32 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2020-01-19 12:06:34 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/loom": {
-    "criteria": {
-      "has_string": "2019-11-27 13:53:02 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/jontron": {
-    "criteria": {
-      "welcome": "2020-04-22 13:12:18 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_wool": {
-    "criteria": {
-      "has_white_wool": "2020-01-20 11:56:32 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_axe": {
-    "criteria": {
-      "has_diamond": "2019-11-27 13:26:12 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2020-01-19 21:24:12 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/glass": {
-    "criteria": {
-      "welcome": "2020-04-20 18:39:55 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
-    "criteria": {
-      "has_red_nether_bricks": "2020-01-20 13:56:41 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/wizard_craft": {
-    "criteria": {
-      "welcome": "2020-04-22 20:18:25 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_wool": {
-    "criteria": {
-      "has_white_wool": "2020-01-20 11:56:32 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/peppapig": {
-    "criteria": {
-      "welcome": "2020-04-20 17:48:10 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/one_hundred_wins": {
-    "criteria": {
-      "welcome": "2019-11-17 15:53:22 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/scaffolding": {
-    "criteria": {
-      "has_bamboo": "2019-11-27 13:18:23 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/jumperhand3": {
-    "criteria": {
-      "welcome": "2020-04-22 17:30:37 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/theres_a_game_you_should_probably_focus_on": {
-    "criteria": {
-      "welcome": "2019-11-17 16:07:45 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_stained_glass": {
-    "criteria": {
-      "has_glass": "2019-11-17 16:17:58 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_glazed_terracotta": {
-    "criteria": {
-      "has_blue_terracotta": "2020-01-19 15:40:51 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/hatsunemiku": {
-    "criteria": {
-      "welcome": "2020-04-20 17:10:24 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/donkey": {
-    "criteria": {
-      "welcome": "2020-04-22 12:30:24 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2020-01-20 17:56:59 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
-    "criteria": {
-      "has_planks": "2020-01-19 14:47:52 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2020-01-19 21:54:30 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2019-11-27 13:26:52 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot": {
-    "criteria": {
-      "has_gold_ore": "2020-01-25 17:51:25 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2019-12-13 21:15:03 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/angrylink": {
-    "criteria": {
-      "welcome": "2020-04-20 16:53:54 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2020-01-19 21:19:14 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2020-01-19 21:57:49 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
-    "criteria": {
-      "has_diorite": "2020-01-20 11:55:41 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_shell": "2020-02-21 19:40:03 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2020-01-18 15:13:31 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_terracotta": {
-    "criteria": {
-      "has_terracotta": "2020-01-20 13:54:46 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/pikachu": {
-    "criteria": {
-      "welcome": "2020-04-20 17:39:01 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/geocraftz": {
-    "criteria": {
-      "welcome": "2020-04-18 20:22:16 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/jeffthepersonman": {
-    "criteria": {
-      "welcome": "2020-04-22 15:55:29 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_terracotta": {
-    "criteria": {
-      "has_terracotta": "2020-01-20 13:54:46 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2020-01-13 17:26:59 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/gumball": {
-    "criteria": {
-      "welcome": "2020-04-22 17:09:06 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/spike": {
-    "criteria": {
-      "welcome": "2020-04-22 22:46:08 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/darksamus": {
-    "criteria": {
-      "welcome": "2020-04-22 20:31:36 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_white_dye": "2019-12-12 12:49:12 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/witherskeleton": {
-    "criteria": {
-      "welcome": "2020-04-18 20:37:57 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/weedle": {
-    "criteria": {
-      "welcome": "2020-04-22 15:43:32 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/i_just_stood_here": {
-    "criteria": {
-      "welcome": "2019-11-17 16:08:20 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/skull_banner_pattern": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2019-12-01 18:14:52 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/gordonfreeman": {
-    "criteria": {
-      "welcome": "2020-04-22 21:57:04 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:played/husk": {
-    "criteria": {
-      "welcome": "2020-04-19 18:03:24 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2020-01-12 19:23:01 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/pacman9826": {
-    "criteria": {
-      "welcome": "2020-04-22 15:52:56 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
-    "criteria": {
-      "has_smooth_quartz": "2020-01-19 21:20:57 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/slime_ball": {
-    "criteria": {
-      "has_slime": "2019-11-17 16:54:49 -0600"
-    },
-    "done": true
-  },
-  "kitpvp:played/skeleton": {
-    "criteria": {
-      "welcome": "2020-04-19 17:13:16 -0500"
-    },
-    "done": true
-  },
   "kitpvp:played/maxminer789": {
     "criteria": {
-      "welcome": "2020-04-18 20:18:19 -0500"
+      "welcome": "2020-04-23 21:20:25 -0500"
     },
     "done": true
   },
@@ -5277,15 +3957,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2019-12-13 21:03:32 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2020-01-19 12:06:33 -0600"
     },
     "done": true
   },
-  "kitpvp:played/wanderingtrader": {
+  "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
-      "welcome": "2020-04-22 12:54:08 -0500"
+      "has_log": "2020-04-23 22:13:23 -0500"
     },
     "done": true
   },
@@ -5307,9 +3993,21 @@
     },
     "done": true
   },
-  "kitpvp:played/lambdadelta": {
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
-      "welcome": "2020-04-22 21:03:38 -0500"
+      "has_blue_dye": "2019-11-27 12:58:27 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:arenapairs/3display": {
+    "criteria": {
+      "welcome": "2020-04-23 23:04:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_blue_dye": "2019-11-27 12:58:27 -0600"
     },
     "done": true
   },
@@ -5319,9 +4017,15 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-12-20 13:49:01 -0600"
+    },
+    "done": true
+  },
   "kitpvp:played/shulker": {
     "criteria": {
-      "welcome": "2020-04-19 16:04:40 -0500"
+      "welcome": "2020-04-23 22:12:41 -0500"
     },
     "done": true
   },
@@ -5331,9 +4035,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2020-01-19 21:54:30 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-01-20 13:57:01 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/petergriffin": {
+    "criteria": {
+      "welcome": "2020-04-23 22:49:07 -0500"
     },
     "done": true
   },
@@ -5355,9 +4071,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2019-12-10 22:20:50 -0600"
+    },
+    "done": true
+  },
   "kitpvp:achievements/twenty_five_wins": {
     "criteria": {
       "welcome": "2019-11-17 15:53:34 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2020-04-23 21:11:31 -0500"
     },
     "done": true
   },
@@ -5379,9 +4107,15 @@
     },
     "done": true
   },
-  "kitpvp:arenapairs/cave": {
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
-      "welcome": "2020-04-17 19:51:26 -0500"
+      "has_nether_bricks": "2020-01-20 13:56:41 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/you_have_lost_connection_to_jesus": {
+    "criteria": {
+      "welcome": "2019-11-17 15:53:41 -0600"
     },
     "done": true
   },
@@ -5391,9 +4125,9 @@
     },
     "done": true
   },
-  "kitpvp:played/cutecreeper": {
+  "minecraft:recipes/redstone/oak_door": {
     "criteria": {
-      "welcome": "2020-04-22 17:27:38 -0500"
+      "has_planks": "2020-01-12 19:23:01 -0600"
     },
     "done": true
   },
@@ -5405,7 +4139,7 @@
   },
   "kitpvp:played/parrot": {
     "criteria": {
-      "welcome": "2020-04-22 12:50:31 -0500"
+      "welcome": "2020-04-23 22:21:53 -0500"
     },
     "done": true
   },
@@ -5417,7 +4151,19 @@
   },
   "kitpvp:played/snowgolem": {
     "criteria": {
-      "welcome": "2020-04-19 17:21:44 -0500"
+      "welcome": "2020-04-23 22:40:08 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/found_the_button": {
+    "criteria": {
+      "welcome": "2019-11-17 16:17:28 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-11-27 13:15:52 -0600"
     },
     "done": true
   },
@@ -5427,9 +4173,15 @@
     },
     "done": true
   },
-  "kitpvp:played/kingkrool": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "welcome": "2020-04-18 20:43:06 -0500"
+      "has_iron_block": "2019-12-12 20:50:51 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2020-04-23 20:44:36 -0500"
     },
     "done": true
   },
@@ -5442,6 +4194,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2019-11-17 16:34:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2019-12-11 11:50:53 -0600"
     },
     "done": true
   },
@@ -5469,21 +4227,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2020-01-25 18:00:23 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/hey_youre_pretty_good": {
+    "criteria": {
+      "welcome": "2019-11-17 15:54:54 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_rod": {
     "criteria": {
       "has_chorus_fruit_popped": "2019-12-10 22:20:50 -0600"
     },
     "done": true
   },
-  "kitpvp:played/ravager": {
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
-      "welcome": "2020-04-22 15:14:59 -0500"
+      "has_andesite": "2020-01-19 21:54:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2020-01-20 11:56:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2020-04-23 21:11:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-04-23 20:44:36 -0500"
     },
     "done": true
   },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2019-11-27 13:13:12 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2020-01-13 17:05:35 -0600"
     },
     "done": true
   },
@@ -5499,12 +4293,6 @@
     },
     "done": true
   },
-  "kitpvp:played/calliopecaliborn": {
-    "criteria": {
-      "welcome": "2020-04-22 16:24:20 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stripped_jungle_wood": {
     "criteria": {
       "has_log": "2020-01-25 17:51:19 -0600"
@@ -5513,7 +4301,7 @@
   },
   "kitpvp:played/ugandanknuckles": {
     "criteria": {
-      "welcome": "2020-04-19 16:19:50 -0500"
+      "welcome": "2020-04-23 22:34:22 -0500"
     },
     "done": true
   },
@@ -5530,9 +4318,15 @@
     },
     "done": false
   },
-  "kitpvp:played/nadekosengoku": {
+  "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
-      "welcome": "2020-04-22 22:41:02 -0500"
+      "has_planks": "2020-01-18 15:13:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_gray_dye": "2019-11-27 13:26:12 -0600"
     },
     "done": true
   },
@@ -5572,6 +4366,12 @@
     },
     "done": true
   },
+  "kitpvp:played/herobrine": {
+    "criteria": {
+      "welcome": "2020-04-23 21:01:41 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2020-01-20 13:57:01 -0600"
@@ -5584,21 +4384,57 @@
     },
     "done": true
   },
-  "kitpvp:played/lucario": {
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
     "criteria": {
-      "welcome": "2020-04-22 16:34:07 -0500"
+      "has_smooth_red_sandstone": "2020-01-19 15:34:24 -0600"
     },
     "done": true
   },
-  "kitpvp:played/cactusheader23": {
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
-      "welcome": "2020-04-22 15:37:56 -0500"
+      "has_gray_dye": "2019-12-10 22:11:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2020-04-18 18:26:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2019-12-20 14:23:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_pink_dye": "2019-12-10 22:11:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2019-12-01 18:38:05 -0600"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2020-01-19 21:57:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2020-01-19 21:05:19 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2019-11-17 16:17:58 -0600"
     },
     "done": true
   },

@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Look, I blend right in!"},
+		"description": {"text":"Play as ExplodingKitty on TNT Run."},
+		"icon": {
+			"item": "minecraft:tnt"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/hatkidspaceship",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

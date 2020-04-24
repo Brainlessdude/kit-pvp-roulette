@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Undah da see"},
+		"description": {"text":"Play as Tropical Fish on Warm Ocean."},
+		"icon": {
+			"item": "minecraft:brain_coral_block"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/skyblock",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

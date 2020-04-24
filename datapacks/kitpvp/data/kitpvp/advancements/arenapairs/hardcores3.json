@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Tower of Reeds"},
+		"description": {"text":"Play as MaxMiner789 on Hardcore: Season 3."},
+		"icon": {
+			"item": "minecraft:orange_terracotta"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/flowerforest",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

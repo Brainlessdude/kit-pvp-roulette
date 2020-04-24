@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Gold block defense"},
+		"description": {"text":"Play as Guardian on Ocean Monument."},
+		"icon": {
+			"item": "minecraft:prismarine_bricks"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/mesa",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

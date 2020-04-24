@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Roommates with Hypixel"},
+		"description": {"text":"Play as Technoblade on Skyblock."},
+		"icon": {
+			"item": "minecraft:light_blue_concrete_powder"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/roofedforest",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

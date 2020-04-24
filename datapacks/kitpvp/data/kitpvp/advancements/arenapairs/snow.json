@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"I'm useless here"},
+		"description": {"text":"Play as Snow Golem on Snow."},
+		"icon": {
+			"item": "minecraft:snow_block"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/root",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

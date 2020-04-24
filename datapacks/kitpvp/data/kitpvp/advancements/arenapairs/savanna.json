@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Prepared for this fight"},
+		"description": {"text":"Play as Scar on Savanna."},
+		"icon": {
+			"item": "minecraft:acacia_log"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/sansfight",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

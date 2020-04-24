@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Hey, I made this!"},
+		"description": {"text":"Play as the secret kit on Hardcore: Season 8."},
+		"icon": {
+			"item": "minecraft:stripped_oak_log"
+		},
+		"frame": "challenge"
+	},
+	"parent": "kitpvp:arenapairs/stronghold",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

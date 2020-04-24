@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Will this make you talk!?"},
+		"description": {"text":"Play as Fox on Tiaga."},
+		"icon": {
+			"item": "minecraft:podzol"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/nether",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Look to the stars"},
+		"description": {"text":"Play as Scrooge McDuck on The Moon."},
+		"icon": {
+			"item": "minecraft:emerald_block"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/thegreatpug",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

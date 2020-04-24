@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"The kit at the end of the game"},
+		"description": {"text":"Play as Skulker on End City."},
+		"icon": {
+			"item": "minecraft:purpur_block"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/mazeofdark",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

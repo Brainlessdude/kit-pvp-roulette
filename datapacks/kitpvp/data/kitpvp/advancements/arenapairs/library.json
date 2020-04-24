@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Sleepy Time..."},
+		"description": {"text":"Play as Gary [Dream Version] on Library."},
+		"icon": {
+			"item": "minecraft:bookshelf"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/warmocean",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

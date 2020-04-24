@@ -1,5 +1,5 @@
 {
-	"parent": "kitpvp:played/pig",
+	"parent": "kitpvp:played/madeline",
 	"criteria": {
 		"welcome": {
 			"trigger": "minecraft:impossible"

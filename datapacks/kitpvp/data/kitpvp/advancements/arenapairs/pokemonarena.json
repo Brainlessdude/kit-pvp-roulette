@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"PIKACHOO USE THUNDERBOLT"},
+		"description": {"text":"Play as Pikachu on Pokemon Arena."},
+		"icon": {
+			"item": "minecraft:smooth_stone"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/commandblockcomplex",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

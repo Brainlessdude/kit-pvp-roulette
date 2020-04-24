@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"We love it in the Nether"},
+		"description": {"text":"Play as Zombie Pigman on Nether."},
+		"icon": {
+			"item": "minecraft:netherrack"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/desert",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

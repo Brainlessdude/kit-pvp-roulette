@@ -6,6 +6,8 @@
 			"item": "minecraft:gold_block"
 		},
 		"background": "minecraft:textures/block/gold_block.png",
+        "show_toast": false,
+        "announce_to_chat": false,
 		"frame": "goal"
 	},
 	"criteria": {

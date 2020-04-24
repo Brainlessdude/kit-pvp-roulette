@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Oh shOOT IT WORKED-"},
+		"description": {"text":"Play as Herobrine on Roofed Forest."},
+		"icon": {
+			"item": "minecraft:dark_oak_log"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/hardcores5",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

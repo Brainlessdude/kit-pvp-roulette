@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Gold diggin'"},
+		"description": {"text":"Play as Wario on Mesa."},
+		"icon": {
+			"item": "minecraft:terracotta"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/snow",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

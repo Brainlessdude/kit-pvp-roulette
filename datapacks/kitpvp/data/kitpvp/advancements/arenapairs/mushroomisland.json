@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Fungus among us"},
+		"description": {"text":"Play as Mooshroom on Mushroom Island."},
+		"icon": {
+			"item": "minecraft:red_mushroom_block"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/cave",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

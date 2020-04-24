@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"A game of tag."},
+		"description": {"text":"Play as Pedobear on Maze of Dark."},
+		"icon": {
+			"item": "minecraft:black_wool"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/hardcores8",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

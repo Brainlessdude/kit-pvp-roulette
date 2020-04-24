@@ -1,0 +1,8 @@
+{
+	"parent": "kitpvp:played/khonjin",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

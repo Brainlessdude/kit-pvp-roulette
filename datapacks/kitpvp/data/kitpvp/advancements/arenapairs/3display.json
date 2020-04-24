@@ -1,0 +1,8 @@
+{
+	"parent": "kitpvp:arenapairs/themoon",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

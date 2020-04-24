@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Walk like an Egyptian"},
+		"description": {"text":"Play as Villager on Desert Village."},
+		"icon": {
+			"item": "minecraft:smooth_sandstone"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/greenhill",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}
