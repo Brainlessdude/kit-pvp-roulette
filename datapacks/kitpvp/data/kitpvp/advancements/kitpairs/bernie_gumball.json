@@ -1,0 +1,17 @@
+{
+	"display": {
+		"title": {"text":"'Slightly' opposing viewpoints"},
+		"description": {"text":"Play a round with both Bernie Sanders and Gumball Watterson in it."},
+		"icon": {
+			"item": "minecraft:leather_chestplate",
+			"nbt": "{display:{color:4160400}}"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:kitpairs/root",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

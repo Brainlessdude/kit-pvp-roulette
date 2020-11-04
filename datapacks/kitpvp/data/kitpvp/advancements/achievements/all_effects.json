@@ -5,7 +5,7 @@
       "item": "minecraft:bucket"
     },
     "title": {
-      "translate": "advancements.nether.all_effects.title"
+      "translate": "advancements.nether.all_effects.title","color": "#FF0000"
     },
     "description": {
       "translate": "advancements.nether.all_effects.description"

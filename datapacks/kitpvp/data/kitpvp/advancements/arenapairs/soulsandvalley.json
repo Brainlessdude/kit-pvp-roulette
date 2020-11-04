@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Meow"},
+		"description": {"text":"Play as Ghast on Soul Sand Valley."},
+		"icon": {
+			"item": "minecraft:soul_soil"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/fratellispizza",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

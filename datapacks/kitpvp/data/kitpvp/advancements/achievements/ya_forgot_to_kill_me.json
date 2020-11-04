@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"Ya fools forgot to kill me!"},
+		"title": {"text":"Ya fools forgot to kill me!","color": "#FF0000"},
 		"description": {"text":"During battle, return to at least 10 hearts of health after being at 2 or less hearts of health."},
 		"icon": {
 			"item": "minecraft:golden_apple"

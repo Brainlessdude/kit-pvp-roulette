@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"Did you just hide or something"},
+		"title": {"text":"Did you just hide or something","color": "#FF0000"},
 		"description": {"text":"Win a round without taking damage."},
 		"icon": {
 			"item": "minecraft:rabbit_hide"

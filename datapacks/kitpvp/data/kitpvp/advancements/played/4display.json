@@ -1,5 +1,5 @@
 {
-	"parent": "kitpvp:played/khonjin",
+	"parent": "kitpvp:played/stal",
 	"criteria": {
 		"welcome": {
 			"trigger": "minecraft:impossible"

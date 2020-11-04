@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Wait! There's warped stuff here!!"},
+		"description": {"text":"Play as Hoglin on Warped/Crimson Forest"},
+		"icon": {
+			"item": "minecraft:warped_stem"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/griffinhouse",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

@@ -1,5 +1,5 @@
 {
-	"parent": "kitpvp:arenapairs/griffinhouse",
+	"parent": "kitpvp:arenapairs/dreamysteamteam",
 	"criteria": {
 		"welcome": {
 			"trigger": "minecraft:impossible"

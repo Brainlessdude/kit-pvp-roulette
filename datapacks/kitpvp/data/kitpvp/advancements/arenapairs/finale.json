@@ -7,7 +7,7 @@
 		},
 		"frame": "task"
 	},
-	"parent": "kitpvp:arenapairs/redarea",
+	"parent": "kitpvp:arenapairs/playerheads",
 	"criteria": {
 		"welcome": {
 			"trigger": "minecraft:impossible"

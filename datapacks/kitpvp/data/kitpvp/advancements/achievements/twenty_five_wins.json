@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"A notable amount of dedication"},
+		"title": {"text":"A notable amount of dedication","color": "#FF0000"},
 		"description": {"text":"Win 25 rounds."},
 		"icon": {
 			"item": "minecraft:golden_sword"

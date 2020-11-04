@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"You must be cheating somehow..."},
+		"title": {"text":"You must be cheating somehow...","color": "#FF0000"},
 		"description": {"text":"Win the arena vote 3 times in a row."},
 		"icon": {
 			"item": "minecraft:string"

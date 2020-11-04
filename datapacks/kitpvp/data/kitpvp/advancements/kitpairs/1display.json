@@ -1,0 +1,8 @@
+{
+	"parent": "kitpvp:kitpairs/hatsunemiku_noid",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

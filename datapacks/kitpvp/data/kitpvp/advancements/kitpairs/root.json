@@ -1,0 +1,18 @@
+{
+	"display": {
+		"title": {"text":"Legendary Duels"},
+		"description": {"text":"For when two kits in a round match each other a little to well."},
+		"icon": {
+			"item": "minecraft:netherite_block"
+		},
+		"background": "minecraft:textures/block/netherite_block.png",
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "goal"
+	},
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"Alright, go play something else"},
+		"title": {"text":"Alright, go play something else","color": "#FF0000"},
 		"description": {"text":"Win 50 rounds."},
 		"icon": {
 			"item": "minecraft:diamond_sword"

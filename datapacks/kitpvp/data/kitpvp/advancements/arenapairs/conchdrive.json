@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Ready?"},
+		"description": {"text":"Play as Spongebob on Conch Drive."},
+		"icon": {
+			"item": "minecraft:blackstone"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/themoon",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"This is more of a win"},
+		"description": {"text":"Play as Jurigumo on | || || |_."},
+		"icon": {
+			"item": "minecraft:crying_obsidian"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/soulsandvalley",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

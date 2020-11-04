@@ -1,0 +1,17 @@
+{
+	"display": {
+		"title": {"text":"Battle of the Bozos"},
+		"description": {"text":"Play a round with both Technoblade and Squid in it."},
+		"icon": {
+			"item": "minecraft:leather_chestplate",
+			"nbt": "{display:{color:7743569}}"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:kitpairs/root",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

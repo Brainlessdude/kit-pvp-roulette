@@ -1,5 +1,5 @@
 {
-	"parent": "kitpvp:played/ke0p",
+	"parent": "kitpvp:played/vector",
 	"criteria": {
 		"welcome": {
 			"trigger": "minecraft:impossible"

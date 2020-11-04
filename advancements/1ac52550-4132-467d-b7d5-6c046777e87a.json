@@ -1,359 +1,243 @@
 {
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
-      "has_iron_axe": "2020-02-28 22:18:34 -0500"
+      "has_iron_axe": "2020-02-28 21:18:34 -0600"
     },
     "done": true
   },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
-      "has_book": "2020-02-28 23:10:36 -0500"
+      "has_book": "2020-02-28 22:10:36 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
+  "kitpvp:arenapairs/root": {
     "criteria": {
-      "has_stick": "2020-02-28 22:07:43 -0500"
+      "welcome": "2020-04-24 20:15:46 -0500"
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "kitpvp:played/freddyfazbear": {
     "criteria": {
-      "minecraft:zombie": "2020-02-28 22:52:33 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2020-02-28 23:10:36 -0500"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2020-02-28 22:05:56 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2020-02-28 23:20:16 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2020-02-28 22:48:25 -0500"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:cold_ocean": "2020-02-28 22:18:05 -0500",
-      "minecraft:forest": "2020-02-28 22:18:04 -0500",
-      "minecraft:mountains": "2020-02-28 22:06:48 -0500",
-      "minecraft:badlands_plateau": "2020-02-28 22:07:03 -0500",
-      "minecraft:taiga_hills": "2020-02-28 22:17:03 -0500",
-      "minecraft:desert": "2020-02-28 22:05:38 -0500",
-      "minecraft:warm_ocean": "2020-02-28 22:16:57 -0500",
-      "minecraft:badlands": "2020-02-28 22:18:11 -0500",
-      "minecraft:dark_forest": "2020-02-28 22:21:26 -0500",
-      "minecraft:snowy_taiga": "2020-02-28 22:39:17 -0500",
-      "minecraft:mushroom_field_shore": "2020-02-28 22:06:49 -0500",
-      "minecraft:swamp": "2020-02-28 22:34:02 -0500",
-      "minecraft:savanna": "2020-02-28 22:39:21 -0500",
-      "minecraft:plains": "2020-02-28 23:17:36 -0500"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2020-02-28 22:07:43 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_block": {
-    "criteria": {
-      "has_chorus_fruit_popped": "2020-02-28 23:23:15 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2020-02-28 22:07:43 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/1display": {
-    "criteria": {
-      "welcome": "2020-02-28 22:02:01 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2020-02-28 22:48:25 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2020-02-28 22:07:43 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/3display": {
-    "criteria": {
-      "welcome": "2020-02-28 22:02:01 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2020-02-28 22:32:19 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2020-02-28 22:07:29 -0500"
-    },
-    "done": true
-  },
-  "minecraft:end/levitate": {
-    "criteria": {
-      "levitated": "2020-02-28 22:39:42 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2020-02-28 22:07:43 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_red_flower": "2020-02-28 22:18:34 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2020-02-28 22:36:48 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2020-02-28 22:07:29 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/you_have_lost_connection_to_jesus": {
-    "criteria": {
-      "welcome": "2020-02-28 23:19:37 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/super_hot": {
-    "criteria": {
-      "welcome": "2020-02-28 22:21:25 -0500"
-    },
-    "done": true
-  },
-  "kitpvp:achievements/i_didnt_want_to_play_anyways": {
-    "criteria": {
-      "welcome": "2020-02-28 22:09:32 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2020-02-28 22:12:40 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2020-02-28 22:07:29 -0500"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2020-02-28 22:06:00 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2020-02-28 22:07:29 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_horse_armor": "2020-02-28 23:05:35 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2020-02-28 22:07:43 -0500"
-    },
-    "done": true
-  },
-  "minecraft:adventure/throw_trident": {
-    "criteria": {
-      "shot_trident": "2020-02-28 22:11:44 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2020-02-28 22:07:43 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2020-02-28 22:20:16 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2020-02-28 22:07:29 -0500"
+      "welcome": "2020-04-24 20:16:03 -0500"
     },
     "done": true
   },
   "minecraft:recipes/decorations/end_rod": {
     "criteria": {
-      "has_chorus_fruit_popped": "2020-02-28 23:23:15 -0500"
+      "has_chorus_fruit_popped": "2020-02-28 22:23:15 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/pokemon_stadium": {
+    "criteria": {
+      "welcome": "2020-04-24 20:15:31 -0500"
     },
     "done": true
   },
   "kitpvp:achievements/root": {
     "criteria": {
-      "welcome": "2020-02-28 22:02:01 -0500"
+      "welcome": "2020-02-28 21:02:01 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
+  "kitpvp:played/thomasthetrain": {
     "criteria": {
-      "has_emerald": "2020-02-28 22:32:19 -0500"
+      "welcome": "2020-04-24 20:25:23 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
+  "kitpvp:arenapairs/1display": {
     "criteria": {
-      "has_egg": "2020-02-28 23:17:24 -0500"
+      "welcome": "2020-04-24 20:15:46 -0500"
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "kitpvp:arenapairs/2display": {
     "criteria": {
-      "minecraft:skeleton": "2020-02-28 23:12:50 -0500",
-      "minecraft:zombie": "2020-02-28 22:52:33 -0500"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis": "2020-02-28 23:20:16 -0500"
+      "welcome": "2020-04-24 20:15:46 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
+  "kitpvp:arenapairs/3display": {
     "criteria": {
-      "has_book": "2020-02-28 23:10:36 -0500"
+      "welcome": "2020-04-24 20:15:46 -0500"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "kitpvp:played/megavoltorb": {
     "criteria": {
-      "rotten_flesh": "2020-02-28 22:12:08 -0500"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2020-02-28 22:07:43 -0500"
+      "welcome": "2020-04-24 20:14:51 -0500"
     },
     "done": true
   },
-  "kitpvp:achievements/nice": {
+  "minecraft:adventure/ol_betsy": {
     "criteria": {
-      "welcome": "2020-02-28 23:22:12 -0500"
+      "shot_crossbow": "2020-02-28 21:05:56 -0600"
     },
     "done": true
   },
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
-      "has_magenta_dye": "2020-02-28 22:40:41 -0500"
+      "has_magenta_dye": "2020-02-28 21:40:41 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+  "kitpvp:achievements/nice": {
     "criteria": {
-      "has_iron_axe": "2020-02-28 22:18:34 -0500"
+      "welcome": "2020-02-28 22:22:12 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/that_was_unnecessary": {
+    "criteria": {
+      "welcome": "2020-04-24 20:27:07 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:arenapairs/4display": {
+    "criteria": {
+      "welcome": "2020-04-24 20:15:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2020-02-28 21:07:43 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2020-02-28 22:23:15 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/root": {
+    "criteria": {
+      "welcome": "2020-04-24 20:15:46 -0500"
     },
     "done": true
   },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_light_gray_dye": "2020-02-28 22:20:16 -0500"
+      "has_light_gray_dye": "2020-02-28 21:20:16 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+  "kitpvp:achievements/1display": {
     "criteria": {
-      "has_golden_horse_armor": "2020-02-28 23:05:35 -0500"
+      "welcome": "2020-02-28 21:02:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2020-02-28 21:07:43 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/3display": {
+    "criteria": {
+      "welcome": "2020-02-28 21:02:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2020-02-28 21:32:19 -0600"
     },
     "done": true
   },
   "kitpvp:achievements/4display": {
     "criteria": {
-      "welcome": "2020-02-28 22:02:01 -0500"
+      "welcome": "2020-02-28 21:02:01 -0600"
     },
     "done": true
   },
   "kitpvp:achievements/2display": {
     "criteria": {
-      "welcome": "2020-02-28 22:02:01 -0500"
+      "welcome": "2020-02-28 21:02:01 -0600"
     },
     "done": true
   },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
-      "has_lapis_lazuli": "2020-02-28 23:20:16 -0500"
+      "has_lapis_lazuli": "2020-02-28 22:20:16 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/3display": {
+    "criteria": {
+      "welcome": "2020-04-24 20:15:46 -0500"
     },
     "done": true
   },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
-      "has_stick": "2020-02-28 22:07:43 -0500"
+      "has_stick": "2020-02-28 21:07:43 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "kitpvp:achievements/super_hot": {
     "criteria": {
-      "in_water": "2020-02-28 22:07:29 -0500"
+      "welcome": "2020-02-28 21:21:25 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/you_have_lost_connection_to_jesus": {
+    "criteria": {
+      "welcome": "2020-02-28 22:19:37 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/i_didnt_want_to_play_anyways": {
+    "criteria": {
+      "welcome": "2020-02-28 21:09:32 -0600"
     },
     "done": true
   },
   "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
     "criteria": {
-      "has_light_gray_dye": "2020-02-28 22:20:16 -0500"
+      "has_light_gray_dye": "2020-02-28 21:20:16 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/instant_death_no_fun_allowed": {
+    "criteria": {
+      "welcome": "2020-04-24 20:15:42 -0500"
     },
     "done": true
   },
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_magenta_dye": "2020-02-28 22:40:41 -0500"
+      "has_magenta_dye": "2020-02-28 21:40:41 -0600"
     },
     "done": true
   },
-  "DataVersion": 2230
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2020-02-28 22:05:35 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/1display": {
+    "criteria": {
+      "welcome": "2020-04-24 20:15:46 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/4display": {
+    "criteria": {
+      "welcome": "2020-04-24 20:15:46 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/2display": {
+    "criteria": {
+      "welcome": "2020-04-24 20:15:46 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 2529
 }

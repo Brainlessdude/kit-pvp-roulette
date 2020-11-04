@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"I hate making more choices"},
+		"title": {"text":"I hate making more choices","color": "#FF0000"},
 		"description": {"text":"Go back after selecting a kit."},
 		"icon": {
 			"item": "minecraft:dark_oak_door"

@@ -1,5 +1,5 @@
 {
-	"parent": "kitpvp:played/flandrescarlet",
+	"parent": "kitpvp:played/emperorzurg",
 	"criteria": {
 		"welcome": {
 			"trigger": "minecraft:impossible"

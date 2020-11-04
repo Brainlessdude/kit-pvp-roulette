@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"I DESPISE SUMMONING KITS.","bold":true,"italic":true},
+		"title": {"text":"I DESPISE SUMMONING KITS.","bold":true,"italic":true,"color": "#FF0000"},
 		"description": {"text":"Kill 1,000 total mobs.","bold":false,"italic":false},
 		"icon": {
 			"item": "minecraft:chicken"

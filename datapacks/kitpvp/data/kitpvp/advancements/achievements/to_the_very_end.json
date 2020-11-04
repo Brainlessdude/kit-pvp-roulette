@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"To the very end"},
+		"title": {"text":"To the very end","color": "#FF0000"},
 		"description": {"text":"Win a round with no hunger left."},
 		"icon": {
 			"item": "minecraft:rotten_flesh"

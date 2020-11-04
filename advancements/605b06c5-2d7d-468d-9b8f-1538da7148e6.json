@@ -1,7 +1,19 @@
 {
+  "kitpvp:played/squid": {
+    "criteria": {
+      "welcome": "2020-06-29 12:56:48 -0500"
+    },
+    "done": true
+  },
   "kitpvp:played/thebrainlessdude": {
     "criteria": {
       "welcome": "2020-04-23 22:26:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2020-06-28 15:36:17 -0500"
     },
     "done": true
   },
@@ -17,9 +29,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2020-06-30 21:31:45 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:kitpairs/hatsunemiku_noid": {
+    "criteria": {
+      "welcome": "2020-10-18 15:31:30 -0500"
+    },
+    "done": true
+  },
   "kitpvp:arenapairs/root": {
     "criteria": {
       "welcome": "2020-04-23 23:04:35 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/fifty_wins": {
+    "criteria": {
+      "welcome": "2020-04-24 13:11:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2020-06-28 16:03:08 -0500"
     },
     "done": true
   },
@@ -47,9 +83,33 @@
     },
     "done": true
   },
+  "kitpvp:played/luigi": {
+    "criteria": {
+      "welcome": "2020-04-24 18:20:53 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/djprofessork": {
+    "criteria": {
+      "welcome": "2020-06-30 21:04:45 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_yellow_dye": "2019-12-10 21:48:43 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/madeline": {
+    "criteria": {
+      "welcome": "2020-04-24 15:43:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2020-06-30 21:20:10 -0500"
     },
     "done": true
   },
@@ -80,6 +140,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
       "has_polished_granite": "2020-01-19 12:06:33 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/papyrus": {
+    "criteria": {
+      "welcome": "2020-10-18 01:02:28 -0500"
     },
     "done": true
   },
@@ -167,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-04-24 15:37:05 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2019-11-17 16:02:32 -0600"
@@ -191,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2020-06-30 21:31:45 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2020-01-13 17:05:33 -0600"
@@ -200,6 +278,12 @@
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2019-11-27 13:47:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2020-04-24 15:37:05 -0500"
     },
     "done": true
   },
@@ -221,9 +305,21 @@
     },
     "done": true
   },
+  "kitpvp:played/magmacube": {
+    "criteria": {
+      "welcome": "2020-06-28 17:37:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2020-01-20 16:07:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2020-06-27 18:38:36 -0500"
     },
     "done": true
   },
@@ -233,9 +329,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2020-04-24 17:27:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2020-01-15 17:49:34 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/furiousjdestroy": {
+    "criteria": {
+      "welcome": "2020-04-24 19:46:43 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/puttputt": {
+    "criteria": {
+      "welcome": "2020-04-24 18:29:03 -0500"
     },
     "done": true
   },
@@ -251,15 +365,57 @@
     },
     "done": true
   },
+  "kitpvp:achievements/ten_wins": {
+    "criteria": {
+      "welcome": "2020-04-24 13:11:55 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2020-01-20 13:54:46 -0600"
     },
     "done": true
   },
+  "kitpvp:played/ke0p": {
+    "criteria": {
+      "welcome": "2020-04-24 19:35:25 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/mexicanman": {
+    "criteria": {
+      "welcome": "2020-06-29 12:38:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_log": "2020-04-24 16:24:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2020-06-30 21:31:45 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/the_worst_time": {
+    "criteria": {
+      "welcome": "2020-07-05 10:25:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2020-01-19 21:57:49 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/simpleflips": {
+    "criteria": {
+      "welcome": "2020-06-29 19:16:20 -0500"
     },
     "done": true
   },
@@ -275,6 +431,18 @@
     },
     "done": true
   },
+  "kitpvp:played/bob": {
+    "criteria": {
+      "welcome": "2020-04-24 20:00:58 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/teletubby": {
+    "criteria": {
+      "welcome": "2020-06-27 20:31:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
       "has_magenta_wool": "2020-01-19 14:48:15 -0600"
@@ -284,6 +452,12 @@
   "minecraft:recipes/misc/creeper_banner_pattern": {
     "criteria": {
       "has_creeper_head": "2019-12-20 13:50:28 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2020-06-28 16:00:35 -0500"
     },
     "done": true
   },
@@ -317,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2020-06-27 18:38:36 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2019-11-17 16:17:58 -0600"
@@ -341,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-24 16:26:10 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2019-12-20 14:23:25 -0600"
@@ -350,6 +536,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-01-19 21:54:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2020-04-24 15:37:05 -0500"
     },
     "done": true
   },
@@ -395,6 +587,18 @@
     },
     "done": true
   },
+  "kitpvp:kitpairs/root": {
+    "criteria": {
+      "welcome": "2020-10-18 15:24:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2020-07-02 14:06:38 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_lime_dye": "2019-12-12 12:49:19 -0600"
@@ -404,6 +608,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-01-19 21:19:14 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/foxmccloud": {
+    "criteria": {
+      "welcome": "2020-06-29 00:14:20 -0500"
     },
     "done": true
   },
@@ -437,6 +647,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2020-06-27 18:38:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2020-06-27 17:19:14 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2020-01-19 21:20:57 -0600"
@@ -446,6 +668,18 @@
   "kitpvp:played/pillager": {
     "criteria": {
       "welcome": "2020-04-23 21:47:03 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/funkykong": {
+    "criteria": {
+      "welcome": "2020-04-24 14:28:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2020-04-24 16:33:27 -0500"
     },
     "done": true
   },
@@ -461,15 +695,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-24 16:26:10 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/flandrescarlet": {
+    "criteria": {
+      "welcome": "2020-04-24 18:36:51 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-01-19 12:20:14 -0600"
     },
     "done": true
   },
+  "kitpvp:played/napstaton": {
+    "criteria": {
+      "welcome": "2020-06-30 15:56:25 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2019-11-17 16:02:32 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:kitpairs/1display": {
+    "criteria": {
+      "welcome": "2020-10-18 15:26:09 -0500"
     },
     "done": true
   },
@@ -491,9 +749,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2020-04-24 16:25:19 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/dolphin": {
+    "criteria": {
+      "welcome": "2020-04-24 14:26:41 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/sekiro": {
+    "criteria": {
+      "welcome": "2020-04-24 18:57:12 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2019-11-17 16:02:20 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/dolan": {
+    "criteria": {
+      "welcome": "2020-06-29 13:05:19 -0500"
     },
     "done": true
   },
@@ -521,6 +803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_crimson_planks": "2020-04-24 15:37:05 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
     "criteria": {
       "has_lime_dye": "2019-12-12 12:49:19 -0600"
@@ -536,6 +824,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2020-04-23 21:11:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2020-06-27 18:38:36 -0500"
     },
     "done": true
   },
@@ -560,6 +854,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-01-13 17:05:35 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2020-04-24 17:27:09 -0500"
     },
     "done": true
   },
@@ -599,6 +899,18 @@
     },
     "done": true
   },
+  "kitpvp:achievements/hope_it_was_worth_it": {
+    "criteria": {
+      "welcome": "2020-04-24 13:16:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2020-06-30 21:31:45 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2019-11-27 12:58:27 -0600"
@@ -617,6 +929,12 @@
     },
     "done": true
   },
+  "kitpvp:played/warterror15": {
+    "criteria": {
+      "welcome": "2020-06-27 20:33:54 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_red_dye": "2019-12-10 22:07:04 -0600"
@@ -626,6 +944,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2020-01-12 19:23:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2020-04-24 17:27:09 -0500"
     },
     "done": true
   },
@@ -644,6 +968,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2020-01-16 14:59:32 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/spider": {
+    "criteria": {
+      "welcome": "2020-10-17 19:51:47 -0500"
     },
     "done": true
   },
@@ -677,6 +1007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone": "2020-06-30 21:31:45 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2020-01-13 17:05:35 -0600"
@@ -686,6 +1022,12 @@
   "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
       "has_cyan_terracotta": "2020-01-20 11:50:38 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/five_wins": {
+    "criteria": {
+      "welcome": "2020-04-24 13:11:55 -0500"
     },
     "done": true
   },
@@ -719,9 +1061,33 @@
     },
     "done": true
   },
+  "kitpvp:played/gandalf": {
+    "criteria": {
+      "welcome": "2020-04-24 19:54:21 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/being_level_with_them": {
+    "criteria": {
+      "welcome": "2020-04-24 14:28:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-11-17 16:17:58 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/did_you_just_hide_or_something": {
+    "criteria": {
+      "welcome": "2020-04-24 13:11:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2020-06-30 21:31:45 -0500"
     },
     "done": true
   },
@@ -734,6 +1100,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2020-01-19 12:06:34 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2020-04-24 15:37:05 -0500"
     },
     "done": true
   },
@@ -767,6 +1139,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2020-04-24 17:27:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2020-04-24 15:37:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-04-24 15:37:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2020-04-24 17:27:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
     "criteria": {
       "has_smooth_red_sandstone": "2020-01-19 15:34:24 -0600"
@@ -797,9 +1193,21 @@
     },
     "done": true
   },
+  "kitpvp:played/panda": {
+    "criteria": {
+      "welcome": "2020-06-29 13:08:45 -0500"
+    },
+    "done": true
+  },
   "kitpvp:played/sonic": {
     "criteria": {
       "welcome": "2020-04-23 21:57:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2020-04-24 17:27:09 -0500"
     },
     "done": true
   },
@@ -815,15 +1223,33 @@
     },
     "done": true
   },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2020-07-01 09:17:25 -0500"
+    },
+    "done": true
+  },
   "kitpvp:played/guardian": {
     "criteria": {
       "welcome": "2020-04-23 20:52:11 -0500"
     },
     "done": true
   },
+  "kitpvp:played/principalofthething": {
+    "criteria": {
+      "welcome": "2020-04-24 18:31:15 -0500"
+    },
+    "done": true
+  },
   "kitpvp:played/lakitu": {
     "criteria": {
       "welcome": "2020-04-23 21:35:51 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/polarbear": {
+    "criteria": {
+      "welcome": "2020-04-24 20:22:36 -0500"
     },
     "done": true
   },
@@ -836,6 +1262,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2020-02-28 21:07:47 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/ness": {
+    "criteria": {
+      "welcome": "2020-04-24 19:09:39 -0500"
     },
     "done": true
   },
@@ -854,6 +1286,12 @@
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_black_flower": "2020-03-05 19:31:55 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/berniesanders": {
+    "criteria": {
+      "welcome": "2020-04-24 19:01:16 -0500"
     },
     "done": true
   },
@@ -887,6 +1325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2020-04-24 17:27:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2019-11-17 16:02:32 -0600"
@@ -902,6 +1346,12 @@
   "kitpvp:played/pedobear": {
     "criteria": {
       "welcome": "2020-04-23 22:03:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2020-04-24 17:27:09 -0500"
     },
     "done": true
   },
@@ -947,6 +1397,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2020-04-24 17:28:32 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-01-19 12:20:14 -0600"
@@ -956,6 +1412,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2020-04-23 21:11:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-24 16:26:10 -0500"
     },
     "done": true
   },
@@ -989,9 +1451,21 @@
     },
     "done": true
   },
+  "kitpvp:achievements/are_there_a_thousand_people_or_something": {
+    "criteria": {
+      "welcome": "2020-06-29 00:19:50 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2020-01-19 12:06:33 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/zombie": {
+    "criteria": {
+      "welcome": "2020-06-28 17:28:35 -0500"
     },
     "done": true
   },
@@ -1028,6 +1502,12 @@
   "kitpvp:played/ib": {
     "criteria": {
       "welcome": "2020-04-23 22:43:43 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:arenapairs/celestalresort": {
+    "criteria": {
+      "welcome": "2020-06-28 18:07:16 -0500"
     },
     "done": true
   },
@@ -1073,6 +1553,12 @@
     },
     "done": true
   },
+  "kitpvp:achievements/i_didnt_want_to_play_anyways": {
+    "criteria": {
+      "welcome": "2020-04-24 18:45:17 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2020-04-18 20:04:40 -0500"
@@ -1091,9 +1577,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2020-06-30 21:31:45 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-01-19 21:19:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2020-11-03 15:09:06 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/perrytheplatypus": {
+    "criteria": {
+      "welcome": "2020-04-24 18:16:16 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/bigchungus": {
+    "criteria": {
+      "welcome": "2020-06-28 23:50:33 -0500"
     },
     "done": true
   },
@@ -1124,6 +1634,12 @@
   "minecraft:recipes/food/honey_bottle": {
     "criteria": {
       "has_honey_block": "2019-11-17 16:54:52 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/pokemon_stadium": {
+    "criteria": {
+      "welcome": "2020-04-24 20:15:31 -0500"
     },
     "done": true
   },
@@ -1169,9 +1685,21 @@
     },
     "done": true
   },
+  "kitpvp:played/mathews1327": {
+    "criteria": {
+      "welcome": "2020-06-29 13:05:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2019-11-27 13:12:12 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/everyone_died_the_end": {
+    "criteria": {
+      "welcome": "2020-06-29 12:59:15 -0500"
     },
     "done": true
   },
@@ -1186,6 +1714,12 @@
       "has_bamboo": "2019-11-27 13:18:23 -0600"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2020-05-21 23:16:17 -0500"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
@@ -1259,15 +1793,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2020-04-24 16:33:22 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2019-12-12 12:49:12 -0600"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2020-06-30 21:31:45 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2020-01-20 13:54:46 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/senjorsasquach": {
+    "criteria": {
+      "welcome": "2020-04-24 20:25:31 -0500"
     },
     "done": true
   },
@@ -1310,6 +1862,12 @@
   "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
       "has_lime_wool": "2019-11-17 16:52:34 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/peterpan": {
+    "criteria": {
+      "welcome": "2020-04-24 18:48:31 -0500"
     },
     "done": true
   },
@@ -1397,6 +1955,12 @@
     },
     "done": true
   },
+  "kitpvp:arenapairs/fratellispizza": {
+    "criteria": {
+      "welcome": "2020-04-24 19:42:30 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2019-11-17 16:02:32 -0600"
@@ -1409,15 +1973,39 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2020-05-21 23:16:05 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2020-04-23 20:44:36 -0500"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-24 16:26:10 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/biggest_meanie_award": {
+    "criteria": {
+      "welcome": "2020-04-24 20:19:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2019-11-27 12:58:27 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2020-04-24 16:25:19 -0500"
     },
     "done": true
   },
@@ -1451,6 +2039,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2020-06-30 21:45:47 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:arenapairs/roofedforest": {
+    "criteria": {
+      "welcome": "2020-04-24 19:45:07 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:arenapairs/loss": {
+    "criteria": {
+      "welcome": "2020-06-28 23:50:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2019-12-10 21:38:22 -0600"
@@ -1463,15 +2069,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2020-06-28 15:40:00 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2020-01-25 17:57:10 -0600"
     },
     "done": true
   },
+  "kitpvp:played/papasmurf": {
+    "criteria": {
+      "welcome": "2020-04-24 20:03:10 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2020-04-18 18:12:37 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/nice": {
+    "criteria": {
+      "welcome": "2020-07-01 10:40:52 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/that_was_unnecessary": {
+    "criteria": {
+      "welcome": "2020-04-24 18:59:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2020-04-24 17:28:32 -0500"
     },
     "done": true
   },
@@ -1529,9 +2165,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2020-04-24 17:27:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-01-19 12:06:34 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/sun_seeker": {
+    "criteria": {
+      "welcome": "2020-06-28 23:54:42 -0500"
     },
     "done": true
   },
@@ -1637,6 +2285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-24 16:26:10 -0500"
+    },
+    "done": true
+  },
   "kitpvp:arenapairs/1display": {
     "criteria": {
       "welcome": "2020-04-23 23:04:50 -0500"
@@ -1646,6 +2300,18 @@
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_orange_wool": "2019-11-17 16:02:20 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2020-06-27 18:38:36 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/megavoltorb": {
+    "criteria": {
+      "welcome": "2020-04-24 20:12:33 -0500"
     },
     "done": true
   },
@@ -1679,6 +2345,12 @@
     },
     "done": true
   },
+  "kitpvp:played/fricken_cabbage": {
+    "criteria": {
+      "welcome": "2020-04-24 19:39:59 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2020-01-19 21:54:30 -0600"
@@ -1697,15 +2369,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2020-04-24 15:37:05 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/kenny": {
+    "criteria": {
+      "welcome": "2020-10-18 00:51:43 -0500"
+    },
+    "done": true
+  },
   "kitpvp:played/villager": {
     "criteria": {
       "welcome": "2020-04-23 22:07:34 -0500"
     },
     "done": true
   },
+  "kitpvp:played/daisy": {
+    "criteria": {
+      "welcome": "2020-04-24 18:15:54 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2020-01-19 12:33:54 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/slime": {
+    "criteria": {
+      "welcome": "2020-10-18 00:41:08 -0500"
     },
     "done": true
   },
@@ -1733,6 +2429,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2020-06-30 21:31:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-24 16:26:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2020-04-24 17:27:09 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/instant_death_no_fun_allowed": {
+    "criteria": {
+      "welcome": "2020-04-24 18:18:51 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2020-01-16 15:00:02 -0600"
@@ -1748,6 +2468,18 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2019-12-13 21:03:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-24 16:26:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-04-24 15:37:05 -0500"
     },
     "done": true
   },
@@ -1778,6 +2510,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2019-11-27 13:10:35 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-24 16:26:10 -0500"
     },
     "done": true
   },
@@ -1847,6 +2585,18 @@
     },
     "done": true
   },
+  "kitpvp:played/isaac": {
+    "criteria": {
+      "welcome": "2020-04-24 18:24:14 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/squidward": {
+    "criteria": {
+      "welcome": "2020-04-24 19:15:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_banner": {
     "criteria": {
       "has_green_wool": "2019-11-17 16:52:32 -0600"
@@ -1859,9 +2609,21 @@
     },
     "done": true
   },
+  "kitpvp:played/jurigumo": {
+    "criteria": {
+      "welcome": "2020-06-28 23:49:03 -0500"
+    },
+    "done": true
+  },
   "kitpvp:played/baldi": {
     "criteria": {
       "welcome": "2020-04-23 22:32:47 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/noid": {
+    "criteria": {
+      "welcome": "2020-10-18 15:29:50 -0500"
     },
     "done": true
   },
@@ -1886,6 +2648,18 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-01-20 16:07:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-24 16:26:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2020-06-27 17:19:14 -0500"
     },
     "done": true
   },
@@ -1973,6 +2747,18 @@
     },
     "done": true
   },
+  "kitpvp:played/peppapig": {
+    "criteria": {
+      "welcome": "2020-06-29 13:09:51 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/one_hundred_wins": {
+    "criteria": {
+      "welcome": "2020-04-24 13:11:55 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-01-19 21:24:12 -0600"
@@ -1985,6 +2771,18 @@
     },
     "done": true
   },
+  "kitpvp:played/us": {
+    "criteria": {
+      "welcome": "2020-04-24 20:33:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2020-06-30 21:31:45 -0500"
+    },
+    "done": true
+  },
   "kitpvp:played/bee": {
     "criteria": {
       "welcome": "2020-04-23 21:06:30 -0500"
@@ -1994,6 +2792,12 @@
   "kitpvp:achievements/3display": {
     "criteria": {
       "welcome": "2020-04-24 12:37:27 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/americanhighschoolstudent": {
+    "criteria": {
+      "welcome": "2020-04-24 18:54:55 -0500"
     },
     "done": true
   },
@@ -2021,6 +2825,12 @@
     },
     "done": true
   },
+  "kitpvp:played/hatsunemiku": {
+    "criteria": {
+      "welcome": "2020-10-18 15:10:41 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2019-11-17 16:02:32 -0600"
@@ -2039,9 +2849,21 @@
     },
     "done": true
   },
+  "kitpvp:achievements/when_the_song_is_a_banger": {
+    "criteria": {
+      "welcome": "2020-06-05 15:58:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_shovel": "2019-11-27 13:18:23 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/malekab": {
+    "criteria": {
+      "welcome": "2020-04-24 18:35:05 -0500"
     },
     "done": true
   },
@@ -2075,15 +2897,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2020-04-24 17:27:09 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/geocraftz": {
+    "criteria": {
+      "welcome": "2020-04-24 19:21:42 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/jeffthepersonman": {
+    "criteria": {
+      "welcome": "2020-04-24 19:49:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2020-06-27 18:38:36 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2020-01-13 17:26:59 -0600"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2020-04-24 15:41:12 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-01-20 16:07:17 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:played/darksamus": {
+    "criteria": {
+      "welcome": "2020-10-18 14:54:23 -0500"
     },
     "done": true
   },
@@ -2111,6 +2969,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2020-04-24 17:27:09 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/skeletonhorse": {
+    "criteria": {
+      "welcome": "2020-04-24 19:03:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2019-12-01 18:14:52 -0600"
@@ -2123,9 +2993,39 @@
     },
     "done": true
   },
+  "kitpvp:played/husk": {
+    "criteria": {
+      "welcome": "2020-04-24 19:30:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2020-04-24 16:33:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2020-06-30 21:31:45 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/pacman9826": {
+    "criteria": {
+      "welcome": "2020-06-29 12:59:55 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_smooth_quartz": "2020-01-19 21:20:57 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2020-04-24 17:27:09 -0500"
     },
     "done": true
   },
@@ -2135,9 +3035,21 @@
     },
     "done": true
   },
+  "kitpvp:achievements/cant_keep_dodging_forever": {
+    "criteria": {
+      "welcome": "2020-04-24 14:30:08 -0500"
+    },
+    "done": true
+  },
   "kitpvp:played/maxminer789": {
     "criteria": {
       "welcome": "2020-04-23 21:20:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2020-06-30 21:08:18 -0500"
     },
     "done": true
   },
@@ -2189,6 +3101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2020-06-30 21:31:45 -0500"
+    },
+    "done": true
+  },
   "kitpvp:played/petergriffin": {
     "criteria": {
       "welcome": "2020-04-23 22:49:07 -0500"
@@ -2207,9 +3125,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-04-24 16:38:15 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/ya_forgot_to_kill_me": {
+    "criteria": {
+      "welcome": "2020-04-24 18:18:51 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/twenty_five_wins": {
+    "criteria": {
+      "welcome": "2020-04-24 13:11:55 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2020-04-23 21:11:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2020-04-24 17:27:09 -0500"
     },
     "done": true
   },
@@ -2222,6 +3164,30 @@
   "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2020-01-20 13:56:41 -0600"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/you_have_lost_connection_to_jesus": {
+    "criteria": {
+      "welcome": "2020-04-24 13:11:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2020-04-24 17:27:09 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:achievements/was_there_not_your_favorite_color": {
+    "criteria": {
+      "welcome": "2020-04-24 19:14:57 -0500"
+    },
+    "done": true
+  },
+  "kitpvp:played/magentaugandanknuckles": {
+    "criteria": {
+      "welcome": "2020-04-24 19:39:56 -0500"
     },
     "done": true
   },
@@ -2243,9 +3209,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2020-06-30 21:31:45 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2020-04-23 20:44:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2020-06-30 21:31:45 -0500"
     },
     "done": true
   },
@@ -2279,6 +3257,18 @@
     },
     "done": true
   },
+  "kitpvp:achievements/hey_youre_pretty_good": {
+    "criteria": {
+      "welcome": "2020-04-24 14:33:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-24 16:26:10 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2020-04-23 20:44:36 -0500"
@@ -2288,6 +3278,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-01-13 17:05:35 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2020-04-24 17:27:09 -0500"
     },
     "done": true
   },
@@ -2309,12 +3305,24 @@
     },
     "done": true
   },
+  "kitpvp:achievements/you_must_be_cheating_somehow": {
+    "criteria": {
+      "welcome": "2020-06-28 16:37:33 -0500"
+    },
+    "done": true
+  },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "textures/entity/cat/tabby.png": "2019-11-27 13:12:54 -0600",
       "textures/entity/cat/white.png": "2019-11-27 13:13:07 -0600"
     },
     "done": false
+  },
+  "kitpvp:played/nadekosengoku": {
+    "criteria": {
+      "welcome": "2020-04-24 13:14:56 -0500"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
@@ -2376,6 +3384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2020-06-30 21:31:45 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_gray_dye": "2019-12-10 22:11:23 -0600"
@@ -2418,5 +3432,11 @@
     },
     "done": true
   },
-  "DataVersion": 2529
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-24 16:26:10 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 2580
 }

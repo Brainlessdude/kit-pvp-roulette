@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"Knowing the ins and outs"},
+		"title": {"text":"Knowing the ins and outs","color": "#FF0000"},
 		"description": {"text":"Win 10 rounds."},
 		"icon": {
 			"item": "minecraft:iron_sword"

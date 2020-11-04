@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"Hey, good job"},
+		"title": {"text":"Hey, good job","color": "#FF0000"},
 		"description": {"text":"Win your first round."},
 		"icon": {
 			"item": "minecraft:wooden_sword"

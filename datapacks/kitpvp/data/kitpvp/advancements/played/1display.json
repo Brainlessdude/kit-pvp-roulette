@@ -1,5 +1,5 @@
 {
-	"parent": "kitpvp:played/madeline",
+	"parent": "kitpvp:played/woodchan",
 	"criteria": {
 		"welcome": {
 			"trigger": "minecraft:impossible"

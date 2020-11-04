@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"Checking In"},
+		"description": {"text":"Play as Madeline on Celestal Resort."},
+		"icon": {
+			"item": "minecraft:stripped_crimson_stem"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/redarea",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

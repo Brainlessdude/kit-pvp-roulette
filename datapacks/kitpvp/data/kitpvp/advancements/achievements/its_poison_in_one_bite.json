@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"It's poison in one bite"},
+		"title": {"text":"It's poison in one bite","color": "#FF0000"},
 		"description": {"text":"Eat a spider eye."},
 		"icon": {
 			"item": "minecraft:spider_eye"

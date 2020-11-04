@@ -1,0 +1,17 @@
+{
+	"display": {
+		"title": {"text":"Haha health go brr"},
+		"description": {"text":"Play a round with both SilentNothing and Megumin in it."},
+		"icon": {
+			"item": "minecraft:leather_chestplate",
+			"nbt": "{display:{color:7747128}}"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:kitpairs/root",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

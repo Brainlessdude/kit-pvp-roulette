@@ -1,7 +1,7 @@
 {
 	"display": {
 		"title": {"text":"Found the button"},
-		"description": {"text":"Find the button."},
+		"description": {"text":"Find the button.","color": "#FF0000"},
 		"icon": {
 			"item": "minecraft:birch_button"
 		},

@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"E x p a n d e d"},
+		"title": {"text":"E x p a n d e d","color": "#FF0000"},
 		"description": {"text":"Play a round where everyone is Donkey Kong."},
 		"icon": {
 			"item": "minecraft:cocoa_beans"

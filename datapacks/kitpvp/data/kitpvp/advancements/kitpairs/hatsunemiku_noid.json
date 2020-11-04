@@ -1,0 +1,17 @@
+{
+	"display": {
+		"title": {"text":"Domino's App feat. Hatsune Miku"},
+		"description": {"text":"Play a round with both Hatsune Miku and The Noid in it."},
+		"icon": {
+			"item": "minecraft:leather_chestplate",
+			"nbt": "{display:{color:14181748}}"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:kitpairs/root",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"Stal"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;32018824,1677281368,-1228743050,1304964103],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2E4MjExODI3YmJiNDY2MjU3ZGE0NWU2ODg1Njc1MDMyODEzNTAwYzkxYWIwYTMxZDgzN2NlYmIzNjgwMzM2In19fQ==\"}]}}}"
+	},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/palpatine",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

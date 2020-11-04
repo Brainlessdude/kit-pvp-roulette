@@ -1,7 +1,7 @@
 {
 	"display": {
 		"title": {"text":"Have you tried... not dying?"},
-		"description": {"text":"Die 100 times."},
+		"description": {"text":"Die 100 times.","color": "#FF0000"},
 		"icon": {
 			"item": "minecraft:coal"
 		},

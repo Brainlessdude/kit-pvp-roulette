@@ -1,5 +1,5 @@
 {
-	"parent": "kitpvp:arenapairs/themoon",
+	"parent": "kitpvp:arenapairs/basaltdeltas",
 	"criteria": {
 		"welcome": {
 			"trigger": "minecraft:impossible"

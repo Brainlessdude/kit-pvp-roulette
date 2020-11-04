@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"Being level with them"},
+		"title": {"text":"Being level with them","color": "#FF0000"},
 		"description": {"text":"Win a round without looking more than 30 degrees up or down (Starting when you teleport to the arena)"},
 		"icon": {
 			"item": "minecraft:ender_eye"

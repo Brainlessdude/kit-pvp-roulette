@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"Dumbest way to die"},
+		"title": {"text":"Dumbest way to die","color": "#FF0000"},
 		"description": {"text":"Drown."},
 		"icon": {
 			"item": "minecraft:water_bucket"

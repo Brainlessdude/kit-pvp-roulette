@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"Can we just move on already?"},
+		"title": {"text":"Can we just move on already?","color": "#FF0000"},
 		"description": {"text":"Have a round go on for 5 minutes."},
 		"icon": {
 			"item": "minecraft:clock"

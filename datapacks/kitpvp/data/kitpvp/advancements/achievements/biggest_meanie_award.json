@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"BIGGEST MEANIE AWARD"},
+		"title": {"text":"BIGGEST MEANIE AWARD","color": "#FF0000"},
 		"description": {"text":"Take one of my flowers out of their pots like the monster you are."},
 		"icon": {
 			"item": "minecraft:azure_bluet"

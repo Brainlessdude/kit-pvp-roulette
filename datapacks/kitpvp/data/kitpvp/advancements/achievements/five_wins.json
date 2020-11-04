@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"Doin' pretty well"},
+		"title": {"text":"Doin' pretty well","color": "#FF0000"},
 		"description": {"text":"Win 5 rounds."},
 		"icon": {
 			"item": "minecraft:stone_sword"

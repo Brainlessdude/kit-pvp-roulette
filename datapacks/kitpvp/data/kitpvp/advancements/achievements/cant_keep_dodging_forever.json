@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"Can't keep dodging forever"},
+		"title": {"text":"Can't keep dodging forever","color": "#FF0000"},
 		"description": {"text":"Survive for at least one minute in the Sans Fight arena."},
 		"icon": {
 			"item": "minecraft:bone_meal"

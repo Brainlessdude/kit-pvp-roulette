@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"I didn't want to play anyways"},
+		"title": {"text":"I didn't want to play anyways","color": "#FF0000"},
 		"description": {"text":"Die in the first 10 seconds of a round."},
 		"icon": {
 			"item": "minecraft:dead_bush"

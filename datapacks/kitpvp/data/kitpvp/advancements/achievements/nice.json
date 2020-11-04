@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"Nice"},
+		"title": {"text":"Nice","color": "#FF0000"},
 		"description": {"text":"Have both of your rotation values be 69."},
 		"icon": {
 			"item": "minecraft:lead"

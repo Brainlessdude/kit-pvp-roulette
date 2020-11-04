@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": {"text":"If I was green I would die"},
+		"description": {"text":"Play as Sun_Seeker on Player Heads."},
+		"icon": {
+			"item": "minecraft:orange_concrete"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:arenapairs/celestalresort",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

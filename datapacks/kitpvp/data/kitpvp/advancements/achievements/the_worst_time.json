@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"The worst time"},
+		"title": {"text":"The worst time","color": "#FF0000"},
 		"description": {"text":"Play a round where everyone is sans."},
 		"icon": {
 			"item": "minecraft:bone"

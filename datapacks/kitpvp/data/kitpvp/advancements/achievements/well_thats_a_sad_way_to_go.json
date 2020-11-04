@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"Well that's a sad way to go"},
+		"title": {"text":"Well that's a sad way to go","color": "#FF0000"},
 		"description": {"text":"Die while stuck in a cobweb."},
 		"icon": {
 			"item": "minecraft:cobweb"

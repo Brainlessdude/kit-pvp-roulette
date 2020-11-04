@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"SUPER HOT"},
+		"title": {"text":"SUPER HOT","color": "#FF0000"},
 		"description": {"text":"Have a fire value of 500 or more. (Where you'll be burning for 25 seconds)"},
 		"icon": {
 			"item": "minecraft:lava_bucket"

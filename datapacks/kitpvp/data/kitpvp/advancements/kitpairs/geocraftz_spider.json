@@ -1,0 +1,17 @@
+{
+	"display": {
+		"title": {"text":"''AW SNAP THEY CAN CLIMB''"},
+		"description": {"text":"Play a round with both GeoCraftZ and Spider in it."},
+		"icon": {
+			"item": "minecraft:leather_chestplate",
+			"nbt": "{display:{color:2828893}}"
+		},
+		"frame": "task"
+	},
+	"parent": "kitpvp:kitpairs/silentnothing_megumin",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

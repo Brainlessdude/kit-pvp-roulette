@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"...I was serious"},
+		"title": {"text":"...I was serious","color": "#FF0000"},
 		"description": {"text":"Win 100 rounds."},
 		"icon": {
 			"item": "minecraft:netherite_sword"

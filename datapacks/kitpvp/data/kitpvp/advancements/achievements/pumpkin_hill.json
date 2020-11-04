@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"Do do, dododo ditdoditdo, dodo"},
+		"title": {"text":"Do do, dododo ditdoditdo, dodo","color": "#FF0000"},
 		"description": {"text":"Eat a Pumpkin Pie while playing as Knuckles or Shadow."},
 		"icon": {
 			"item": "minecraft:pumpkin_pie"

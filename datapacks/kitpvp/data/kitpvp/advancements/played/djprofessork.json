@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"text":"DJ Professor K"},
+		"description": {"text":""},
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;127658078,1409499975,-1812988949,-466454688],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDYzZWFlNjFmZTliNmNjNTJhN2Y5OWFlNDA3OTk3NWY3OWQxY2IyNzIyNjA1MzA0MDMxZTJjZGU0YWYxMDUzMSJ9fX0=\"}]}}}"
+		},
+        "show_toast": false,
+        "announce_to_chat": false,
+		"frame": "task"
+	},
+	"parent": "kitpvp:played/flandrescarlet",
+	"criteria": {
+		"welcome": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"Yaritai koto wa"},
+		"title": {"text":"Yaritai koto wa","color": "#FF0000"},
 		"description": {"text":"Play a round where all nine μ's members are being played as."},
 		"icon": {
 			"item": "minecraft:pink_dye"

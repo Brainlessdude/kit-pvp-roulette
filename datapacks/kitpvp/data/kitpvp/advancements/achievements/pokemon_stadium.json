@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": {"text":"Pokémon Stadium"},
+		"title": {"text":"Pokémon Stadium","color": "#FF0000"},
 		"description": {"text":"Play a round where everyone is either a Pokémon or Pokémon Trainer."},
 		"icon": {
 			"item": "minecraft:pufferfish_bucket"
